@@ -89,10 +89,10 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
         "3" => {
             // Modo teste (sem batching)
-            match load_phones_from_csv("samsung_phones.csv") {
+            match load_phones_from_csv("samsung_smartphones_recentes.csv") {
                 Ok(phones) => {
-                    let test_phones = if phones.len() > 10 {
-                        &phones[..10]
+                    let test_phones = if phones.len() > 1 {
+                        &phones[..1]
                     } else {
                         &phones
                     };
