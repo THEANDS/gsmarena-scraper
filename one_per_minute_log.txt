@@ -1,0 +1,762 @@
+🚀 INÍCIO DO PROCESSAMENTO (1 POR MINUTO)
+Data: 2025-12-14 23:47:28
+Total de telefones: 253
+============================================================
+🔄 Retomando do telefone 3 de 253
+
+[3/253] 23:47:28 - Galaxy A02
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[4/253] 23:47:28 - Galaxy A02s
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[5/253] 23:47:28 - Galaxy A03
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[6/253] 23:47:28 - Galaxy A03 Core
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[7/253] 23:47:28 - Galaxy A03s
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[8/253] 23:47:28 - Galaxy A04
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[9/253] 23:47:28 - Galaxy A04e
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[10/253] 23:47:28 - Galaxy A04s
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[11/253] 23:47:28 - Galaxy A05
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[12/253] 23:47:28 - Galaxy A05s
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[13/253] 23:47:28 - Galaxy A06
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[14/253] 23:47:28 - Galaxy A06 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[15/253] 23:47:28 - Galaxy A07 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[16/253] 23:47:28 - Galaxy A10
+   ✅ Sucesso - Ratio: 19:9, Área: 95.95 cm²
+
+[17/253] 23:47:28 - Galaxy A10e
+   ✅ Sucesso - Ratio: 19.5:9, Área: 83.43 cm²
+
+[18/253] 23:47:28 - Galaxy A10s
+   ✅ Sucesso - Ratio: 19:9, Área: 95.95 cm²
+
+[19/253] 23:47:28 - Galaxy A11
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[20/253] 23:47:28 - Galaxy A12
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[21/253] 23:47:28 - Galaxy A12 (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[22/253] 23:47:28 - Galaxy A12 Nacho
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[23/253] 23:47:28 - Galaxy A13
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[24/253] 23:47:28 - Galaxy A13 (SM-A137)
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[25/253] 23:47:28 - Galaxy A13 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[26/253] 23:47:28 - Galaxy A14
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[27/253] 23:47:28 - Galaxy A14 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[28/253] 23:47:28 - Galaxy A15
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[29/253] 23:47:28 - Galaxy A15 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[30/253] 23:47:28 - Galaxy A16
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[31/253] 23:47:28 - Galaxy A16 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[32/253] 23:47:28 - Galaxy A17 4G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[33/253] 23:47:28 - Galaxy A17
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[34/253] 23:47:28 - Galaxy A20
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[35/253] 23:47:28 - Galaxy A20e
+   ✅ Sucesso - Ratio: 19.5:9, Área: 82.58 cm²
+
+[36/253] 23:47:28 - Galaxy A20s
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[37/253] 23:47:28 - Galaxy A21
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[38/253] 23:47:28 - Galaxy A21s
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[39/253] 23:47:28 - Galaxy A22
+   ✅ Sucesso - Ratio: 20:9, Área: 98.89 cm²
+
+[40/253] 23:47:28 - Galaxy A22 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[41/253] 23:47:28 - Galaxy A23
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[42/253] 23:47:28 - Galaxy A23 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[43/253] 23:47:28 - Galaxy A24 4G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[44/253] 23:47:28 - Galaxy A25
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[45/253] 23:47:28 - Galaxy A26
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[46/253] 23:47:28 - Galaxy A2 Core
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[47/253] 23:47:28 - Galaxy A3
+   ✅ Sucesso - Ratio: 16:9, Área: 55.82 cm²
+
+[48/253] 23:47:28 - Galaxy A30
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[49/253] 23:47:28 - Galaxy A30s
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[50/253] 23:47:28 - Galaxy A31
+   ✅ Sucesso - Ratio: 20:9, Área: 98.89 cm²
+
+[51/253] 23:47:28 - Galaxy A32
+   ✅ Sucesso - Ratio: 20:9, Área: 98.89 cm²
+
+[52/253] 23:47:28 - Galaxy A32 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[53/253] 23:47:28 - Galaxy A33 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 98.89 cm²
+
+[54/253] 23:47:28 - Galaxy A34
+   ✅ Sucesso - Ratio: 19.5:9, Área: 106.93 cm²
+
+[55/253] 23:47:28 - Galaxy A35
+   ✅ Sucesso - Ratio: 19.5:9, Área: 106.93 cm²
+
+[56/253] 23:47:28 - Galaxy A36
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[57/253] 23:47:28 - Galaxy A3 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[58/253] 23:47:28 - Galaxy A3 (2017)
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[59/253] 23:47:28 - Galaxy A3 Duos
+   ✅ Sucesso - Ratio: 16:9, Área: 55.82 cm²
+
+[60/253] 23:47:28 - Galaxy A40
+   ✅ Sucesso - Ratio: 19.5:9, Área: 85.45 cm²
+
+[61/253] 23:47:28 - Galaxy A41
+   ✅ Sucesso - Ratio: 20:9, Área: 89.84 cm²
+
+[62/253] 23:47:28 - Galaxy A42 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[63/253] 23:47:28 - Galaxy A5
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[64/253] 23:47:28 - Galaxy A50
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[65/253] 23:47:28 - Galaxy A50s
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[66/253] 23:47:28 - Galaxy A51
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[67/253] 23:47:28 - Galaxy A51 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[68/253] 23:47:28 - Galaxy A51 5G UW
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[69/253] 23:47:28 - Galaxy A52
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[70/253] 23:47:28 - Galaxy A52 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[71/253] 23:47:28 - Galaxy A52s 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[72/253] 23:47:28 - Galaxy A53 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[73/253] 23:47:28 - Galaxy A54
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[74/253] 23:47:28 - Galaxy A55
+   ✅ Sucesso - Ratio: 19.5:9, Área: 106.93 cm²
+
+[75/253] 23:47:28 - Galaxy A56
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[76/253] 23:47:28 - Galaxy A5 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 74.54 cm²
+
+[77/253] 23:47:28 - Galaxy A5 (2017)
+   ✅ Sucesso - Ratio: 16:9, Área: 74.54 cm²
+
+[78/253] 23:47:28 - Galaxy A5 Duos
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[79/253] 23:47:28 - Galaxy A6+ (2018)
+   ✅ Sucesso - Ratio: 18.5:9, Área: 91.37 cm²
+
+[80/253] 23:47:28 - Galaxy A60
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[81/253] 23:47:28 - Galaxy A6 (2018)
+   ✅ Sucesso - Ratio: 18.5:9, Área: 79.59 cm²
+
+[82/253] 23:47:28 - Galaxy A6s
+   ✅ Sucesso - Ratio: 18:9, Área: 92.90 cm²
+
+[83/253] 23:47:28 - Galaxy A7
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[84/253] 23:47:28 - Galaxy A70
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[85/253] 23:47:28 - Galaxy A70s
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[86/253] 23:47:28 - Galaxy A71
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[87/253] 23:47:28 - Galaxy A71 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[88/253] 23:47:28 - Galaxy A71 5G UW
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[89/253] 23:47:28 - Galaxy A72
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[90/253] 23:47:28 - Galaxy A73 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[91/253] 23:47:28 - Galaxy A7 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[92/253] 23:47:28 - Galaxy A7 (2017)
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[93/253] 23:47:28 - Galaxy A7 (2018)
+   ✅ Sucesso - Ratio: 18.5:9, Área: 91.37 cm²
+
+[94/253] 23:47:28 - Galaxy A7 Duos
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[95/253] 23:47:28 - Galaxy A8+ (2018)
+   ✅ Sucesso - Ratio: 18.5:9, Área: 91.37 cm²
+
+[96/253] 23:47:28 - Galaxy A8
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[97/253] 23:47:28 - Galaxy A80
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[98/253] 23:47:28 - Galaxy A8 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[99/253] 23:47:28 - Galaxy A8 (2018)
+   ✅ Sucesso - Ratio: 18.5:9, Área: 79.59 cm²
+
+[100/253] 23:47:28 - Galaxy A8 Duos
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[101/253] 23:47:28 - Galaxy A8 Star (A9 Star)
+   ✅ Sucesso - Ratio: 18.5:9, Área: 100.73 cm²
+
+[102/253] 23:47:28 - Galaxy A8s
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[103/253] 23:47:28 - Galaxy A90 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[104/253] 23:47:28 - Galaxy A9 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 99.24 cm²
+
+[105/253] 23:47:28 - Galaxy A9 (2018)
+   ✅ Sucesso - Ratio: 18.5:9, Área: 100.73 cm²
+
+[106/253] 23:47:28 - Galaxy A9 Pro (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 99.24 cm²
+
+[107/253] 23:47:28 - Galaxy A Quantum
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[108/253] 23:47:28 - Galaxy F02s
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[109/253] 23:47:28 - Galaxy F04
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[110/253] 23:47:28 - Galaxy F05
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[111/253] 23:47:28 - Galaxy F06 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[112/253] 23:47:28 - Galaxy F07
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[113/253] 23:47:28 - Galaxy F12
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[114/253] 23:47:28 - Galaxy F13
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[115/253] 23:47:28 - Galaxy F14
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[116/253] 23:47:28 - Galaxy F14 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[117/253] 23:47:28 - Galaxy F15
+   ✅ Sucesso - Ratio: 19.5:9, Área: 106.93 cm²
+
+[118/253] 23:47:28 - Galaxy F16
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[119/253] 23:47:28 - Galaxy F17
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[120/253] 23:47:28 - Galaxy F22
+   ✅ Sucesso - Ratio: 20:9, Área: 98.89 cm²
+
+[121/253] 23:47:28 - Galaxy F23
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[122/253] 23:47:28 - Galaxy F34
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[123/253] 23:47:28 - Galaxy F36
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[124/253] 23:47:28 - Galaxy F41
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[125/253] 23:47:28 - Galaxy F42 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[126/253] 23:47:28 - Galaxy F52 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[127/253] 23:47:28 - Galaxy F54
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[128/253] 23:47:28 - Galaxy F55
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[129/253] 23:47:28 - Galaxy F56
+   ✅ Sucesso - Ratio: 19.5:9, Área: 111.51 cm²
+
+[130/253] 23:47:28 - Galaxy F62
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[131/253] 23:47:28 - Galaxy Fold
+   ✅ Sucesso - Ratio: 21:9, Área: 124.48 cm²
+
+[132/253] 23:47:28 - Galaxy Fold 5G
+   ✅ Sucesso - Ratio: 21:9, Área: 124.48 cm²
+
+[133/253] 23:47:28 - Galaxy Folder
+   ✅ Sucesso - Ratio: 5:3, Área: 41.10 cm²
+
+[134/253] 23:47:28 - Galaxy Folder2
+   ✅ Sucesso - Ratio: 5:3, Área: 41.10 cm²
+
+[135/253] 23:47:28 - Galaxy J1
+   ✅ Sucesso - Ratio: 5:3, Área: 52.63 cm²
+
+[136/253] 23:47:28 - Galaxy J1 (2016)
+   ✅ Sucesso - Ratio: 5:3, Área: 57.64 cm²
+
+[137/253] 23:47:28 - Galaxy J1 4G
+   ✅ Sucesso - Ratio: 5:3, Área: 52.63 cm²
+
+[138/253] 23:47:28 - Galaxy J1 Ace
+   ✅ Sucesso - Ratio: 5:3, Área: 52.63 cm²
+
+[139/253] 23:47:28 - Galaxy J1 mini prime
+   ✅ Sucesso - Ratio: 5:3, Área: 45.54 cm²
+
+[140/253] 23:47:28 - Galaxy J1 Nxt
+   ✅ Sucesso - Ratio: 5:3, Área: 45.54 cm²
+
+[141/253] 23:47:28 - Galaxy J2
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[142/253] 23:47:28 - Galaxy J2 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[143/253] 23:47:28 - Galaxy J2 (2017)
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[144/253] 23:47:28 - Galaxy J2 Core
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[145/253] 23:47:28 - Galaxy J2 Core (2020)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[146/253] 23:47:28 - Galaxy J2 Prime
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[147/253] 23:47:28 - Galaxy J2 Pro (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[148/253] 23:47:28 - Galaxy J2 Pro (2018)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[149/253] 23:47:28 - Galaxy J3 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[150/253] 23:47:28 - Galaxy J3 (2017)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[151/253] 23:47:28 - Galaxy J3 (2018)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[152/253] 23:47:28 - Galaxy J3 Emerge
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[153/253] 23:47:28 - Galaxy J3 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[154/253] 23:47:28 - Galaxy J4+
+   ✅ Sucesso - Ratio: 18.5:9, Área: 91.37 cm²
+
+[155/253] 23:47:28 - Galaxy J4
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[156/253] 23:47:28 - Galaxy J4 Core
+   ✅ Sucesso - Ratio: 18.5:9, Área: 91.37 cm²
+
+[157/253] 23:47:28 - Galaxy J5
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[158/253] 23:47:28 - Galaxy J5 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 74.54 cm²
+
+[159/253] 23:47:28 - Galaxy J5 (2017)
+   ✅ Sucesso - Ratio: 16:9, Área: 74.54 cm²
+
+[160/253] 23:47:28 - Galaxy J5 Prime
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[161/253] 23:47:28 - Galaxy J6+
+   ✅ Sucesso - Ratio: 18.5:9, Área: 91.37 cm²
+
+[162/253] 23:47:28 - Galaxy J6
+   ✅ Sucesso - Ratio: 18.5:9, Área: 79.59 cm²
+
+[163/253] 23:47:28 - Galaxy J7
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[164/253] 23:47:28 - Galaxy J7 (2016)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[165/253] 23:47:28 - Galaxy J7 (2017)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[166/253] 23:47:28 - Galaxy J7 (2018)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[167/253] 23:47:28 - Galaxy J7 Duo
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[168/253] 23:47:28 - Galaxy J7 Max
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[169/253] 23:47:28 - Galaxy J7 Nxt
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[170/253] 23:47:28 - Galaxy J7 Prime
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[171/253] 23:47:28 - Galaxy J7 Prime 2
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[172/253] 23:47:28 - Galaxy J7 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[173/253] 23:47:28 - Galaxy J7 V
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[174/253] 23:47:28 - Galaxy J8
+   ✅ Sucesso - Ratio: 18.5:9, Área: 91.37 cm²
+
+[175/253] 23:47:28 - Galaxy J Max
+   ✅ Sucesso - Ratio: 16:10, Área: 142.08 cm²
+
+[176/253] 23:47:28 - Galaxy M01
+   ✅ Sucesso - Ratio: 19:9, Área: 81.09 cm²
+
+[177/253] 23:47:28 - Galaxy M01 Core
+   ✅ Sucesso - Ratio: 18.5:9, Área: 71.29 cm²
+
+[178/253] 23:47:28 - Galaxy M01s
+   ✅ Sucesso - Ratio: 19:9, Área: 95.95 cm²
+
+[179/253] 23:47:28 - Galaxy M02
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[180/253] 23:47:28 - Galaxy M02s
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[181/253] 23:47:28 - Galaxy M04
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[182/253] 23:47:28 - Galaxy M05
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[183/253] 23:47:28 - Galaxy M06
+   ✅ Sucesso - Ratio: 20:9, Área: 109.68 cm²
+
+[184/253] 23:47:28 - Galaxy M07
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[185/253] 23:47:28 - Galaxy M10
+   ✅ Sucesso - Ratio: 19:9, Área: 96.57 cm²
+
+[186/253] 23:47:28 - Galaxy M10s
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[187/253] 23:47:28 - Galaxy M11
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[188/253] 23:47:28 - Galaxy M12
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[189/253] 23:47:28 - Galaxy M12 (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[190/253] 23:47:28 - Galaxy M13
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[191/253] 23:47:28 - Galaxy M13 (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[192/253] 23:47:28 - Galaxy M13 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[193/253] 23:47:28 - Galaxy M14
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[194/253] 23:47:28 - Galaxy M14 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[195/253] 23:47:28 - Galaxy M15
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[196/253] 23:47:28 - Galaxy M16
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[197/253] 23:47:28 - Galaxy M17
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[198/253] 23:47:28 - Galaxy M20
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[199/253] 23:47:28 - Galaxy M21
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[200/253] 23:47:28 - Galaxy M21 2021
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[201/253] 23:47:28 - Galaxy M21s
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[202/253] 23:47:28 - Galaxy M22
+   ✅ Sucesso - Ratio: 20:9, Área: 98.89 cm²
+
+[203/253] 23:47:28 - Galaxy M23
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[204/253] 23:47:28 - Galaxy M30
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[205/253] 23:47:28 - Galaxy M30s
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[206/253] 23:47:28 - Galaxy M31
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[207/253] 23:47:28 - Galaxy M31 Prime
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.55 cm²
+
+[208/253] 23:47:28 - Galaxy M31s
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[209/253] 23:47:28 - Galaxy M32
+   ✅ Sucesso - Ratio: 20:9, Área: 98.89 cm²
+
+[210/253] 23:47:28 - Galaxy M32 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[211/253] 23:47:28 - Galaxy M33
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[212/253] 23:47:28 - Galaxy M34 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[213/253] 23:47:28 - Galaxy M35
+   ✅ Sucesso - Ratio: 19.5:9, Área: 106.93 cm²
+
+[214/253] 23:47:28 - Galaxy M36
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[215/253] 23:47:28 - Galaxy M40
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[216/253] 23:47:28 - Galaxy M42 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[217/253] 23:47:28 - Galaxy M51
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[218/253] 23:47:28 - Galaxy M52 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[219/253] 23:47:28 - Galaxy M53
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[220/253] 23:47:28 - Galaxy M54
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[221/253] 23:47:28 - Galaxy M55
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[222/253] 23:47:28 - Galaxy M55s
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[223/253] 23:47:28 - Galaxy M56
+   ✅ Sucesso - Ratio: 19.5:9, Área: 111.51 cm²
+
+[224/253] 23:47:28 - Galaxy M62
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[225/253] 23:47:28 - Galaxy S10+
+   ✅ Sucesso - Ratio: 19:9, Área: 102.24 cm²
+
+[226/253] 23:47:28 - Galaxy S10
+   ✅ Sucesso - Ratio: 19:9, Área: 92.88 cm²
+
+[227/253] 23:47:28 - Galaxy S10 5G
+   ✅ Sucesso - Ratio: 19:9, Área: 112.04 cm²
+
+[228/253] 23:47:28 - Galaxy S10 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[229/253] 23:47:28 - Galaxy S10e
+   ✅ Sucesso - Ratio: 19:9, Área: 83.96 cm²
+
+[230/253] 23:47:28 - Galaxy S6
+   ✅ Sucesso - Ratio: 16:9, Área: 71.70 cm²
+
+[231/253] 23:47:28 - Galaxy S6 (USA)
+   ✅ Sucesso - Ratio: 16:9, Área: 71.70 cm²
+
+[232/253] 23:47:28 - Galaxy S6 Duos
+   ✅ Sucesso - Ratio: 16:9, Área: 71.70 cm²
+
+[233/253] 23:47:28 - Galaxy S6 edge+
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[234/253] 23:47:28 - Galaxy S6 edge+ (USA)
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[235/253] 23:47:28 - Galaxy S6 edge+ Duos
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[236/253] 23:47:28 - Galaxy S6 edge
+   ✅ Sucesso - Ratio: 16:9, Área: 71.70 cm²
+
+[237/253] 23:47:28 - Galaxy S6 edge (USA)
+   ✅ Sucesso - Ratio: 16:9, Área: 71.70 cm²
+
+[238/253] 23:47:28 - Galaxy S7
+   ✅ Sucesso - Ratio: 16:9, Área: 71.70 cm²
+
+[239/253] 23:47:28 - Galaxy S7 (USA)
+   ✅ Sucesso - Ratio: 16:9, Área: 71.70 cm²
+
+[240/253] 23:47:28 - Galaxy S7 edge
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[241/253] 23:47:28 - Galaxy S7 edge (USA)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[242/253] 23:47:28 - Galaxy S8+
+   ✅ Sucesso - Ratio: 18.5:9, Área: 97.56 cm²
+
+[243/253] 23:47:28 - Galaxy S8
+   ✅ Sucesso - Ratio: 18.5:9, Área: 85.38 cm²
+
+[244/253] 23:47:28 - Galaxy S9+
+   ✅ Sucesso - Ratio: 18.5:9, Área: 97.56 cm²
+
+[245/253] 23:47:28 - Galaxy S9
+   ✅ Sucesso - Ratio: 18.5:9, Área: 85.38 cm²
+
+[246/253] 23:47:28 - Galaxy S Light Luxury
+   ✅ Sucesso - Ratio: 18.5:9, Área: 85.38 cm²
+
+[247/253] 23:47:28 - Guru Plus
+   ✅ Sucesso - Ratio: 1:1, Área: 7.26 cm²
+
+[248/253] 23:47:28 - Metro 360
+   ✅ Sucesso - Ratio: 4:3, Área: 17.84 cm²
+
+[249/253] 23:47:28 - Z1
+   ✅ Sucesso - Ratio: 5:3, Área: 45.54 cm²
+
+[250/253] 23:47:28 - Z2
+   ✅ Sucesso - Ratio: 5:3, Área: 45.54 cm²
+
+[251/253] 23:47:28 - Z3
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[252/253] 23:47:28 - Z3 Corporate
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[253/253] 23:47:28 - Z4
+   ✅ Sucesso - Ratio: 5:3, Área: 57.64 cm²
+
+============================================================
+Sucessos: 251, Falhas: 0
+Taxa de sucesso: 99.2%

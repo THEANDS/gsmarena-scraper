@@ -1,3 +1,4 @@
+use chrono::Local;
 use reqwest::blocking::Client;
 use select::document::Document;
 use select::predicate::{Name, Class, Predicate};
@@ -5,7 +6,7 @@ use std::collections::HashSet;
 use std::thread;
 use std::time::{Duration, Instant};
 use regex::Regex;
-use std::fs::{File};
+use std::fs::{File, OpenOptions};
 use std::io::Write;
 
 use crate::models::{Phone, PhoneDetails};
@@ -629,6 +630,163 @@ fn extract_ppi(&self, text: &str) -> String {
         
         println!("   ⏳ Delay: {}ms", total_delay);
         thread::sleep(Duration::from_millis(total_delay));
+    }
+
+      
+    pub fn scrape_one_per_minute(&self, phones: &[Phone]) -> Result<Vec<PhoneDetails>, Box<dyn std::error::Error>> {
+        println!("📱 Iniciando extração (1 por minuto)...");
+        println!("📊 Total de telefones: {}", phones.len());
+        println!("⏰ Configuração: 1 requisição por minuto");
+        
+        let mut all_details = Vec::new();
+        let total = phones.len();
+        let current_time = Local::now();
+        
+        // Carregar progresso se existir
+        let progress_file = "one_per_minute_progress.json";
+        let results_file = "one_per_minute_results.csv";
+        let mut start_index = 0;
+        
+        // Criar ou abrir arquivo de resultados
+        let mut results_writer = if std::path::Path::new(results_file).exists() {
+            OpenOptions::new()
+                .append(true)
+                .open(results_file)?
+        } else {
+            let mut file = File::create(results_file)?;
+            // Escrever cabeçalho
+            writeln!(file, "ID,Modelo,URL,Ratio,Area_cm2,Resolução,Tamanho,PPI,Status,Extraído_em")?;
+            file
+        };
+        
+        // Criar arquivo de log
+        let mut log_file = File::create("one_per_minute_log.txt")?;
+        writeln!(log_file, "🚀 INÍCIO DO PROCESSAMENTO (1 POR MINUTO)")?;
+        writeln!(log_file, "Data: {}", Local::now().format("%Y-%m-%d %H:%M:%S"))?;
+        writeln!(log_file, "Total de telefones: {}", total)?;
+        writeln!(log_file, "{}", "=".repeat(60))?;
+        
+        if std::path::Path::new(progress_file).exists() {
+            if let Ok(progress) = std::fs::read_to_string(progress_file) {
+                if let Ok(last_index) = progress.trim().parse::<usize>() {
+                    start_index = last_index;
+                    println!("🔄 Continuando do telefone {} de {}", start_index + 1, total);
+                    writeln!(log_file, "🔄 Retomando do telefone {} de {}", start_index + 1, total)?;
+                }
+            }
+        }
+        
+        let mut successful_count = 0;
+        let mut failed_count = 0;
+        
+        for (index, phone) in phones.iter().enumerate().skip(start_index) {
+            let current = index + 1;
+
+            
+            println!("\n═══════════════════════════════════════════════════");
+            println!("⏰ [{}/{}] HORA: {}", current, total, current_time.format("%H:%M:%S"));
+            println!("📱 PROCESSANDO: {}", phone.model);
+            println!("📍 URL: {}", phone.url);
+            
+            // Registrar no log
+            writeln!(log_file, "\n[{}/{}] {} - {}", 
+                current, total, current_time.format("%H:%M:%S"), phone.model)?;
+            
+            let detail = self.scrape_single_phone_with_retry(phone)?;
+            all_details.push(detail.clone());
+            
+            // SALVAR CADA RESULTADO IMEDIATAMENTE
+            self.save_single_result(&detail, &mut results_writer)?;
+            
+            // Atualizar contadores
+            if detail.has_display_info() {
+                successful_count += 1;
+                writeln!(log_file, "   ✅ Sucesso - Ratio: {}, Área: {} cm²", 
+                    detail.display_ratio.as_deref().unwrap_or("N/A"),
+                    detail.display_area_cm2.as_deref().unwrap_or("N/A"))?;
+            } else {
+                failed_count += 1;
+                if let Some(error) = &detail.error_message {
+                    writeln!(log_file, "   ❌ Falha: {}", error)?;
+                } else {
+                    writeln!(log_file, "   ❌ Falha: Informações não encontradas")?;
+                }
+            }
+            
+            // Salvar progresso
+            if let Ok(mut file) = File::create(progress_file) {
+                writeln!(file, "{}", index)?;
+            }
+            
+            // Mostrar estatísticas
+            println!("📊 PROGRESSO: {}/{} ({}✅ {}❌)", current, total, successful_count, failed_count);
+            
+            // Calcular tempo restante
+            let remaining = total - current;
+            if remaining > 0 {
+                let remaining_minutes = remaining;
+                let remaining_hours = remaining_minutes as f32 / 60.0;
+                
+                println!("⏳ Tempo restante: {} minutos ({:.1} horas)", remaining_minutes, remaining_hours);
+                
+                // DELAY DE 1 MINUTO
+                println!("\n⏸️  AGUARDANDO 1 MINUTO PARA PRÓXIMO...");
+                
+                // Contagem regressiva
+                self.countdown_one_minute();
+            }
+        }
+        
+        // Finalizar e salvar resumo
+        writeln!(log_file, "\n{}", "=".repeat(60))?;
+        writeln!(log_file, "Sucessos: {}, Falhas: {}", successful_count, failed_count)?;
+        writeln!(log_file, "Taxa de sucesso: {:.1}%", 
+                (successful_count as f32 / total as f32) * 100.0)?;
+        
+        // Limpar arquivo de progresso
+        let _ = std::fs::remove_file(progress_file);
+        
+        println!("\n✅ Processamento concluído!");
+        println!("📁 Resultados salvos em: {}", results_file);
+        println!("📝 Log salvo em: one_per_minute_log.txt");
+        println!("📊 RESUMO: {}✅ {}❌ ({:.1}% sucesso)", 
+                successful_count, failed_count,
+                (successful_count as f32 / total as f32) * 100.0);
+        
+        Ok(all_details)
+    }
+    
+    // Nova função para salvar cada resultado individualmente
+    fn save_single_result(&self, detail: &PhoneDetails, writer: &mut File) -> Result<(), Box<dyn std::error::Error>> {
+        let timestamp = Local::now().format("%Y-%m-%d %H:%M:%S");
+        
+        writeln!(writer, "{},\"{}\",{},{},{},{},{},{},{},{}",
+            detail.phone_id,
+            detail.model.replace("\"", "\"\""),
+            detail.url,
+            detail.display_ratio.as_deref().unwrap_or("N/A"),
+            detail.display_area_cm2.as_deref().unwrap_or("N/A"),
+            detail.resolution.as_deref().unwrap_or("N/A"),
+            detail.screen_size.as_deref().unwrap_or("N/A"),
+            detail.ppi.as_deref().unwrap_or("N/A"),
+            if detail.has_display_info() { "SUCCESS" } else { "FAILED" },
+            timestamp
+        )?;
+        
+        writer.flush()?; // Forçar escrita imediata
+        Ok(())
+    }
+    
+    // Contagem regressiva de 1 minuto
+    fn countdown_one_minute(&self) {
+        for second in (1..=60).rev() {
+            if second % 10 == 0 || second <= 5 {
+                print!("\r   ⏱️  Próximo em {:02} segundos", second);
+                std::io::stdout().flush().unwrap();
+            }
+            thread::sleep(Duration::from_secs(1));
+        }
+        println!("\r   ✅ Próximo processamento!                    ");
     }
    
 }

@@ -1,0 +1,2517 @@
+DETALHES DE DISPLAY - SMARTPHONES SAMSUNG
+=========================================
+
+RESUMO:
+  • Completos: 251
+  • Falhos: 0
+
+ID: 3
+Modelo: Galaxy A02
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a02-10708.php
+Status HTTP: 200
+---
+ID: 4
+Modelo: Galaxy A02s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a02s-10603.php
+Status HTTP: 200
+---
+ID: 5
+Modelo: Galaxy A03
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a03-11244.php
+Status HTTP: 200
+---
+ID: 6
+Modelo: Galaxy A03 Core
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a03_core-11215.php
+Status HTTP: 200
+---
+ID: 7
+Modelo: Galaxy A03s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a03s-10937.php
+Status HTTP: 200
+---
+ID: 8
+Modelo: Galaxy A04
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a04-11817.php
+Status HTTP: 200
+---
+ID: 9
+Modelo: Galaxy A04e
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a04e-11945.php
+Status HTTP: 200
+---
+ID: 10
+Modelo: Galaxy A04s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a04s-11803.php
+Status HTTP: 200
+---
+ID: 11
+Modelo: Galaxy A05
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a05-12583.php
+Status HTTP: 200
+---
+ID: 12
+Modelo: Galaxy A05s
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a05s-12584.php
+Status HTTP: 200
+---
+ID: 13
+Modelo: Galaxy A06
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a06-13265.php
+Status HTTP: 200
+---
+ID: 14
+Modelo: Galaxy A06 5G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a06_5g-13662.php
+Status HTTP: 200
+---
+ID: 15
+Modelo: Galaxy A07 4G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a07-14066.php
+Status HTTP: 200
+---
+ID: 16
+Modelo: Galaxy A10
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 720x1520
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a10-9580.php
+Status HTTP: 200
+---
+ID: 17
+Modelo: Galaxy A10e
+Ratio: 19.5:9
+Área: 83.43 cm²
+Resolução: 720x1560
+Tamanho: 5.83"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a10e-9790.php
+Status HTTP: 200
+---
+ID: 18
+Modelo: Galaxy A10s
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 720x1520
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a10s-9793.php
+Status HTTP: 200
+---
+ID: 19
+Modelo: Galaxy A11
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 720x1560
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a11-10132.php
+Status HTTP: 200
+---
+ID: 20
+Modelo: Galaxy A12
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a12-10604.php
+Status HTTP: 200
+---
+ID: 21
+Modelo: Galaxy A12 (India)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a12_(india)-11087.php
+Status HTTP: 200
+---
+ID: 22
+Modelo: Galaxy A12 Nacho
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a12_nacho-11041.php
+Status HTTP: 200
+---
+ID: 23
+Modelo: Galaxy A13
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a13-11402.php
+Status HTTP: 200
+---
+ID: 24
+Modelo: Galaxy A13 (SM-A137)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a13_(sm_a137)-11665.php
+Status HTTP: 200
+---
+ID: 25
+Modelo: Galaxy A13 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a13_5g-11149.php
+Status HTTP: 200
+---
+ID: 26
+Modelo: Galaxy A14
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a14-12151.php
+Status HTTP: 200
+---
+ID: 27
+Modelo: Galaxy A14 5G
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a14_5g-12004.php
+Status HTTP: 200
+---
+ID: 28
+Modelo: Galaxy A15
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a15-12637.php
+Status HTTP: 200
+---
+ID: 29
+Modelo: Galaxy A15 5G
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a15_5g-12638.php
+Status HTTP: 200
+---
+ID: 30
+Modelo: Galaxy A16
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a16-13383.php
+Status HTTP: 200
+---
+ID: 31
+Modelo: Galaxy A16 5G
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a16_5g-13346.php
+Status HTTP: 200
+---
+ID: 32
+Modelo: Galaxy A17 4G
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a17-14157.php
+Status HTTP: 200
+---
+ID: 33
+Modelo: Galaxy A17
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a17_5g-14041.php
+Status HTTP: 200
+---
+ID: 34
+Modelo: Galaxy A20
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 720x1560
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a20-9640.php
+Status HTTP: 200
+---
+ID: 35
+Modelo: Galaxy A20e
+Ratio: 19.5:9
+Área: 82.58 cm²
+Resolução: 720x1560
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a20e-9661.php
+Status HTTP: 200
+---
+ID: 36
+Modelo: Galaxy A20s
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 720x1560
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a20s-9852.php
+Status HTTP: 200
+---
+ID: 37
+Modelo: Galaxy A21
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a21-10172.php
+Status HTTP: 200
+---
+ID: 38
+Modelo: Galaxy A21s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a21s-10239.php
+Status HTTP: 200
+---
+ID: 39
+Modelo: Galaxy A22
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 720x1600
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a22-10948.php
+Status HTTP: 200
+---
+ID: 40
+Modelo: Galaxy A22 5G
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a22_5g-10873.php
+Status HTTP: 200
+---
+ID: 41
+Modelo: Galaxy A23
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a23-11373.php
+Status HTTP: 200
+---
+ID: 42
+Modelo: Galaxy A23 5G
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a23_5g-11736.php
+Status HTTP: 200
+---
+ID: 43
+Modelo: Galaxy A24 4G
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a24_4g-12176.php
+Status HTTP: 200
+---
+ID: 44
+Modelo: Galaxy A25
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a25-12555.php
+Status HTTP: 200
+---
+ID: 45
+Modelo: Galaxy A26
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a26-13679.php
+Status HTTP: 200
+---
+ID: 46
+Modelo: Galaxy A2 Core
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 540x960
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a2_core-9636.php
+Status HTTP: 200
+---
+ID: 47
+Modelo: Galaxy A3
+Ratio: 16:9
+Área: 55.82 cm²
+Resolução: 540x960
+Tamanho: 4.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a3-6762.php
+Status HTTP: 200
+---
+ID: 48
+Modelo: Galaxy A30
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a30-9579.php
+Status HTTP: 200
+---
+ID: 49
+Modelo: Galaxy A30s
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 720x1560
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a30s-9796.php
+Status HTTP: 200
+---
+ID: 50
+Modelo: Galaxy A31
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a31-10149.php
+Status HTTP: 200
+---
+ID: 51
+Modelo: Galaxy A32
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a32-10753.php
+Status HTTP: 200
+---
+ID: 52
+Modelo: Galaxy A32 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a32_5g-10648.php
+Status HTTP: 200
+---
+ID: 53
+Modelo: Galaxy A33 5G
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a33_5g-11429.php
+Status HTTP: 200
+---
+ID: 54
+Modelo: Galaxy A34
+Ratio: 19.5:9
+Área: 106.93 cm²
+Resolução: 1080x2340
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a34-12074.php
+Status HTTP: 200
+---
+ID: 55
+Modelo: Galaxy A35
+Ratio: 19.5:9
+Área: 106.93 cm²
+Resolução: 1080x2340
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a35-12705.php
+Status HTTP: 200
+---
+ID: 56
+Modelo: Galaxy A36
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a36-13497.php
+Status HTTP: 200
+---
+ID: 57
+Modelo: Galaxy A3 (2016)
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 720x1280
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a3_(2016)-7791.php
+Status HTTP: 200
+---
+ID: 58
+Modelo: Galaxy A3 (2017)
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 720x1280
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a3_(2017)-8336.php
+Status HTTP: 200
+---
+ID: 59
+Modelo: Galaxy A3 Duos
+Ratio: 16:9
+Área: 55.82 cm²
+Resolução: 540x960
+Tamanho: 4.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a3_duos-6803.php
+Status HTTP: 200
+---
+ID: 60
+Modelo: Galaxy A40
+Ratio: 19.5:9
+Área: 85.45 cm²
+Resolução: 1080x2340
+Tamanho: 5.9"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a40-9642.php
+Status HTTP: 200
+---
+ID: 61
+Modelo: Galaxy A41
+Ratio: 20:9
+Área: 89.84 cm²
+Resolução: 1080x2400
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a41-10138.php
+Status HTTP: 200
+---
+ID: 62
+Modelo: Galaxy A42 5G
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 720x1600
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a42_5g-10412.php
+Status HTTP: 200
+---
+ID: 63
+Modelo: Galaxy A5
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a5-6761.php
+Status HTTP: 200
+---
+ID: 64
+Modelo: Galaxy A50
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a50-9554.php
+Status HTTP: 200
+---
+ID: 65
+Modelo: Galaxy A50s
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a50s-9806.php
+Status HTTP: 200
+---
+ID: 66
+Modelo: Galaxy A51
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a51-9963.php
+Status HTTP: 200
+---
+ID: 67
+Modelo: Galaxy A51 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a51_5g-10157.php
+Status HTTP: 200
+---
+ID: 68
+Modelo: Galaxy A51 5G UW
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a51_5g_uw-10371.php
+Status HTTP: 200
+---
+ID: 69
+Modelo: Galaxy A52
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a52-10641.php
+Status HTTP: 200
+---
+ID: 70
+Modelo: Galaxy A52 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a52_5g-10631.php
+Status HTTP: 200
+---
+ID: 71
+Modelo: Galaxy A52s 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a52s_5g-11039.php
+Status HTTP: 200
+---
+ID: 72
+Modelo: Galaxy A53 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a53_5g-11268.php
+Status HTTP: 200
+---
+ID: 73
+Modelo: Galaxy A54
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a54-12070.php
+Status HTTP: 200
+---
+ID: 74
+Modelo: Galaxy A55
+Ratio: 19.5:9
+Área: 106.93 cm²
+Resolução: 1080x2340
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a55-12824.php
+Status HTTP: 200
+---
+ID: 75
+Modelo: Galaxy A56
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a56-13603.php
+Status HTTP: 200
+---
+ID: 76
+Modelo: Galaxy A5 (2016)
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 1080x1920
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a5_(2016)-7789.php
+Status HTTP: 200
+---
+ID: 77
+Modelo: Galaxy A5 (2017)
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 1080x1920
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a5_(2017)-8494.php
+Status HTTP: 200
+---
+ID: 78
+Modelo: Galaxy A5 Duos
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a5_duos-6802.php
+Status HTTP: 200
+---
+ID: 79
+Modelo: Galaxy A6+ (2018)
+Ratio: 18.5:9
+Área: 91.37 cm²
+Resolução: 1080x2220
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a6+_(2018)-9156.php
+Status HTTP: 200
+---
+ID: 80
+Modelo: Galaxy A60
+Ratio: 19.5:9
+Área: 97.43 cm²
+Resolução: 1080x2340
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a60-9616.php
+Status HTTP: 200
+---
+ID: 81
+Modelo: Galaxy A6 (2018)
+Ratio: 18.5:9
+Área: 79.59 cm²
+Resolução: 720x1480
+Tamanho: 5.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a6_(2018)-9155.php
+Status HTTP: 200
+---
+ID: 82
+Modelo: Galaxy A6s
+Ratio: 18:9
+Área: 92.90 cm²
+Resolução: 1080x2160
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a6s-9352.php
+Status HTTP: 200
+---
+ID: 83
+Modelo: Galaxy A7
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a7-6763.php
+Status HTTP: 200
+---
+ID: 84
+Modelo: Galaxy A70
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a70-9646.php
+Status HTTP: 200
+---
+ID: 85
+Modelo: Galaxy A70s
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a70s-9899.php
+Status HTTP: 200
+---
+ID: 86
+Modelo: Galaxy A71
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a71-9995.php
+Status HTTP: 200
+---
+ID: 87
+Modelo: Galaxy A71 5G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a71_5g-10146.php
+Status HTTP: 200
+---
+ID: 88
+Modelo: Galaxy A71 5G UW
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a71_5g_uw-10276.php
+Status HTTP: 200
+---
+ID: 89
+Modelo: Galaxy A72
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a72-10469.php
+Status HTTP: 200
+---
+ID: 90
+Modelo: Galaxy A73 5G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a73_5g-11257.php
+Status HTTP: 200
+---
+ID: 91
+Modelo: Galaxy A7 (2016)
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a7_(2016)-7759.php
+Status HTTP: 200
+---
+ID: 92
+Modelo: Galaxy A7 (2017)
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1080x1920
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a7_(2017)-8335.php
+Status HTTP: 200
+---
+ID: 93
+Modelo: Galaxy A7 (2018)
+Ratio: 18.5:9
+Área: 91.37 cm²
+Resolução: 1080x2220
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a7_(2018)-9340.php
+Status HTTP: 200
+---
+ID: 94
+Modelo: Galaxy A7 Duos
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a7_duos-7132.php
+Status HTTP: 200
+---
+ID: 95
+Modelo: Galaxy A8+ (2018)
+Ratio: 18.5:9
+Área: 91.37 cm²
+Resolução: 1080x2220
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a8+_(2018)-8790.php
+Status HTTP: 200
+---
+ID: 96
+Modelo: Galaxy A8
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1080x1920
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a8-7249.php
+Status HTTP: 200
+---
+ID: 97
+Modelo: Galaxy A80
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a80-9659.php
+Status HTTP: 200
+---
+ID: 98
+Modelo: Galaxy A8 (2016)
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1080x1920
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a8_(2016)-7801.php
+Status HTTP: 200
+---
+ID: 99
+Modelo: Galaxy A8 (2018)
+Ratio: 18.5:9
+Área: 79.59 cm²
+Resolução: 1080x2220
+Tamanho: 5.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a8_(2018)-8886.php
+Status HTTP: 200
+---
+ID: 100
+Modelo: Galaxy A8 Duos
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1080x1920
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a8_duos-7506.php
+Status HTTP: 200
+---
+ID: 101
+Modelo: Galaxy A8 Star (A9 Star)
+Ratio: 18.5:9
+Área: 100.73 cm²
+Resolução: 1080x2220
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a8_star_(a9_star)-9220.php
+Status HTTP: 200
+---
+ID: 102
+Modelo: Galaxy A8s
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a8s-9432.php
+Status HTTP: 200
+---
+ID: 103
+Modelo: Galaxy A90 5G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a90_5g-9795.php
+Status HTTP: 200
+---
+ID: 104
+Modelo: Galaxy A9 (2016)
+Ratio: 16:9
+Área: 99.24 cm²
+Resolução: 1080x1920
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a9_(2016)-7641.php
+Status HTTP: 200
+---
+ID: 105
+Modelo: Galaxy A9 (2018)
+Ratio: 18.5:9
+Área: 100.73 cm²
+Resolução: 1080x2220
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a9_(2018)-9344.php
+Status HTTP: 200
+---
+ID: 106
+Modelo: Galaxy A9 Pro (2016)
+Ratio: 16:9
+Área: 99.24 cm²
+Resolução: 1080x1920
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a9_pro_(2016)-7903.php
+Status HTTP: 200
+---
+ID: 107
+Modelo: Galaxy A Quantum
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_a_quantum-10243.php
+Status HTTP: 200
+---
+ID: 108
+Modelo: Galaxy F02s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f02s-10824.php
+Status HTTP: 200
+---
+ID: 109
+Modelo: Galaxy F04
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f04-12054.php
+Status HTTP: 200
+---
+ID: 110
+Modelo: Galaxy F05
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f05-13345.php
+Status HTTP: 200
+---
+ID: 111
+Modelo: Galaxy F06 5G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f06_5g-13663.php
+Status HTTP: 200
+---
+ID: 112
+Modelo: Galaxy F07
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f07-14205.php
+Status HTTP: 200
+---
+ID: 113
+Modelo: Galaxy F12
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f12-10825.php
+Status HTTP: 200
+---
+ID: 114
+Modelo: Galaxy F13
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f13-11624.php
+Status HTTP: 200
+---
+ID: 115
+Modelo: Galaxy F14
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f14-12175.php
+Status HTTP: 200
+---
+ID: 116
+Modelo: Galaxy F14 4G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f14_4g-13247.php
+Status HTTP: 200
+---
+ID: 117
+Modelo: Galaxy F15
+Ratio: 19.5:9
+Área: 106.93 cm²
+Resolução: 1080x2340
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f15-12831.php
+Status HTTP: 200
+---
+ID: 118
+Modelo: Galaxy F16
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f16-13721.php
+Status HTTP: 200
+---
+ID: 119
+Modelo: Galaxy F17
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f17_5g-14107.php
+Status HTTP: 200
+---
+ID: 120
+Modelo: Galaxy F22
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 720x1600
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f22-10996.php
+Status HTTP: 200
+---
+ID: 121
+Modelo: Galaxy F23
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f23-11406.php
+Status HTTP: 200
+---
+ID: 122
+Modelo: Galaxy F34
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f34-12453.php
+Status HTTP: 200
+---
+ID: 123
+Modelo: Galaxy F36
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f36_5g-14009.php
+Status HTTP: 200
+---
+ID: 124
+Modelo: Galaxy F41
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f41-10498.php
+Status HTTP: 200
+---
+ID: 125
+Modelo: Galaxy F42 5G
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f42_5g-11124.php
+Status HTTP: 200
+---
+ID: 126
+Modelo: Galaxy F52 5G
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f52_5g-10900.php
+Status HTTP: 200
+---
+ID: 127
+Modelo: Galaxy F54
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f54-12239.php
+Status HTTP: 200
+---
+ID: 128
+Modelo: Galaxy F55
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f55-12885.php
+Status HTTP: 200
+---
+ID: 129
+Modelo: Galaxy F56
+Ratio: 19.5:9
+Área: 111.51 cm²
+Resolução: 1080x2340
+Tamanho: 6.74"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f56_5g-13855.php
+Status HTTP: 200
+---
+ID: 130
+Modelo: Galaxy F62
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_f62-10740.php
+Status HTTP: 200
+---
+ID: 131
+Modelo: Galaxy Fold
+Ratio: 21:9
+Área: 124.48 cm²
+Resolução: 1536x2152
+Tamanho: 7.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_fold-9523.php
+Status HTTP: 200
+---
+ID: 132
+Modelo: Galaxy Fold 5G
+Ratio: 21:9
+Área: 124.48 cm²
+Resolução: 1536x2152
+Tamanho: 7.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_fold_5g-9851.php
+Status HTTP: 200
+---
+ID: 133
+Modelo: Galaxy Folder
+Ratio: 5:3
+Área: 41.10 cm²
+Resolução: 480x800
+Tamanho: 3.8"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_folder-7453.php
+Status HTTP: 200
+---
+ID: 134
+Modelo: Galaxy Folder2
+Ratio: 5:3
+Área: 41.10 cm²
+Resolução: 480x800
+Tamanho: 3.8"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_folder2-9331.php
+Status HTTP: 200
+---
+ID: 135
+Modelo: Galaxy J1
+Ratio: 5:3
+Área: 52.63 cm²
+Resolução: 480x800
+Tamanho: 4.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j1-6907.php
+Status HTTP: 200
+---
+ID: 136
+Modelo: Galaxy J1 (2016)
+Ratio: 5:3
+Área: 57.64 cm²
+Resolução: 480x800
+Tamanho: 4.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j1_(2016)-7864.php
+Status HTTP: 200
+---
+ID: 137
+Modelo: Galaxy J1 4G
+Ratio: 5:3
+Área: 52.63 cm²
+Resolução: 480x800
+Tamanho: 4.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j1_4g-7034.php
+Status HTTP: 200
+---
+ID: 138
+Modelo: Galaxy J1 Ace
+Ratio: 5:3
+Área: 52.63 cm²
+Resolução: 480x800
+Tamanho: 4.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j1_ace-7673.php
+Status HTTP: 200
+---
+ID: 139
+Modelo: Galaxy J1 mini prime
+Ratio: 5:3
+Área: 45.54 cm²
+Resolução: 480x800
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j1_mini_prime-8397.php
+Status HTTP: 200
+---
+ID: 140
+Modelo: Galaxy J1 Nxt
+Ratio: 5:3
+Área: 45.54 cm²
+Resolução: 480x800
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j1_nxt-7768.php
+Status HTTP: 200
+---
+ID: 141
+Modelo: Galaxy J2
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 540x960
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2-7357.php
+Status HTTP: 200
+---
+ID: 142
+Modelo: Galaxy J2 (2016)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2_(2016)-8083.php
+Status HTTP: 200
+---
+ID: 143
+Modelo: Galaxy J2 (2017)
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 540x960
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2_(2017)-8900.php
+Status HTTP: 200
+---
+ID: 144
+Modelo: Galaxy J2 Core
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 540x960
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2_core-9255.php
+Status HTTP: 200
+---
+ID: 145
+Modelo: Galaxy J2 Core (2020)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 540x960
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2_core_(2020)-10208.php
+Status HTTP: 200
+---
+ID: 146
+Modelo: Galaxy J2 Prime
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 540x960
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2_prime-8424.php
+Status HTTP: 200
+---
+ID: 147
+Modelo: Galaxy J2 Pro (2016)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2_pro_(2016)-8228.php
+Status HTTP: 200
+---
+ID: 148
+Modelo: Galaxy J2 Pro (2018)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 540x960
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j2_pro_(2018)-8904.php
+Status HTTP: 200
+---
+ID: 149
+Modelo: Galaxy J3 (2016)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j3_(2016)-7760.php
+Status HTTP: 200
+---
+ID: 150
+Modelo: Galaxy J3 (2017)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j3_(2017)-8438.php
+Status HTTP: 200
+---
+ID: 151
+Modelo: Galaxy J3 (2018)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j3_(2018)-8928.php
+Status HTTP: 200
+---
+ID: 152
+Modelo: Galaxy J3 Emerge
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j3_emerge-8486.php
+Status HTTP: 200
+---
+ID: 153
+Modelo: Galaxy J3 Pro
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j3_pro-8126.php
+Status HTTP: 200
+---
+ID: 154
+Modelo: Galaxy J4+
+Ratio: 18.5:9
+Área: 91.37 cm²
+Resolução: 720x1480
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j4+-9335.php
+Status HTTP: 200
+---
+ID: 155
+Modelo: Galaxy J4
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j4-9204.php
+Status HTTP: 200
+---
+ID: 156
+Modelo: Galaxy J4 Core
+Ratio: 18.5:9
+Área: 91.37 cm²
+Resolução: 720x1480
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j4_core-9397.php
+Status HTTP: 200
+---
+ID: 157
+Modelo: Galaxy J5
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j5-7184.php
+Status HTTP: 200
+---
+ID: 158
+Modelo: Galaxy J5 (2016)
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 720x1280
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j5_(2016)-7869.php
+Status HTTP: 200
+---
+ID: 159
+Modelo: Galaxy J5 (2017)
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 720x1280
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j5_(2017)-8705.php
+Status HTTP: 200
+---
+ID: 160
+Modelo: Galaxy J5 Prime
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j5_prime-8342.php
+Status HTTP: 200
+---
+ID: 161
+Modelo: Galaxy J6+
+Ratio: 18.5:9
+Área: 91.37 cm²
+Resolução: 720x1480
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j6+-9334.php
+Status HTTP: 200
+---
+ID: 162
+Modelo: Galaxy J6
+Ratio: 18.5:9
+Área: 79.59 cm²
+Resolução: 720x1480
+Tamanho: 5.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j6-9203.php
+Status HTTP: 200
+---
+ID: 163
+Modelo: Galaxy J7
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7-7185.php
+Status HTTP: 200
+---
+ID: 164
+Modelo: Galaxy J7 (2016)
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_(2016)-7870.php
+Status HTTP: 200
+---
+ID: 165
+Modelo: Galaxy J7 (2017)
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_(2017)-8675.php
+Status HTTP: 200
+---
+ID: 166
+Modelo: Galaxy J7 (2018)
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_(2018)-9234.php
+Status HTTP: 200
+---
+ID: 167
+Modelo: Galaxy J7 Duo
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_duo-9153.php
+Status HTTP: 200
+---
+ID: 168
+Modelo: Galaxy J7 Max
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1080x1920
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_max-8684.php
+Status HTTP: 200
+---
+ID: 169
+Modelo: Galaxy J7 Nxt
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_nxt-8785.php
+Status HTTP: 200
+---
+ID: 170
+Modelo: Galaxy J7 Prime
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_prime-8314.php
+Status HTTP: 200
+---
+ID: 171
+Modelo: Galaxy J7 Prime 2
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_prime_2-9135.php
+Status HTTP: 200
+---
+ID: 172
+Modelo: Galaxy J7 Pro
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php
+Status HTTP: 200
+---
+ID: 173
+Modelo: Galaxy J7 V
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j7_v-8778.php
+Status HTTP: 200
+---
+ID: 174
+Modelo: Galaxy J8
+Ratio: 18.5:9
+Área: 91.37 cm²
+Resolução: 720x1480
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j8-9205.php
+Status HTTP: 200
+---
+ID: 175
+Modelo: Galaxy J Max
+Ratio: 16:10
+Área: 142.08 cm²
+Resolução: 800x1280
+Tamanho: 7.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_j_max-8186.php
+Status HTTP: 200
+---
+ID: 176
+Modelo: Galaxy M01
+Ratio: 19:9
+Área: 81.09 cm²
+Resolução: 720x1520
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m01-10216.php
+Status HTTP: 200
+---
+ID: 177
+Modelo: Galaxy M01 Core
+Ratio: 18.5:9
+Área: 71.29 cm²
+Resolução: 720x1480
+Tamanho: 5.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m01_core-10316.php
+Status HTTP: 200
+---
+ID: 178
+Modelo: Galaxy M01s
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 720x1520
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m01s-10335.php
+Status HTTP: 200
+---
+ID: 179
+Modelo: Galaxy M02
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m02-10709.php
+Status HTTP: 200
+---
+ID: 180
+Modelo: Galaxy M02s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m02s-10663.php
+Status HTTP: 200
+---
+ID: 181
+Modelo: Galaxy M04
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m04-12022.php
+Status HTTP: 200
+---
+ID: 182
+Modelo: Galaxy M05
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m05-13327.php
+Status HTTP: 200
+---
+ID: 183
+Modelo: Galaxy M06
+Ratio: 20:9
+Área: 109.68 cm²
+Resolução: 720x1600
+Tamanho: 6.74"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m06-13681.php
+Status HTTP: 200
+---
+ID: 184
+Modelo: Galaxy M07
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1600
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m07-14100.php
+Status HTTP: 200
+---
+ID: 185
+Modelo: Galaxy M10
+Ratio: 19:9
+Área: 96.57 cm²
+Resolução: 720x1520
+Tamanho: 6.22"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m10-9508.php
+Status HTTP: 200
+---
+ID: 186
+Modelo: Galaxy M10s
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 720x1560
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m10s-9861.php
+Status HTTP: 200
+---
+ID: 187
+Modelo: Galaxy M11
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 720x1560
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m11-10124.php
+Status HTTP: 200
+---
+ID: 188
+Modelo: Galaxy M12
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m12-10860.php
+Status HTTP: 200
+---
+ID: 189
+Modelo: Galaxy M12 (India)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m12_(india)-10578.php
+Status HTTP: 200
+---
+ID: 190
+Modelo: Galaxy M13
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m13-11564.php
+Status HTTP: 200
+---
+ID: 191
+Modelo: Galaxy M13 (India)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m13_(india)-11654.php
+Status HTTP: 200
+---
+ID: 192
+Modelo: Galaxy M13 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m13_5g-11633.php
+Status HTTP: 200
+---
+ID: 193
+Modelo: Galaxy M14
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m14-12160.php
+Status HTTP: 200
+---
+ID: 194
+Modelo: Galaxy M14 4G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m14_4g-12862.php
+Status HTTP: 200
+---
+ID: 195
+Modelo: Galaxy M15
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m15-12833.php
+Status HTTP: 200
+---
+ID: 196
+Modelo: Galaxy M16
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m16-13680.php
+Status HTTP: 200
+---
+ID: 197
+Modelo: Galaxy M17
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m17_5g-14221.php
+Status HTTP: 200
+---
+ID: 198
+Modelo: Galaxy M20
+Ratio: 19.5:9
+Área: 97.43 cm²
+Resolução: 1080x2340
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m20-9506.php
+Status HTTP: 200
+---
+ID: 199
+Modelo: Galaxy M21
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m21-10111.php
+Status HTTP: 200
+---
+ID: 200
+Modelo: Galaxy M21 2021
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m21_2021-11015.php
+Status HTTP: 200
+---
+ID: 201
+Modelo: Galaxy M21s
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m21s-10580.php
+Status HTTP: 200
+---
+ID: 202
+Modelo: Galaxy M22
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 720x1600
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m22-11011.php
+Status HTTP: 200
+---
+ID: 203
+Modelo: Galaxy M23
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m23-11403.php
+Status HTTP: 200
+---
+ID: 204
+Modelo: Galaxy M30
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m30-9505.php
+Status HTTP: 200
+---
+ID: 205
+Modelo: Galaxy M30s
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m30s-9818.php
+Status HTTP: 200
+---
+ID: 206
+Modelo: Galaxy M31
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m31-10079.php
+Status HTTP: 200
+---
+ID: 207
+Modelo: Galaxy M31 Prime
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m31_prime-10496.php
+Status HTTP: 200
+---
+ID: 208
+Modelo: Galaxy M31s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m31s-10333.php
+Status HTTP: 200
+---
+ID: 209
+Modelo: Galaxy M32
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m32-10887.php
+Status HTTP: 200
+---
+ID: 210
+Modelo: Galaxy M32 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m32_5g-11062.php
+Status HTTP: 200
+---
+ID: 211
+Modelo: Galaxy M33
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m33-11404.php
+Status HTTP: 200
+---
+ID: 212
+Modelo: Galaxy M34 5G
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m34_5g-11290.php
+Status HTTP: 200
+---
+ID: 213
+Modelo: Galaxy M35
+Ratio: 19.5:9
+Área: 106.93 cm²
+Resolução: 1080x2340
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m35-13006.php
+Status HTTP: 200
+---
+ID: 214
+Modelo: Galaxy M36
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m36_5g-13967.php
+Status HTTP: 200
+---
+ID: 215
+Modelo: Galaxy M40
+Ratio: 19.5:9
+Área: 97.43 cm²
+Resolução: 1080x2340
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m40-9721.php
+Status HTTP: 200
+---
+ID: 216
+Modelo: Galaxy M42 5G
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 720x1600
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m42_5g-10848.php
+Status HTTP: 200
+---
+ID: 217
+Modelo: Galaxy M51
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m51-10148.php
+Status HTTP: 200
+---
+ID: 218
+Modelo: Galaxy M52 5G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m52_5g-11110.php
+Status HTTP: 200
+---
+ID: 219
+Modelo: Galaxy M53
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2408
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m53-11439.php
+Status HTTP: 200
+---
+ID: 220
+Modelo: Galaxy M54
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m54-12189.php
+Status HTTP: 200
+---
+ID: 221
+Modelo: Galaxy M55
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m55-12896.php
+Status HTTP: 200
+---
+ID: 222
+Modelo: Galaxy M55s
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m55s-13354.php
+Status HTTP: 200
+---
+ID: 223
+Modelo: Galaxy M56
+Ratio: 19.5:9
+Área: 111.51 cm²
+Resolução: 1080x2340
+Tamanho: 6.74"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m56_5g-13801.php
+Status HTTP: 200
+---
+ID: 224
+Modelo: Galaxy M62
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_m62-10749.php
+Status HTTP: 200
+---
+ID: 225
+Modelo: Galaxy S10+
+Ratio: 19:9
+Área: 102.24 cm²
+Resolução: 1440x3040
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s10+-9535.php
+Status HTTP: 200
+---
+ID: 226
+Modelo: Galaxy S10
+Ratio: 19:9
+Área: 92.88 cm²
+Resolução: 1440x3040
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s10-9536.php
+Status HTTP: 200
+---
+ID: 227
+Modelo: Galaxy S10 5G
+Ratio: 19:9
+Área: 112.04 cm²
+Resolução: 1440x3040
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s10_5g-9588.php
+Status HTTP: 200
+---
+ID: 228
+Modelo: Galaxy S10 Lite
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s10_lite-9917.php
+Status HTTP: 200
+---
+ID: 229
+Modelo: Galaxy S10e
+Ratio: 19:9
+Área: 83.96 cm²
+Resolução: 1080x2280
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s10e-9537.php
+Status HTTP: 200
+---
+ID: 230
+Modelo: Galaxy S6
+Ratio: 16:9
+Área: 71.70 cm²
+Resolução: 1440x2560
+Tamanho: 5.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6-6849.php
+Status HTTP: 200
+---
+ID: 231
+Modelo: Galaxy S6 (USA)
+Ratio: 16:9
+Área: 71.70 cm²
+Resolução: 1440x2560
+Tamanho: 5.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6_(usa)-7164.php
+Status HTTP: 200
+---
+ID: 232
+Modelo: Galaxy S6 Duos
+Ratio: 16:9
+Área: 71.70 cm²
+Resolução: 1440x2560
+Tamanho: 5.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6_duos-7377.php
+Status HTTP: 200
+---
+ID: 233
+Modelo: Galaxy S6 edge+
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1440x2560
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php
+Status HTTP: 200
+---
+ID: 234
+Modelo: Galaxy S6 edge+ (USA)
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1440x2560
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6_edge+_(usa)-7505.php
+Status HTTP: 200
+---
+ID: 235
+Modelo: Galaxy S6 edge+ Duos
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1440x2560
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6_edge+_duos-7509.php
+Status HTTP: 200
+---
+ID: 236
+Modelo: Galaxy S6 edge
+Ratio: 16:9
+Área: 71.70 cm²
+Resolução: 1440x2560
+Tamanho: 5.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php
+Status HTTP: 200
+---
+ID: 237
+Modelo: Galaxy S6 edge (USA)
+Ratio: 16:9
+Área: 71.70 cm²
+Resolução: 1440x2560
+Tamanho: 5.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s6_edge_(usa)-7166.php
+Status HTTP: 200
+---
+ID: 238
+Modelo: Galaxy S7
+Ratio: 16:9
+Área: 71.70 cm²
+Resolução: 1440x2560
+Tamanho: 5.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s7-7821.php
+Status HTTP: 200
+---
+ID: 239
+Modelo: Galaxy S7 (USA)
+Ratio: 16:9
+Área: 71.70 cm²
+Resolução: 1440x2560
+Tamanho: 5.1"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php
+Status HTTP: 200
+---
+ID: 240
+Modelo: Galaxy S7 edge
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1440x2560
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php
+Status HTTP: 200
+---
+ID: 241
+Modelo: Galaxy S7 edge (USA)
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1440x2560
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php
+Status HTTP: 200
+---
+ID: 242
+Modelo: Galaxy S8+
+Ratio: 18.5:9
+Área: 97.56 cm²
+Resolução: 1440x2960
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s8+-8523.php
+Status HTTP: 200
+---
+ID: 243
+Modelo: Galaxy S8
+Ratio: 18.5:9
+Área: 85.38 cm²
+Resolução: 1440x2960
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s8-8161.php
+Status HTTP: 200
+---
+ID: 244
+Modelo: Galaxy S9+
+Ratio: 18.5:9
+Área: 97.56 cm²
+Resolução: 1440x2960
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s9+-8967.php
+Status HTTP: 200
+---
+ID: 245
+Modelo: Galaxy S9
+Ratio: 18.5:9
+Área: 85.38 cm²
+Resolução: 1440x2960
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s9-8966.php
+Status HTTP: 200
+---
+ID: 246
+Modelo: Galaxy S Light Luxury
+Ratio: 18.5:9
+Área: 85.38 cm²
+Resolução: 1080x2220
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_galaxy_s_light_luxury-9202.php
+Status HTTP: 200
+---
+ID: 247
+Modelo: Guru Plus
+Ratio: 1:1
+Área: 7.26 cm²
+Resolução: 128x128
+Tamanho: 1.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_guru_plus_-7794.php
+Status HTTP: 200
+---
+ID: 248
+Modelo: Metro 360
+Ratio: 4:3
+Área: 17.84 cm²
+Resolução: 240x320
+Tamanho: 2.4"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_metro_360-7751.php
+Status HTTP: 200
+---
+ID: 249
+Modelo: Z1
+Ratio: 5:3
+Área: 45.54 cm²
+Resolução: 480x800
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_z1-6894.php
+Status HTTP: 200
+---
+ID: 250
+Modelo: Z2
+Ratio: 5:3
+Área: 45.54 cm²
+Resolução: 480x800
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_z2-8288.php
+Status HTTP: 200
+---
+ID: 251
+Modelo: Z3
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_z3-7273.php
+Status HTTP: 200
+---
+ID: 252
+Modelo: Z3 Corporate
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_z3_corporate-8170.php
+Status HTTP: 200
+---
+ID: 253
+Modelo: Z4
+Ratio: 5:3
+Área: 57.64 cm²
+Resolução: 480x800
+Tamanho: 4.5"
+PPI: N/A
+URL: https://www.gsmarena.com/samsung_z4-8682.php
+Status HTTP: 200
+---
