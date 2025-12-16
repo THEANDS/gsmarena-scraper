@@ -1,0 +1,424 @@
+id,model,url,status
+1,11 Lite 5G NE,https://www.gsmarena.com/xiaomi_11_lite_5g_ne-11101.php,pending
+2,11i,https://www.gsmarena.com/xiaomi_11i-11185.php,pending
+3,11i HyperCharge 5G,https://www.gsmarena.com/xiaomi_11i_hypercharge_5g-11186.php,pending
+4,11T,https://www.gsmarena.com/xiaomi_11t-11099.php,pending
+5,11T Pro,https://www.gsmarena.com/xiaomi_11t_pro-11100.php,pending
+6,12,https://www.gsmarena.com/xiaomi_12-11285.php,pending
+7,12 Lite,https://www.gsmarena.com/xiaomi_12_lite-11472.php,pending
+8,12 Lite NE,https://www.gsmarena.com/xiaomi_12_lite_ne-11947.php,pending
+9,12 Pro,https://www.gsmarena.com/xiaomi_12_pro-11287.php,pending
+10,12 Pro (Dimensity),https://www.gsmarena.com/xiaomi_12_pro_(dimensity)-11652.php,pending
+11,12S,https://www.gsmarena.com/xiaomi_12s-11645.php,pending
+12,12S Pro,https://www.gsmarena.com/xiaomi_12s_pro-11651.php,pending
+13,12S Ultra,https://www.gsmarena.com/xiaomi_12s_ultra-11614.php,pending
+14,12T,https://www.gsmarena.com/xiaomi_12t-11888.php,pending
+15,12T Pro,https://www.gsmarena.com/xiaomi_12t_pro-11887.php,pending
+16,12X,https://www.gsmarena.com/xiaomi_12x-11292.php,pending
+17,13,https://www.gsmarena.com/xiaomi_13-12013.php,pending
+18,13 Lite,https://www.gsmarena.com/xiaomi_13_lite-12072.php,pending
+19,13 Pro,https://www.gsmarena.com/xiaomi_13_pro-11962.php,pending
+20,13 Ultra,https://www.gsmarena.com/xiaomi_13_ultra-12236.php,pending
+21,13T,https://www.gsmarena.com/xiaomi_13t-12389.php,pending
+22,13T Pro,https://www.gsmarena.com/xiaomi_13t_pro-12388.php,pending
+23,14,https://www.gsmarena.com/xiaomi_14-12626.php,pending
+24,14 Civi,https://www.gsmarena.com/xiaomi_14_civi-13056.php,pending
+25,14 Pro,https://www.gsmarena.com/xiaomi_14_pro-12643.php,pending
+26,14 Ultra,https://www.gsmarena.com/xiaomi_14_ultra-12827.php,pending
+27,14T,https://www.gsmarena.com/xiaomi_14t-13329.php,pending
+28,14T Pro,https://www.gsmarena.com/xiaomi_14t_pro-13328.php,pending
+29,15,https://www.gsmarena.com/xiaomi_15-13472.php,pending
+30,15 Pro,https://www.gsmarena.com/xiaomi_15_pro-13473.php,pending
+31,15 Ultra,https://www.gsmarena.com/xiaomi_15_ultra-13657.php,pending
+32,15S Pro,https://www.gsmarena.com/xiaomi_15s_pro_5g-13895.php,pending
+33,15T,https://www.gsmarena.com/xiaomi_15t_5g-14177.php,pending
+34,15T Pro,https://www.gsmarena.com/xiaomi_15t_pro_5g-14178.php,pending
+35,17,https://www.gsmarena.com/xiaomi_17_5g-14134.php,pending
+36,17 Pro,https://www.gsmarena.com/xiaomi_17_pro_5g-14182.php,pending
+37,17 Pro Max,https://www.gsmarena.com/xiaomi_17_pro_max_5g-14181.php,pending
+38,Black Shark,https://www.gsmarena.com/xiaomi_black_shark-9164.php,pending
+39,Black Shark 2,https://www.gsmarena.com/xiaomi_black_shark_2-9639.php,pending
+40,Black Shark 2 Pro,https://www.gsmarena.com/xiaomi_black_shark_2_pro-9779.php,pending
+41,Black Shark 3,https://www.gsmarena.com/xiaomi_black_shark_3-10110.php,pending
+42,Black Shark 3 Pro,https://www.gsmarena.com/xiaomi_black_shark_3_pro-10109.php,pending
+43,Black Shark 3S,https://www.gsmarena.com/xiaomi_black_shark_3s-10350.php,pending
+44,Black Shark 4,https://www.gsmarena.com/xiaomi_black_shark_4-10714.php,pending
+45,Black Shark 4 Pro,https://www.gsmarena.com/xiaomi_black_shark_4_pro-10805.php,pending
+46,Black Shark 4S,https://www.gsmarena.com/xiaomi_black_shark_4s-11153.php,pending
+47,Black Shark 4S Pro,https://www.gsmarena.com/xiaomi_black_shark_4s_pro-11152.php,pending
+48,Black Shark 5,https://www.gsmarena.com/xiaomi_black_shark_5-11454.php,pending
+49,Black Shark 5 Pro,https://www.gsmarena.com/xiaomi_black_shark_5_pro-11453.php,pending
+50,Black Shark 5 RS,https://www.gsmarena.com/xiaomi_black_shark_5_rs-11455.php,pending
+51,Black Shark GS3 Ultra,https://www.gsmarena.com/xiaomi_black_shark_gs3_ultra-14309.php,pending
+52,Black Shark Helo,https://www.gsmarena.com/xiaomi_black_shark_helo-9382.php,pending
+53,Civi,https://www.gsmarena.com/xiaomi_civi-11119.php,pending
+54,Civi 1S,https://www.gsmarena.com/xiaomi_civi_1s-11487.php,pending
+55,Civi 2,https://www.gsmarena.com/xiaomi_civi_2-11906.php,pending
+56,Civi 3,https://www.gsmarena.com/xiaomi_civi_3-12134.php,pending
+57,Civi 4 Pro,https://www.gsmarena.com/xiaomi_civi_4_pro-12888.php,pending
+58,Civi 5 Pro,https://www.gsmarena.com/xiaomi_civi_5_pro_5g-13875.php,pending
+59,Mi 10 5G,https://www.gsmarena.com/xiaomi_mi_10_5g-10082.php,pending
+60,Mi 10 Lite 5G,https://www.gsmarena.com/xiaomi_mi_10_lite_5g-10159.php,pending
+61,Mi 10 Lite Zoom,https://www.gsmarena.com/xiaomi_mi_10_lite_zoom-10210.php,pending
+62,Mi 10 Pro 5G,https://www.gsmarena.com/xiaomi_mi_10_pro_5g-10055.php,pending
+63,Mi 10 Ultra,https://www.gsmarena.com/xiaomi_mi_10_ultra-10361.php,pending
+64,Mi 10 Youth 5G,https://www.gsmarena.com/xiaomi_mi_10_youth_5g-10207.php,pending
+65,Mi 10i 5G,https://www.gsmarena.com/xiaomi_mi_10i_5g-10615.php,pending
+66,Mi 10S,https://www.gsmarena.com/xiaomi_mi_10s-10780.php,pending
+67,Mi 10T 5G,https://www.gsmarena.com/xiaomi_mi_10t_5g-10473.php,pending
+68,Mi 10T Lite 5G,https://www.gsmarena.com/xiaomi_mi_10t_lite_5g-10480.php,pending
+69,Mi 10T Pro 5G,https://www.gsmarena.com/xiaomi_mi_10t_pro_5g-10437.php,pending
+70,Mi 11,https://www.gsmarena.com/xiaomi_mi_11-10656.php,pending
+71,Mi 11 Lite,https://www.gsmarena.com/xiaomi_mi_11_lite-10665.php,pending
+72,Mi 11 Lite 5G,https://www.gsmarena.com/xiaomi_mi_11_lite_5g-10815.php,pending
+73,Mi 11 Pro,https://www.gsmarena.com/xiaomi_mi_11_pro-10816.php,pending
+74,Mi 11 Ultra,https://www.gsmarena.com/xiaomi_mi_11_ultra-10737.php,pending
+75,Mi 11i,https://www.gsmarena.com/xiaomi_mi_11i-10777.php,pending
+76,Mi 11X,https://www.gsmarena.com/xiaomi_mi_11x-10775.php,pending
+77,Mi 11X Pro,https://www.gsmarena.com/xiaomi_mi_11x_pro-10776.php,pending
+78,Mi 1S,https://www.gsmarena.com/xiaomi_mi_1s-4929.php,pending
+79,Mi 2,https://www.gsmarena.com/xiaomi_mi_2-4928.php,pending
+80,Mi 2A,https://www.gsmarena.com/xiaomi_mi_2a-5646.php,pending
+81,Mi 2S,https://www.gsmarena.com/xiaomi_mi_2s-5397.php,pending
+82,Mi 3,https://www.gsmarena.com/xiaomi_mi_3-5678.php,pending
+83,Mi 4,https://www.gsmarena.com/xiaomi_mi_4-6518.php,pending
+84,Mi 4 LTE,https://www.gsmarena.com/xiaomi_mi_4_lte-6866.php,pending
+85,Mi 4c,https://www.gsmarena.com/xiaomi_mi_4c-7512.php,pending
+86,Mi 4i,https://www.gsmarena.com/xiaomi_mi_4i-7211.php,pending
+87,Mi 4s,https://www.gsmarena.com/xiaomi_mi_4s-7962.php,pending
+88,Mi 5,https://www.gsmarena.com/xiaomi_mi_5-6948.php,pending
+89,Mi 5c,https://www.gsmarena.com/xiaomi_mi_5c-8439.php,pending
+90,Mi 5s,https://www.gsmarena.com/xiaomi_mi_5s-7260.php,pending
+91,Mi 5s Plus,https://www.gsmarena.com/xiaomi_mi_5s_plus-8350.php,pending
+92,Mi 6,https://www.gsmarena.com/xiaomi_mi_6-8507.php,pending
+93,Mi 6 Plus,https://www.gsmarena.com/xiaomi_mi_6_plus-8629.php,pending
+94,Mi 6c,https://www.gsmarena.com/xiaomi_mi_6c-8798.php,pending
+95,Mi 8,https://www.gsmarena.com/xiaomi_mi_8-9065.php,pending
+96,Mi 8 Explorer,https://www.gsmarena.com/xiaomi_mi_8_explorer-9218.php,pending
+97,Mi 8 Lite,https://www.gsmarena.com/xiaomi_mi_8_lite-9329.php,pending
+98,Mi 8 Pro,https://www.gsmarena.com/xiaomi_mi_8_pro-9336.php,pending
+99,Mi 8 SE,https://www.gsmarena.com/xiaomi_mi_8_se-9219.php,pending
+100,Mi 9,https://www.gsmarena.com/xiaomi_mi_9-9507.php,pending
+101,Mi 9 Explorer,https://www.gsmarena.com/xiaomi_mi_9_explorer-9584.php,pending
+102,Mi 9 Lite,https://www.gsmarena.com/xiaomi_mi_9_lite-9862.php,pending
+103,Mi 9 Pro,https://www.gsmarena.com/xiaomi_mi_9_pro-9891.php,pending
+104,Mi 9 Pro 5G,https://www.gsmarena.com/xiaomi_mi_9_pro_5g-9892.php,pending
+105,Mi 9 SE,https://www.gsmarena.com/xiaomi_mi_9_se-9583.php,pending
+106,Mi 9T,https://www.gsmarena.com/xiaomi_mi_9t-9738.php,pending
+107,Mi 9T Pro,https://www.gsmarena.com/xiaomi_mi_9t_pro-9791.php,pending
+108,Mi 9X,https://www.gsmarena.com/xiaomi_mi_9x-9650.php,pending
+109,Mi A1 (Mi 5X),https://www.gsmarena.com/xiaomi_mi_a1_(mi_5x)-8776.php,pending
+110,Mi A2 (Mi 6X),https://www.gsmarena.com/xiaomi_mi_a2_(mi_6x)-9140.php,pending
+111,Mi A2 Lite (Redmi 6 Pro),https://www.gsmarena.com/xiaomi_mi_a2_lite_(redmi_6_pro)-9247.php,pending
+112,Mi A3,https://www.gsmarena.com/xiaomi_mi_a3-9769.php,pending
+113,Mi CC9,https://www.gsmarena.com/xiaomi_mi_cc9-9749.php,pending
+114,Mi CC9 Pro,https://www.gsmarena.com/xiaomi_mi_cc9_pro-9935.php,pending
+115,Mi CC9e,https://www.gsmarena.com/xiaomi_mi_cc9e-9759.php,pending
+116,Mi Max,https://www.gsmarena.com/xiaomi_mi_max-8057.php,pending
+117,Mi Max 2,https://www.gsmarena.com/xiaomi_mi_max_2-8582.php,pending
+118,Mi Max 3,https://www.gsmarena.com/xiaomi_mi_max_3-8963.php,pending
+119,Mi Max 4,https://www.gsmarena.com/xiaomi_mi_max_4-9551.php,pending
+120,Mi Max 4 Pro,https://www.gsmarena.com/xiaomi_mi_max_4_pro-9552.php,pending
+121,Mi Mix,https://www.gsmarena.com/xiaomi_mi_mix-8400.php,pending
+122,Mi Mix 2,https://www.gsmarena.com/xiaomi_mi_mix_2-8529.php,pending
+123,Mi Mix 2S,https://www.gsmarena.com/xiaomi_mi_mix_2s-9067.php,pending
+124,Mi Mix 3,https://www.gsmarena.com/xiaomi_mi_mix_3-9378.php,pending
+125,Mi Mix 3 5G,https://www.gsmarena.com/xiaomi_mi_mix_3_5g-9602.php,pending
+126,Mi Mix Alpha,https://www.gsmarena.com/xiaomi_mi_mix_alpha-9893.php,pending
+127,Mi Mix Fold,https://www.gsmarena.com/xiaomi_mi_mix_fold-10817.php,pending
+128,Mi Note,https://www.gsmarena.com/xiaomi_mi_note-6944.php,pending
+129,Mi Note 10,https://www.gsmarena.com/xiaomi_mi_note_10-9936.php,pending
+130,Mi Note 10 Lite,https://www.gsmarena.com/xiaomi_mi_note_10_lite-10183.php,pending
+131,Mi Note 10 Pro,https://www.gsmarena.com/xiaomi_mi_note_10_pro-9945.php,pending
+132,Mi Note 2,https://www.gsmarena.com/xiaomi_mi_note_2-8014.php,pending
+133,Mi Note 3,https://www.gsmarena.com/xiaomi_mi_note_3-8707.php,pending
+134,Mi Note Plus,https://www.gsmarena.com/xiaomi_mi_note_plus-6960.php,pending
+135,Mi Note Pro,https://www.gsmarena.com/xiaomi_mi_note_pro-6952.php,pending
+136,Mi Play,https://www.gsmarena.com/xiaomi_mi_play-9499.php,pending
+137,Mix 4,https://www.gsmarena.com/xiaomi_mix_4-11040.php,pending
+138,Mix Flip,https://www.gsmarena.com/xiaomi_mix_flip-13221.php,pending
+139,Mix Flip 2,https://www.gsmarena.com/xiaomi_mix_flip_2_5g-13980.php,pending
+140,Mix Fold 2,https://www.gsmarena.com/xiaomi_mix_fold_2-11758.php,pending
+141,Mix Fold 3,https://www.gsmarena.com/xiaomi_mix_fold_3-12468.php,pending
+142,Mix Fold 4,https://www.gsmarena.com/xiaomi_mix_fold_4-13222.php,pending
+143,Poco C3,https://www.gsmarena.com/xiaomi_poco_c3-10482.php,pending
+144,Poco C31,https://www.gsmarena.com/xiaomi_poco_c31-11134.php,pending
+145,Poco C40,https://www.gsmarena.com/xiaomi_poco_c40-11468.php,pending
+146,Poco C50,https://www.gsmarena.com/xiaomi_poco_c50-12053.php,pending
+147,Poco C51,https://www.gsmarena.com/xiaomi_poco_c51-12215.php,pending
+148,Poco C55,https://www.gsmarena.com/xiaomi_poco_c55-12126.php,pending
+149,Poco C61,https://www.gsmarena.com/xiaomi_poco_c61-12886.php,pending
+150,Poco C65,https://www.gsmarena.com/xiaomi_poco_c65-12684.php,pending
+151,Poco C71,https://www.gsmarena.com/xiaomi_poco_c71_4g-13767.php,pending
+152,Poco C75,https://www.gsmarena.com/xiaomi_poco_c75-13435.php,pending
+153,Poco C75 5G,https://www.gsmarena.com/xiaomi_poco_c75_5g-13571.php,pending
+154,Poco C85 4G,https://www.gsmarena.com/xiaomi_poco_c85-14110.php,pending
+155,Poco C85,https://www.gsmarena.com/xiaomi_poco_c85_5g-14337.php,pending
+156,Poco F2 Pro,https://www.gsmarena.com/xiaomi_poco_f2_pro-10220.php,pending
+157,Poco F3,https://www.gsmarena.com/xiaomi_poco_f3-10758.php,pending
+158,Poco F3 GT,https://www.gsmarena.com/xiaomi_poco_f3_gt-10886.php,pending
+159,Poco F4,https://www.gsmarena.com/xiaomi_poco_f4-11627.php,pending
+160,Poco F4 GT,https://www.gsmarena.com/xiaomi_poco_f4_gt-11479.php,pending
+161,Poco F5,https://www.gsmarena.com/xiaomi_poco_f5-12258.php,pending
+162,Poco F5 Pro,https://www.gsmarena.com/xiaomi_poco_f5_pro-12257.php,pending
+163,Poco F6,https://www.gsmarena.com/xiaomi_poco_f6-13000.php,pending
+164,Poco F6 Pro,https://www.gsmarena.com/xiaomi_poco_f6_pro-12992.php,pending
+165,Poco F7,https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php,pending
+166,Poco F7 Pro,https://www.gsmarena.com/xiaomi_poco_f7_pro-13724.php,pending
+167,Poco F7 Ultra,https://www.gsmarena.com/xiaomi_poco_f7_ultra-13723.php,pending
+168,Poco F8 Pro,https://www.gsmarena.com/xiaomi_poco_f8_pro_5g-14303.php,pending
+169,Poco F8 Ultra,https://www.gsmarena.com/xiaomi_poco_f8_ultra_5g-14301.php,pending
+170,Poco M2,https://www.gsmarena.com/xiaomi_poco_m2-10434.php,pending
+171,Poco M2 Pro,https://www.gsmarena.com/xiaomi_poco_m2_pro-10318.php,pending
+172,Poco M2 Reloaded,https://www.gsmarena.com/xiaomi_poco_m2_reloaded-10867.php,pending
+173,Poco M3,https://www.gsmarena.com/xiaomi_poco_m3-10599.php,pending
+174,Poco M3 Pro,https://www.gsmarena.com/xiaomi_poco_m3_pro-10916.php,pending
+175,Poco M3 Pro 5G,https://www.gsmarena.com/xiaomi_poco_m3_pro_5g-10857.php,pending
+176,Poco M4 5G,https://www.gsmarena.com/xiaomi_poco_m4_5g-11762.php,pending
+177,Poco M4 5G (India),https://www.gsmarena.com/xiaomi_poco_m4_5g_(india)-11427.php,pending
+178,Poco M4 Pro,https://www.gsmarena.com/xiaomi_poco_m4_pro-11388.php,pending
+179,Poco M4 Pro 5G,https://www.gsmarena.com/xiaomi_poco_m4_pro_5g-11193.php,pending
+180,Poco M5,https://www.gsmarena.com/xiaomi_poco_m5-11850.php,pending
+181,Poco M5 (India),https://www.gsmarena.com/xiaomi_poco_m5_(india)-11869.php,pending
+182,Poco M5s,https://www.gsmarena.com/xiaomi_poco_m5s-11832.php,pending
+183,Poco M6,https://www.gsmarena.com/xiaomi_poco_m6-12737.php,pending
+184,Poco M6 4G,https://www.gsmarena.com/xiaomi_poco_m6_4g-13131.php,pending
+185,Poco M6 Plus,https://www.gsmarena.com/xiaomi_poco_m6_plus-13119.php,pending
+186,Poco M6 Pro,https://www.gsmarena.com/xiaomi_poco_m6_pro-12452.php,pending
+187,Poco M6 Pro 4G,https://www.gsmarena.com/xiaomi_poco_m6_pro_4g-12779.php,pending
+188,Poco M7 4G,https://www.gsmarena.com/xiaomi_poco_m7-14071.php,pending
+189,Poco M7,https://www.gsmarena.com/xiaomi_poco_m7_5g-13678.php,pending
+190,Poco M7 Plus,https://www.gsmarena.com/xiaomi_poco_m7_plus_5g-14046.php,pending
+191,Poco M7 Pro 5G,https://www.gsmarena.com/xiaomi_poco_m7_pro_5g-13570.php,pending
+192,Poco X2,https://www.gsmarena.com/xiaomi_poco_x2-10050.php,pending
+193,Poco X3,https://www.gsmarena.com/xiaomi_poco_x3-10461.php,pending
+194,Poco X3 GT,https://www.gsmarena.com/xiaomi_poco_x3_gt-10949.php,pending
+195,Poco X3 NFC,https://www.gsmarena.com/xiaomi_poco_x3_nfc-10415.php,pending
+196,Poco X3 Pro,https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php,pending
+197,Poco X4 GT,https://www.gsmarena.com/xiaomi_poco_x4_gt-11626.php,pending
+198,Poco X4 NFC,https://www.gsmarena.com/xiaomi_poco_x4_nfc-11242.php,pending
+199,Poco X4 Pro 5G,https://www.gsmarena.com/xiaomi_poco_x4_pro_5g-11371.php,pending
+200,Poco X5,https://www.gsmarena.com/xiaomi_poco_x5-12092.php,pending
+201,Poco X5 Pro,https://www.gsmarena.com/xiaomi_poco_x5_pro-12094.php,pending
+202,Poco X6,https://www.gsmarena.com/xiaomi_poco_x6-12723.php,pending
+203,Poco X6 Neo,https://www.gsmarena.com/xiaomi_poco_x6_neo-12863.php,pending
+204,Poco X6 Pro,https://www.gsmarena.com/xiaomi_poco_x6_pro-12717.php,pending
+205,Poco X7,https://www.gsmarena.com/xiaomi_poco_x7-13604.php,pending
+206,Poco X7 Pro,https://www.gsmarena.com/xiaomi_poco_x7_pro-13582.php,pending
+207,Pocophone F1,https://www.gsmarena.com/xiaomi_pocophone_f1-9293.php,pending
+208,Redmi,https://www.gsmarena.com/xiaomi_redmi-5609.php,pending
+209,Redmi 10,https://www.gsmarena.com/xiaomi_redmi_10-11060.php,pending
+210,Redmi 10 (India),https://www.gsmarena.com/xiaomi_redmi_10_(india)-11424.php,pending
+211,Redmi 10 2022,https://www.gsmarena.com/xiaomi_redmi_10_2022-11357.php,pending
+212,Redmi 10 5G,https://www.gsmarena.com/xiaomi_redmi_10_5g-11425.php,pending
+213,Redmi 10 Power,https://www.gsmarena.com/xiaomi_redmi_10_power-11486.php,pending
+214,Redmi 10 Prime+ 5G,https://www.gsmarena.com/xiaomi_redmi_10_prime+_5g-11426.php,pending
+215,Redmi 10 Prime,https://www.gsmarena.com/xiaomi_redmi_10_prime-11079.php,pending
+216,Redmi 10 Prime 2022,https://www.gsmarena.com/xiaomi_redmi_10_prime_2022-11519.php,pending
+217,Redmi 10A,https://www.gsmarena.com/xiaomi_redmi_10a-11449.php,pending
+218,Redmi 10C,https://www.gsmarena.com/xiaomi_redmi_10c-11418.php,pending
+219,Redmi 10X 4G,https://www.gsmarena.com/xiaomi_redmi_10x_4g-10202.php,pending
+220,Redmi 10X 5G,https://www.gsmarena.com/xiaomi_redmi_10x_5g-10266.php,pending
+221,Redmi 10X Pro 5G,https://www.gsmarena.com/xiaomi_redmi_10x_pro_5g-10267.php,pending
+222,Redmi 11,https://www.gsmarena.com/xiaomi_redmi_11-11574.php,pending
+223,Redmi 11 Prime,https://www.gsmarena.com/xiaomi_redmi_11_prime-11855.php,pending
+224,Redmi 11 Prime 5G,https://www.gsmarena.com/xiaomi_redmi_11_prime_5g-11834.php,pending
+225,Redmi 11A,https://www.gsmarena.com/xiaomi_redmi_11a-11982.php,pending
+226,Redmi 12,https://www.gsmarena.com/xiaomi_redmi_12-12328.php,pending
+227,Redmi 12 5G,https://www.gsmarena.com/xiaomi_redmi_12_5g-12446.php,pending
+228,Redmi 12C,https://www.gsmarena.com/xiaomi_redmi_12c-12051.php,pending
+229,Redmi 13,https://www.gsmarena.com/xiaomi_redmi_13-13102.php,pending
+230,Redmi 13 5G,https://www.gsmarena.com/xiaomi_redmi_13_5g-13157.php,pending
+231,Redmi 13C,https://www.gsmarena.com/xiaomi_redmi_13c-12689.php,pending
+232,Redmi 13C 5G,https://www.gsmarena.com/xiaomi_redmi_13c_5g-12726.php,pending
+233,Redmi 13R,https://www.gsmarena.com/xiaomi_redmi_13r-12735.php,pending
+234,Redmi 13x,https://www.gsmarena.com/xiaomi_redmi_13x_4g-13764.php,pending
+235,Redmi 14C,https://www.gsmarena.com/xiaomi_redmi_14c-13291.php,pending
+236,Redmi 14C (China),https://www.gsmarena.com/xiaomi_redmi_14c_(china)-13627.php,pending
+237,Redmi 14C 5G,https://www.gsmarena.com/xiaomi_redmi_14c_5g-13595.php,pending
+238,Redmi 14R,https://www.gsmarena.com/xiaomi_redmi_14r-13338.php,pending
+239,Redmi 15 4G,https://www.gsmarena.com/xiaomi_redmi_15-14037.php,pending
+240,Redmi 15,https://www.gsmarena.com/xiaomi_redmi_15_5g-14036.php,pending
+241,Redmi 15C 4G,https://www.gsmarena.com/xiaomi_redmi_15c_4g-14005.php,pending
+242,Redmi 15C,https://www.gsmarena.com/xiaomi_redmi_15c_5g-14039.php,pending
+243,Redmi 1S,https://www.gsmarena.com/xiaomi_redmi_1s-6373.php,pending
+244,Redmi 2,https://www.gsmarena.com/xiaomi_redmi_2-6884.php,pending
+245,Redmi 20X,https://www.gsmarena.com/xiaomi_redmi_20x-10832.php,pending
+246,Redmi 2 Prime,https://www.gsmarena.com/xiaomi_redmi_2_prime-7480.php,pending
+247,Redmi 2 Pro,https://www.gsmarena.com/xiaomi_redmi_2_pro-7710.php,pending
+248,Redmi 2A,https://www.gsmarena.com/xiaomi_redmi_2a-7159.php,pending
+249,Redmi 3,https://www.gsmarena.com/xiaomi_redmi_3-7862.php,pending
+250,Redmi 3 Pro,https://www.gsmarena.com/xiaomi_redmi_3_pro-8007.php,pending
+251,Redmi 3s,https://www.gsmarena.com/xiaomi_redmi_3s-8150.php,pending
+252,Redmi 3s Prime,https://www.gsmarena.com/xiaomi_redmi_3s_prime-8250.php,pending
+253,Redmi 3x,https://www.gsmarena.com/xiaomi_redmi_3x-8212.php,pending
+254,Redmi 4 (4X),https://www.gsmarena.com/xiaomi_redmi_4_(4x)-8608.php,pending
+255,Redmi 4 (China),https://www.gsmarena.com/xiaomi_redmi_4_(china)-8419.php,pending
+256,Redmi 4 Prime,https://www.gsmarena.com/xiaomi_redmi_4_prime-8263.php,pending
+257,Redmi 4A,https://www.gsmarena.com/xiaomi_redmi_4a-8420.php,pending
+258,Redmi 5,https://www.gsmarena.com/xiaomi_redmi_5-8768.php,pending
+259,Redmi 5 Plus (Redmi Note 5),https://www.gsmarena.com/xiaomi_redmi_5_plus_(redmi_note_5)-8959.php,pending
+260,Redmi 5A,https://www.gsmarena.com/xiaomi_redmi_5a-8898.php,pending
+261,Redmi 6,https://www.gsmarena.com/xiaomi_redmi_6-9237.php,pending
+262,Redmi 6A,https://www.gsmarena.com/xiaomi_redmi_6a-9217.php,pending
+263,Redmi 7,https://www.gsmarena.com/xiaomi_redmi_7-9498.php,pending
+264,Redmi 7A,https://www.gsmarena.com/xiaomi_redmi_7a-9716.php,pending
+265,Redmi 8,https://www.gsmarena.com/xiaomi_redmi_8-9800.php,pending
+266,Redmi 8A,https://www.gsmarena.com/xiaomi_redmi_8a-9897.php,pending
+267,Redmi 8A Dual,https://www.gsmarena.com/xiaomi_redmi_8a_dual-10078.php,pending
+268,Redmi 8A Pro,https://www.gsmarena.com/xiaomi_redmi_8a_pro-10169.php,pending
+269,Redmi 9,https://www.gsmarena.com/xiaomi_redmi_9-10233.php,pending
+270,Redmi 9 (India),https://www.gsmarena.com/xiaomi_redmi_9_(india)-10398.php,pending
+271,Redmi 9 Activ,https://www.gsmarena.com/xiaomi_redmi_9_activ-11127.php,pending
+272,Redmi 9 Power,https://www.gsmarena.com/xiaomi_redmi_9_power-10616.php,pending
+273,Redmi 9 Prime,https://www.gsmarena.com/xiaomi_redmi_9_prime-10353.php,pending
+274,Redmi 9A,https://www.gsmarena.com/xiaomi_redmi_9a-10279.php,pending
+275,Redmi 9A Sport,https://www.gsmarena.com/xiaomi_redmi_9a_sport-11128.php,pending
+276,Redmi 9AT,https://www.gsmarena.com/xiaomi_redmi_9at-10591.php,pending
+277,Redmi 9C,https://www.gsmarena.com/xiaomi_redmi_9c-10278.php,pending
+278,Redmi 9C NFC,https://www.gsmarena.com/xiaomi_redmi_9c_nfc-10277.php,pending
+279,Redmi 9i,https://www.gsmarena.com/xiaomi_redmi_9i-10399.php,pending
+280,Redmi 9i Sport,https://www.gsmarena.com/xiaomi_redmi_9i_sport-11129.php,pending
+281,Redmi 9T,https://www.gsmarena.com/xiaomi_redmi_9t-10670.php,pending
+282,Redmi A1+,https://www.gsmarena.com/xiaomi_redmi_a1+-11909.php,pending
+283,Redmi A1,https://www.gsmarena.com/xiaomi_redmi_a1-11848.php,pending
+284,Redmi A2+,https://www.gsmarena.com/xiaomi_redmi_a2+-12197.php,pending
+285,Redmi A2,https://www.gsmarena.com/xiaomi_redmi_a2-12124.php,pending
+286,Redmi A3,https://www.gsmarena.com/xiaomi_redmi_a3-12822.php,pending
+287,Redmi A3 Pro,https://www.gsmarena.com/xiaomi_redmi_a3_pro-13432.php,pending
+288,Redmi A3x,https://www.gsmarena.com/xiaomi_redmi_a3x-13053.php,pending
+289,Redmi A4,https://www.gsmarena.com/xiaomi_redmi_a4-13444.php,pending
+290,Redmi A5 4G,https://www.gsmarena.com/xiaomi_redmi_a5_4g-13737.php,pending
+291,Redmi Go,https://www.gsmarena.com/xiaomi_redmi_go-9534.php,pending
+292,Redmi K20,https://www.gsmarena.com/xiaomi_redmi_k20-9720.php,pending
+293,Redmi K20 Pro,https://www.gsmarena.com/xiaomi_redmi_k20_pro-9708.php,pending
+294,Redmi K20 Pro Premium,https://www.gsmarena.com/xiaomi_redmi_k20_pro_premium-9884.php,pending
+295,Redmi K30,https://www.gsmarena.com/xiaomi_redmi_k30-9991.php,pending
+296,Redmi K30 5G,https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php,pending
+297,Redmi K30 5G Racing,https://www.gsmarena.com/xiaomi_redmi_k30_5g_racing-10235.php,pending
+298,Redmi K30 Pro,https://www.gsmarena.com/xiaomi_redmi_k30_pro-10140.php,pending
+299,Redmi K30 Pro Zoom,https://www.gsmarena.com/xiaomi_redmi_k30_pro_zoom-10150.php,pending
+300,Redmi K30 Ultra,https://www.gsmarena.com/xiaomi_redmi_k30_ultra-10349.php,pending
+301,Redmi K30i 5G,https://www.gsmarena.com/xiaomi_redmi_k30i_5g-10200.php,pending
+302,Redmi K30S,https://www.gsmarena.com/xiaomi_redmi_k30s-10517.php,pending
+303,Redmi K40,https://www.gsmarena.com/xiaomi_redmi_k40-10728.php,pending
+304,Redmi K40 Gaming,https://www.gsmarena.com/xiaomi_redmi_k40_gaming-10880.php,pending
+305,Redmi K40 Pro+,https://www.gsmarena.com/xiaomi_redmi_k40_pro+-10752.php,pending
+306,Redmi K40 Pro,https://www.gsmarena.com/xiaomi_redmi_k40_pro-10727.php,pending
+307,Redmi K40S,https://www.gsmarena.com/xiaomi_redmi_k40s-11431.php,pending
+308,Redmi K50,https://www.gsmarena.com/xiaomi_redmi_k50-11430.php,pending
+309,Redmi K50 Gaming,https://www.gsmarena.com/xiaomi_redmi_k50_gaming-11362.php,pending
+310,Redmi K50 Pro,https://www.gsmarena.com/xiaomi_redmi_k50_pro-11372.php,pending
+311,Redmi K50 Ultra,https://www.gsmarena.com/xiaomi_redmi_k50_ultra-11580.php,pending
+312,Redmi K50i,https://www.gsmarena.com/xiaomi_redmi_k50i-11653.php,pending
+313,Redmi K60,https://www.gsmarena.com/xiaomi_redmi_k60-11975.php,pending
+314,Redmi K60 Pro,https://www.gsmarena.com/xiaomi_redmi_k60_pro-12046.php,pending
+315,Redmi K60 Ultra,https://www.gsmarena.com/xiaomi_redmi_k60_ultra-12470.php,pending
+316,Redmi K60E,https://www.gsmarena.com/xiaomi_redmi_k60e-12047.php,pending
+317,Redmi K70,https://www.gsmarena.com/xiaomi_redmi_k70-12715.php,pending
+318,Redmi K70 Pro,https://www.gsmarena.com/xiaomi_redmi_k70_pro-12714.php,pending
+319,Redmi K70 Ultra,https://www.gsmarena.com/xiaomi_redmi_k70_ultra-13215.php,pending
+320,Redmi K70E,https://www.gsmarena.com/xiaomi_redmi_k70e-12716.php,pending
+321,Redmi K80,https://www.gsmarena.com/xiaomi_redmi_k80-13525.php,pending
+322,Redmi K80 Pro,https://www.gsmarena.com/xiaomi_redmi_k80_pro-13524.php,pending
+323,Redmi K80 Ultra,https://www.gsmarena.com/xiaomi_redmi_k80_ultra_5g-13965.php,pending
+324,Redmi K90,https://www.gsmarena.com/xiaomi_redmi_k90_5g-14280.php,pending
+325,Redmi K90 Pro Max,https://www.gsmarena.com/xiaomi_redmi_k90_pro_max_5g-14252.php,pending
+326,Redmi Note,https://www.gsmarena.com/xiaomi_redmi_note-6217.php,pending
+327,Redmi Note 10,https://www.gsmarena.com/xiaomi_redmi_note_10-10247.php,pending
+328,Redmi Note 10 5G,https://www.gsmarena.com/xiaomi_redmi_note_10_5g-10768.php,pending
+329,Redmi Note 10 Lite,https://www.gsmarena.com/xiaomi_redmi_note_10_lite-11137.php,pending
+330,Redmi Note 10 Pro,https://www.gsmarena.com/xiaomi_redmi_note_10_pro-10662.php,pending
+331,Redmi Note 10 Pro (China),https://www.gsmarena.com/xiaomi_redmi_note_10_pro_(china)-10930.php,pending
+332,Redmi Note 10 Pro (India),https://www.gsmarena.com/xiaomi_redmi_note_10_pro_(india)-10771.php,pending
+333,Redmi Note 10 Pro Max,https://www.gsmarena.com/xiaomi_redmi_note_10_pro_max-10770.php,pending
+334,Redmi Note 10S,https://www.gsmarena.com/xiaomi_redmi_note_10s-10769.php,pending
+335,Redmi Note 10T 5G,https://www.gsmarena.com/xiaomi_redmi_note_10t_5g-11008.php,pending
+336,Redmi Note 11,https://www.gsmarena.com/xiaomi_redmi_note_11-11336.php,pending
+337,Redmi Note 11 (China),https://www.gsmarena.com/xiaomi_redmi_note_11_(china)-11181.php,pending
+338,Redmi Note 11 4G,https://www.gsmarena.com/xiaomi_redmi_note_11_4g-11241.php,pending
+339,Redmi Note 11 Pro+ 5G,https://www.gsmarena.com/xiaomi_redmi_note_11_pro+_5g-11180.php,pending
+340,Redmi Note 11 Pro+ 5G (India),https://www.gsmarena.com/xiaomi_redmi_note_11_pro+_5g_(india)-11412.php,pending
+341,Redmi Note 11 Pro,https://www.gsmarena.com/xiaomi_redmi_note_11_pro-11334.php,pending
+342,Redmi Note 11 Pro (China),https://www.gsmarena.com/xiaomi_redmi_note_11_pro_(china)-11159.php,pending
+343,Redmi Note 11 Pro 5G,https://www.gsmarena.com/xiaomi_redmi_note_11_pro_5g-11333.php,pending
+344,Redmi Note 11 SE (India),https://www.gsmarena.com/xiaomi_redmi_note_11_se_(india)-11819.php,pending
+345,Redmi Note 11E,https://www.gsmarena.com/xiaomi_redmi_note_11e-11396.php,pending
+346,Redmi Note 11E Pro,https://www.gsmarena.com/xiaomi_redmi_note_11e_pro-11395.php,pending
+347,Redmi Note 11R,https://www.gsmarena.com/xiaomi_redmi_note_11r-11904.php,pending
+348,Redmi Note 11S,https://www.gsmarena.com/xiaomi_redmi_note_11s-11335.php,pending
+349,Redmi Note 11S 5G,https://www.gsmarena.com/xiaomi_redmi_note_11s_5g-11419.php,pending
+350,Redmi Note 11SE,https://www.gsmarena.com/xiaomi_redmi_note_11se-11551.php,pending
+351,Redmi Note 11T 5G,https://www.gsmarena.com/xiaomi_redmi_note_11t_5g-11217.php,pending
+352,Redmi Note 11T Pro+,https://www.gsmarena.com/xiaomi_redmi_note_11t_pro+-11549.php,pending
+353,Redmi Note 11T Pro,https://www.gsmarena.com/xiaomi_redmi_note_11t_pro-11550.php,pending
+354,Redmi Note 12,https://www.gsmarena.com/xiaomi_redmi_note_12-12063.php,pending
+355,Redmi Note 12 (China),https://www.gsmarena.com/xiaomi_redmi_note_12_(china)-11956.php,pending
+356,Redmi Note 12 4G,https://www.gsmarena.com/xiaomi_redmi_note_12_4g-12188.php,pending
+357,Redmi Note 12 Discovery,https://www.gsmarena.com/xiaomi_redmi_note_12_discovery-11953.php,pending
+358,Redmi Note 12 Pro+,https://www.gsmarena.com/xiaomi_redmi_note_12_pro+-11954.php,pending
+359,Redmi Note 12 Pro,https://www.gsmarena.com/xiaomi_redmi_note_12_pro-11955.php,pending
+360,Redmi Note 12 Pro 4G,https://www.gsmarena.com/xiaomi_redmi_note_12_pro_4g-12209.php,pending
+361,Redmi Note 12 Pro Speed,https://www.gsmarena.com/xiaomi_redmi_note_12_pro_speed-12045.php,pending
+362,Redmi Note 12 Turbo,https://www.gsmarena.com/xiaomi_redmi_note_12_turbo-12181.php,pending
+363,Redmi Note 12R,https://www.gsmarena.com/xiaomi_redmi_note_12r-12392.php,pending
+364,Redmi Note 12R Pro,https://www.gsmarena.com/xiaomi_redmi_note_12r_pro-12245.php,pending
+365,Redmi Note 12S,https://www.gsmarena.com/xiaomi_redmi_note_12s-12218.php,pending
+366,Redmi Note 12T Pro,https://www.gsmarena.com/xiaomi_redmi_note_12t_pro-12298.php,pending
+367,Redmi Note 13,https://www.gsmarena.com/xiaomi_redmi_note_13-12776.php,pending
+368,Redmi Note 13 (China),https://www.gsmarena.com/xiaomi_redmi_note_13_(china)-12582.php,pending
+369,Redmi Note 13 4G,https://www.gsmarena.com/xiaomi_redmi_note_13_4g-12750.php,pending
+370,Redmi Note 13 Pro+,https://www.gsmarena.com/xiaomi_redmi_note_13_pro+-12572.php,pending
+371,Redmi Note 13 Pro,https://www.gsmarena.com/xiaomi_redmi_note_13_pro-12581.php,pending
+372,Redmi Note 13 Pro 4G,https://www.gsmarena.com/xiaomi_redmi_note_13_pro_4g-12749.php,pending
+373,Redmi Note 13R,https://www.gsmarena.com/xiaomi_redmi_note_13r-13011.php,pending
+374,Redmi Note 13R Pro,https://www.gsmarena.com/xiaomi_redmi_note_13r_pro-12697.php,pending
+375,Redmi Note 14 5G (India),https://www.gsmarena.com/xiaomi_redmi_note_14-13559.php,pending
+376,Redmi Note 14 5G (China),https://www.gsmarena.com/xiaomi_redmi_note_14_(china)-13366.php,pending
+377,Redmi Note 14 4G,https://www.gsmarena.com/xiaomi_redmi_note_14_4g_(global)-13616.php,pending
+378,Redmi Note 14 5G,https://www.gsmarena.com/xiaomi_redmi_note_14_5g_(global)-13615.php,pending
+379,Redmi Note 14 Pro+ 5G (India),https://www.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php,pending
+380,Redmi Note 14 Pro+ 5G,https://www.gsmarena.com/xiaomi_redmi_note_14_pro+_5g_(global)-13612.php,pending
+381,Redmi Note 14 Pro 5G (India),https://www.gsmarena.com/xiaomi_redmi_note_14_pro-13355.php,pending
+382,Redmi Note 14 Pro 4G,https://www.gsmarena.com/xiaomi_redmi_note_14_pro_4g_(global)-13614.php,pending
+383,Redmi Note 14 Pro 5G,https://www.gsmarena.com/xiaomi_redmi_note_14_pro_5g_(global)-13613.php,pending
+384,Redmi Note 14S,https://www.gsmarena.com/xiaomi_redmi_note_14s-13730.php,pending
+385,Redmi Note 15 (China),https://www.gsmarena.com/xiaomi_redmi_note_15_5g_(china)-14092.php,pending
+386,Redmi Note 15 Pro+ (China),https://www.gsmarena.com/xiaomi_redmi_note_15_pro+_5g_(china)-14091.php,pending
+387,Redmi Note 15 Pro (China),https://www.gsmarena.com/xiaomi_redmi_note_15_pro_5g_(china)-14090.php,pending
+388,Redmi Note 2,https://www.gsmarena.com/xiaomi_redmi_note_2-6992.php,pending
+389,Redmi Note 3,https://www.gsmarena.com/xiaomi_redmi_note_3-7863.php,pending
+390,Redmi Note 3 (MediaTek),https://www.gsmarena.com/xiaomi_redmi_note_3_(mediatek)-7769.php,pending
+391,Redmi Note 4,https://www.gsmarena.com/xiaomi_redmi_note_4-8531.php,pending
+392,Redmi Note 4 (MediaTek),https://www.gsmarena.com/xiaomi_redmi_note_4_(mediatek)-8291.php,pending
+393,Redmi Note 4G,https://www.gsmarena.com/xiaomi_redmi_note_4g-6561.php,pending
+394,Redmi Note 4X,https://www.gsmarena.com/xiaomi_redmi_note_4x-8580.php,pending
+395,Redmi Note 5 AI Dual Camera,https://www.gsmarena.com/xiaomi_redmi_note_5_ai_dual_camera-9120.php,pending
+396,Redmi Note 5 Pro,https://www.gsmarena.com/xiaomi_redmi_note_5_pro-8893.php,pending
+397,Redmi Note 6 Pro,https://www.gsmarena.com/xiaomi_redmi_note_6_pro-9333.php,pending
+398,Redmi Note 7,https://www.gsmarena.com/xiaomi_redmi_note_7-9513.php,pending
+399,Redmi Note 7 Pro,https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php,pending
+400,Redmi Note 7S,https://www.gsmarena.com/xiaomi_redmi_note_7s-9707.php,pending
+401,Redmi Note 8,https://www.gsmarena.com/xiaomi_redmi_note_8-9814.php,pending
+402,Redmi Note 8 2021,https://www.gsmarena.com/xiaomi_redmi_note_8_2021-10919.php,pending
+403,Redmi Note 8 Pro,https://www.gsmarena.com/xiaomi_redmi_note_8_pro-9812.php,pending
+404,Redmi Note 8T,https://www.gsmarena.com/xiaomi_redmi_note_8t-9946.php,pending
+405,Redmi Note 9,https://www.gsmarena.com/xiaomi_redmi_note_9-10192.php,pending
+406,Redmi Note 9 4G,https://www.gsmarena.com/xiaomi_redmi_note_9_4g-10609.php,pending
+407,Redmi Note 9 5G,https://www.gsmarena.com/xiaomi_redmi_note_9_5g-10581.php,pending
+408,Redmi Note 9 Pro,https://www.gsmarena.com/xiaomi_redmi_note_9_pro-10217.php,pending
+409,Redmi Note 9 Pro (India),https://www.gsmarena.com/xiaomi_redmi_note_9_pro_(india)-10120.php,pending
+410,Redmi Note 9 Pro 5G,https://www.gsmarena.com/xiaomi_redmi_note_9_pro_5g-10582.php,pending
+411,Redmi Note 9 Pro Max,https://www.gsmarena.com/xiaomi_redmi_note_9_pro_max-10126.php,pending
+412,Redmi Note 9S,https://www.gsmarena.com/xiaomi_redmi_note_9s-10147.php,pending
+413,Redmi Note 9T,https://www.gsmarena.com/xiaomi_redmi_note_9t-10661.php,pending
+414,Redmi Note Prime,https://www.gsmarena.com/xiaomi_redmi_note_prime-7822.php,pending
+415,Redmi Pro,https://www.gsmarena.com/xiaomi_redmi_pro-8233.php,pending
+416,Redmi Pro 2,https://www.gsmarena.com/xiaomi_redmi_pro_2-8558.php,pending
+417,Redmi S2 (Redmi Y2),https://www.gsmarena.com/xiaomi_redmi_s2_(redmi_y2)-9185.php,pending
+418,Redmi Turbo 3,https://www.gsmarena.com/xiaomi_redmi_turbo_3-12920.php,pending
+419,Redmi Turbo 4,https://www.gsmarena.com/xiaomi_redmi_turbo_4-13598.php,pending
+420,Redmi Turbo 4 Pro,https://www.gsmarena.com/xiaomi_redmi_turbo_4_pro-13617.php,pending
+421,Redmi Y1 (Note 5A),https://www.gsmarena.com/xiaomi_redmi_y1_(note_5a)-8753.php,pending
+422,Redmi Y1 Lite,https://www.gsmarena.com/xiaomi_redmi_y1_lite-8818.php,pending
+423,Redmi Y3,https://www.gsmarena.com/xiaomi_redmi_y3-9674.php,pending

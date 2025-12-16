@@ -33,16 +33,16 @@ impl PhoneScraper {
     let mut all_phones = Vec::new();
     let mut visited_urls = HashSet::new();
     let mut current_page_num = 1;
-    let max_pages = max_pages.unwrap_or(9); // Padrão: 9 páginas
+    let max_pages = max_pages.unwrap_or(10); // Padrão: 9 páginas
     let mut has_more_pages = true;
     
     println!("📖 Limite: {} páginas (celulares mais recentes)", max_pages);
     
     while has_more_pages && current_page_num <= max_pages {
         let page_url = if current_page_num == 1 {
-            "https://www.gsmarena.com/samsung-phones-9.php".to_string()
+            "https://www.gsmarena.com/xiaomi-phones-80.php".to_string()
         } else {
-            format!("https://www.gsmarena.com/samsung-phones-f-9-0-p{}.php", current_page_num)
+            format!("https://www.gsmarena.com/xiaomi-phones-f-80-0-p{}.php", current_page_num)
         };
         
         if visited_urls.contains(&page_url) {
@@ -482,8 +482,7 @@ fn extract_ppi(&self, text: &str) -> String {
             }
         }
         
-        // Limpar arquivo de progresso ao finalizar
-        self.clear_progress()?;
+      
         
         println!("\n✅ Processamento concluído! {} detalhes extraídos.", all_details.len());
         
@@ -604,16 +603,7 @@ fn extract_ppi(&self, text: &str) -> String {
         
         Ok(())
     }
-    
-    fn clear_progress(&self) -> Result<(), Box<dyn std::error::Error>> {
-        let progress_file = "scraper_progress.txt";
-        if std::path::Path::new(progress_file).exists() {
-            std::fs::remove_file(progress_file)?;
-            println!("🗑️  Arquivo de progresso removido.");
-        }
-        Ok(())
-    }
-    
+  
     fn countdown_pause(&self, seconds: u64) {
         for i in (1..=seconds).rev() {
             print!("\r   ⏱️  Retomando em {} segundos...", i);
@@ -643,8 +633,8 @@ fn extract_ppi(&self, text: &str) -> String {
         let current_time = Local::now();
         
         // Carregar progresso se existir
-        let progress_file = "one_per_minute_progress.json";
-        let results_file = "one_per_minute_results.csv";
+        let progress_file = "one_per_minute_progress_xiaomi.json";
+        let results_file = "one_per_minute_results_xiaomi.csv";
         let mut start_index = 0;
         
         // Criar ou abrir arquivo de resultados
@@ -660,7 +650,7 @@ fn extract_ppi(&self, text: &str) -> String {
         };
         
         // Criar arquivo de log
-        let mut log_file = File::create("one_per_minute_log.txt")?;
+        let mut log_file = File::create("one_per_minute_progress_xiaomi_log.txt")?;
         writeln!(log_file, "🚀 INÍCIO DO PROCESSAMENTO (1 POR MINUTO)")?;
         writeln!(log_file, "Data: {}", Local::now().format("%Y-%m-%d %H:%M:%S"))?;
         writeln!(log_file, "Total de telefones: {}", total)?;
@@ -748,7 +738,7 @@ fn extract_ppi(&self, text: &str) -> String {
         
         println!("\n✅ Processamento concluído!");
         println!("📁 Resultados salvos em: {}", results_file);
-        println!("📝 Log salvo em: one_per_minute_log.txt");
+        println!("📝 Log salvo em: oone_per_minute_progress_xiaomi_log.txt");
         println!("📊 RESUMO: {}✅ {}❌ ({:.1}% sucesso)", 
                 successful_count, failed_count,
                 (successful_count as f32 / total as f32) * 100.0);

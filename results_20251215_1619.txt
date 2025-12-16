@@ -1,0 +1,2407 @@
+DETALHES DE DISPLAY - SMARTPHONES SAMSUNG
+=========================================
+
+RESUMO:
+  • Completos: 221
+  • Falhos: 19
+
+ID: 1
+Modelo: Defy (2021)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_defy_(2021)-10969.php
+Status HTTP: 200
+---
+ID: 2
+Modelo: Defy 2
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2408
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_defy_2-12141.php
+Status HTTP: 200
+---
+ID: 3
+Modelo: Droid Maxx 2
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_droid_maxx_2-7712.php
+Status HTTP: 200
+---
+ID: 4
+Modelo: Droid Turbo 2
+Ratio: 16:9
+Área: 80.39 cm²
+Resolução: 1440x2560
+Tamanho: 5.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_droid_turbo_2-7713.php
+Status HTTP: 200
+---
+ID: 5
+Modelo: Edge+ (2020)
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge+_(2020)-10119.php
+Status HTTP: 200
+---
+ID: 6
+Modelo: Edge+ (2023)
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1080x2400
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge+_(2023)-12251.php
+Status HTTP: 200
+---
+ID: 7
+Modelo: Edge+ 5G UW (2022)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge+_5g_uw_(2022)-11755.php
+Status HTTP: 200
+---
+ID: 8
+Modelo: Edge
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2340
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge-10133.php
+Status HTTP: 200
+---
+ID: 9
+Modelo: Edge (2021)
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_(2021)-11061.php
+Status HTTP: 200
+---
+ID: 10
+Modelo: Edge (2022)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_(2022)-11777.php
+Status HTTP: 200
+---
+ID: 11
+Modelo: Edge (2023)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_(2023)-12620.php
+Status HTTP: 200
+---
+ID: 12
+Modelo: Edge (2024)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_(2024)-13111.php
+Status HTTP: 200
+---
+ID: 13
+Modelo: Edge (2025)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_(2025)-13907.php
+Status HTTP: 200
+---
+ID: 14
+Modelo: Edge 20
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_20-11034.php
+Status HTTP: 200
+---
+ID: 15
+Modelo: Edge 20 Fusion
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_20_fusion-11056.php
+Status HTTP: 200
+---
+ID: 16
+Modelo: Edge 20 Lite
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_20_lite-11035.php
+Status HTTP: 200
+---
+ID: 17
+Modelo: Edge 20 Pro
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_20_pro-11004.php
+Status HTTP: 200
+---
+ID: 18
+Modelo: Edge 30
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_30-11500.php
+Status HTTP: 200
+---
+ID: 19
+Modelo: Edge 30 Fusion
+Ratio: 20:9
+Área: 103.58 cm²
+Resolução: 1080x2400
+Tamanho: 6.55"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_30_fusion-11851.php
+Status HTTP: 200
+---
+ID: 20
+Modelo: Edge 30 Neo
+Ratio: 20:9
+Área: 95.22 cm²
+Resolução: 1080x2400
+Tamanho: 6.28"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_30_neo-11635.php
+Status HTTP: 200
+---
+ID: 21
+Modelo: Edge 30 Pro
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_30_pro-11320.php
+Status HTTP: 200
+---
+ID: 22
+Modelo: Edge 30 Ultra
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1080x2400
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_30_ultra-11206.php
+Status HTTP: 200
+---
+ID: 23
+Modelo: Edge 40
+Ratio: 20:9
+Área: 103.58 cm²
+Resolução: 1080x2400
+Tamanho: 6.55"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_40-12204.php
+Status HTTP: 200
+---
+ID: 24
+Modelo: Edge 40 Neo
+Ratio: 20:9
+Área: 103.58 cm²
+Resolução: 1080x2400
+Tamanho: 6.55"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_40_neo-12467.php
+Status HTTP: 200
+---
+ID: 25
+Modelo: Edge 40 Pro
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1080x2400
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_40_pro-12127.php
+Status HTTP: 200
+---
+ID: 26
+Modelo: Edge 50
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_50-13231.php
+Status HTTP: 200
+---
+ID: 27
+Modelo: Edge 50 Fusion
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_50_fusion-12871.php
+Status HTTP: 200
+---
+ID: 28
+Modelo: Edge 50 Neo
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1200x2670
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_50_neo-13224.php
+Status HTTP: 200
+---
+ID: 29
+Modelo: Edge 50 Pro
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_50_pro-12909.php
+Status HTTP: 200
+---
+ID: 30
+Modelo: Edge 50 Ultra
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_50_ultra-12919.php
+Status HTTP: 200
+---
+ID: 31
+Modelo: Edge 5G UW (2021)
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_5g_uw_(2021)-11753.php
+Status HTTP: 200
+---
+ID: 32
+Modelo: Edge 60
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1220x2712
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_60-13779.php
+Status HTTP: 200
+---
+ID: 33
+Modelo: Edge 60 Fusion
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1220x2712
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_60_fusion-13752.php
+Status HTTP: 200
+---
+ID: 34
+Modelo: Edge 60 Neo
+Ratio: 20:9
+Área: 97.66 cm²
+Resolução: 1200x2670
+Tamanho: 6.36"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_60_neo_5g-14124.php
+Status HTTP: 200
+---
+ID: 35
+Modelo: Edge 60 Pro
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_60_pro-13815.php
+Status HTTP: 200
+---
+ID: 36
+Modelo: Edge 60 Stylus
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_60_stylus_5g-13785.php
+Status HTTP: 200
+---
+ID: 37
+Modelo: Edge 60s
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1220x2712
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_60s_5g-13856.php
+Status HTTP: 200
+---
+ID: 38
+Modelo: Edge 70
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_70_5g-14216.php
+Status HTTP: 200
+---
+ID: 39
+Modelo: Edge S
+Ratio: 21:9
+Área: 104.86 cm²
+Resolução: 1080x2520
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_s-10705.php
+Status HTTP: 200
+---
+ID: 40
+Modelo: Edge S30
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_s30-11263.php
+Status HTTP: 200
+---
+ID: 41
+Modelo: Edge X30
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_edge_x30-11262.php
+Status HTTP: 200
+---
+ID: 42
+Modelo: G96
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1080x2400
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_g96_5g-13989.php
+Status HTTP: 200
+---
+ID: 43
+Modelo: G Pure
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_g_pure-11145.php
+Status HTTP: 200
+---
+ID: 44
+Modelo: Moto 360 Sport (1st gen)
+Ratio: N/A
+Área: N/A cm²
+Resolução: 360x325
+Tamanho: 1.37"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_360_sport_(1st_gen)-7685.php
+Status HTTP: 200
+---
+ID: 45
+Modelo: Moto C
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 480x854
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_c-8645.php
+Status HTTP: 200
+---
+ID: 46
+Modelo: Moto C Plus
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_c_plus-8646.php
+Status HTTP: 200
+---
+ID: 47
+Modelo: Moto E13
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e13-12090.php
+Status HTTP: 200
+---
+ID: 48
+Modelo: Moto E14
+Ratio: 20:9
+Área: 103.90 cm²
+Resolução: 720x1612
+Tamanho: 6.56"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e14-13148.php
+Status HTTP: 200
+---
+ID: 49
+Modelo: Moto E15
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 720x1604
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e15-13574.php
+Status HTTP: 200
+---
+ID: 50
+Modelo: Moto E20
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e20-11072.php
+Status HTTP: 200
+---
+ID: 51
+Modelo: Moto E22
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e22-11883.php
+Status HTTP: 200
+---
+ID: 52
+Modelo: Moto E22i
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e22i-11884.php
+Status HTTP: 200
+---
+ID: 53
+Modelo: Moto E22s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e22s-11837.php
+Status HTTP: 200
+---
+ID: 54
+Modelo: Moto E3
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e3-8198.php
+Status HTTP: 200
+---
+ID: 55
+Modelo: Moto E30
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e30-11199.php
+Status HTTP: 200
+---
+ID: 56
+Modelo: Moto E32
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e32-11485.php
+Status HTTP: 200
+---
+ID: 57
+Modelo: Moto E32 (India)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e32_(india)-11920.php
+Status HTTP: 200
+---
+ID: 58
+Modelo: Moto E32s
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e32s-11555.php
+Status HTTP: 200
+---
+ID: 59
+Modelo: Moto E3 Power
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e3_power-8337.php
+Status HTTP: 200
+---
+ID: 60
+Modelo: Moto E4
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e4-8721.php
+Status HTTP: 200
+---
+ID: 61
+Modelo: Moto E40
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e40-11112.php
+Status HTTP: 200
+---
+ID: 62
+Modelo: Moto E4 (USA)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e4_(usa)-8665.php
+Status HTTP: 200
+---
+ID: 63
+Modelo: Moto E4 Plus
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e4_plus-8722.php
+Status HTTP: 200
+---
+ID: 64
+Modelo: Moto E4 Plus (USA)
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 720x1280
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e4_plus_(usa)-8666.php
+Status HTTP: 200
+---
+ID: 65
+Modelo: Moto E5
+Ratio: 18:9
+Área: 83.84 cm²
+Resolução: 720x1440
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e5-9008.php
+Status HTTP: 200
+---
+ID: 66
+Modelo: Moto E5 Cruise
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 720x1280
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e5_cruise-9575.php
+Status HTTP: 200
+---
+ID: 67
+Modelo: Moto E5 Play
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 720x1280
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e5_play-9175.php
+Status HTTP: 200
+---
+ID: 68
+Modelo: Moto E5 Play Go
+Ratio: 18:9
+Área: 69.78 cm²
+Resolução: 480x960
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e5_play_go-9270.php
+Status HTTP: 200
+---
+ID: 69
+Modelo: Moto E5 Plus
+Ratio: 18:9
+Área: 92.90 cm²
+Resolução: 720x1440
+Tamanho: 6.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e5_plus-9095.php
+Status HTTP: 200
+---
+ID: 70
+Modelo: Moto E6
+Ratio: 18:9
+Área: 78.06 cm²
+Resolução: 720x1440
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e6-9682.php
+Status HTTP: 200
+---
+ID: 71
+Modelo: Moto E6 Play
+Ratio: 18:9
+Área: 78.06 cm²
+Resolução: 720x1440
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e6_play-9932.php
+Status HTTP: 200
+---
+ID: 72
+Modelo: Moto E6 Plus
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 720x1560
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e6_plus-9831.php
+Status HTTP: 200
+---
+ID: 73
+Modelo: Moto E6i
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 720x1560
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e6i-10734.php
+Status HTTP: 200
+---
+ID: 74
+Modelo: Moto E6s (2020)
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 720x1560
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e6s_(2020)-10135.php
+Status HTTP: 200
+---
+ID: 75
+Modelo: Moto E7
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e7-10511.php
+Status HTTP: 200
+---
+ID: 76
+Modelo: Moto E7 Plus
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e7_plus-10436.php
+Status HTTP: 200
+---
+ID: 77
+Modelo: Moto E7 Power
+Ratio: 20:9
+Área: 102.32 cm²
+Resolução: 720x1600
+Tamanho: 6.51"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e7_power-10738.php
+Status HTTP: 200
+---
+ID: 78
+Modelo: Moto E7i Power
+Ratio: 20:9
+Área: 102.32 cm²
+Resolução: 720x1600
+Tamanho: 6.51"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e7i_power-11000.php
+Status HTTP: 200
+---
+ID: 79
+Modelo: Moto E (2020)
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 720x1520
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_e_(2020)-10287.php
+Status HTTP: 200
+---
+ID: 80
+Modelo: Moto G04
+Ratio: 20:9
+Área: 103.90 cm²
+Resolução: 720x1612
+Tamanho: 6.56"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g04-12803.php
+Status HTTP: 200
+---
+ID: 81
+Modelo: Moto G04s
+Ratio: 20:9
+Área: 103.90 cm²
+Resolução: 720x1612
+Tamanho: 6.56"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g04s-12921.php
+Status HTTP: 200
+---
+ID: 82
+Modelo: Moto G05
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 720x1604
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g05-13573.php
+Status HTTP: 200
+---
+ID: 83
+Modelo: Moto G06
+Ratio: 55:21
+Área: 101.76 cm²
+Resolução: 720x1640
+Tamanho: 6.88"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g06-14115.php
+Status HTTP: 200
+---
+ID: 84
+Modelo: Moto G06 Power
+Ratio: 74:45
+Área: 135.57 cm²
+Resolução: 720x1640
+Tamanho: 6.88"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g06_power-14125.php
+Status HTTP: 200
+---
+ID: 85
+Modelo: Moto G10
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g10-10723.php
+Status HTTP: 200
+---
+ID: 86
+Modelo: Moto G100 (2021)
+Ratio: 21:9
+Área: 104.86 cm²
+Resolução: 1080x2520
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g100-10791.php
+Status HTTP: 200
+---
+ID: 87
+Modelo: Moto G100
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g100_5g_(china)-14228.php
+Status HTTP: 200
+---
+ID: 88
+Modelo: Moto G100S
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g100s_5g_(china)-14293.php
+Status HTTP: 200
+---
+ID: 89
+Modelo: Moto G10 Power
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g10_power-10778.php
+Status HTTP: 200
+---
+ID: 90
+Modelo: Moto G13
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g13-12091.php
+Status HTTP: 200
+---
+ID: 91
+Modelo: Moto G14
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g14-12447.php
+Status HTTP: 200
+---
+ID: 92
+Modelo: Moto G15
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g15-13507.php
+Status HTTP: 200
+---
+ID: 93
+Modelo: Moto G15 Power
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g15_power-13572.php
+Status HTTP: 200
+---
+ID: 94
+Modelo: Moto G20
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g20-10828.php
+Status HTTP: 200
+---
+ID: 95
+Modelo: Moto G200 5G
+Ratio: 1633:1
+Área: 0.18 cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g200_5g-11222.php
+Status HTTP: 200
+---
+ID: 96
+Modelo: Moto G22
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g22-11365.php
+Status HTTP: 200
+---
+ID: 97
+Modelo: Moto G23
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g23-12088.php
+Status HTTP: 200
+---
+ID: 98
+Modelo: Moto G24
+Ratio: 20:9
+Área: 103.90 cm²
+Resolução: 720x1612
+Tamanho: 6.56"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g24-12802.php
+Status HTTP: 200
+---
+ID: 99
+Modelo: Moto G24 Power
+Ratio: 20:9
+Área: 103.90 cm²
+Resolução: 720x1612
+Tamanho: 6.56"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g24_power-12813.php
+Status HTTP: 200
+---
+ID: 100
+Modelo: Moto G30
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g30-10724.php
+Status HTTP: 200
+---
+ID: 101
+Modelo: Moto G31
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g31-11225.php
+Status HTTP: 200
+---
+ID: 102
+Modelo: Moto G32
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g32-11733.php
+Status HTTP: 200
+---
+ID: 103
+Modelo: Moto G34
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g34-12759.php
+Status HTTP: 200
+---
+ID: 104
+Modelo: Moto G35
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g35-13288.php
+Status HTTP: 200
+---
+ID: 105
+Modelo: Moto G4
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g4-8103.php
+Status HTTP: 200
+---
+ID: 106
+Modelo: Moto G40 Fusion
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g40_fusion-10862.php
+Status HTTP: 200
+---
+ID: 107
+Modelo: Moto G41
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g41-11224.php
+Status HTTP: 200
+---
+ID: 108
+Modelo: Moto G42
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g42-11608.php
+Status HTTP: 200
+---
+ID: 109
+Modelo: Moto G45
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g45-13267.php
+Status HTTP: 200
+---
+ID: 110
+Modelo: Moto G4 Play
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g4_play-8104.php
+Status HTTP: 200
+---
+ID: 111
+Modelo: Moto G4 Plus
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g4_plus-8050.php
+Status HTTP: 200
+---
+ID: 112
+Modelo: Moto G5
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 1080x1920
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g5-8454.php
+Status HTTP: 200
+---
+ID: 113
+Modelo: Moto G50
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g50-10789.php
+Status HTTP: 200
+---
+ID: 114
+Modelo: Moto G50 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g50_5g-11070.php
+Status HTTP: 200
+---
+ID: 115
+Modelo: Moto G51 5G
+Ratio: 20:9
+Área: 111.64 cm²
+Resolução: 1080x2400
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g51_5g-11194.php
+Status HTTP: 200
+---
+ID: 116
+Modelo: Moto G52
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g52-11457.php
+Status HTTP: 200
+---
+ID: 117
+Modelo: Moto G53
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g53-12028.php
+Status HTTP: 200
+---
+ID: 118
+Modelo: Moto G54
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g54-12543.php
+Status HTTP: 200
+---
+ID: 119
+Modelo: Moto G54 Power
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g54_power-12503.php
+Status HTTP: 200
+---
+ID: 120
+Modelo: Moto G55
+Ratio: 20:9
+Área: 101.69 cm²
+Resolução: 1080x2400
+Tamanho: 6.49"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g55-13278.php
+Status HTTP: 200
+---
+ID: 121
+Modelo: Moto G56
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g56_5g-13841.php
+Status HTTP: 200
+---
+ID: 122
+Modelo: Moto G57
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g57_5g-14284.php
+Status HTTP: 200
+---
+ID: 123
+Modelo: Moto G57 Power
+Ratio: 20:9
+Área: 109.03 cm²
+Resolução: 1080x2400
+Tamanho: 6.72"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g57_power_5g-14282.php
+Status HTTP: 200
+---
+ID: 124
+Modelo: Moto G5 Plus
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 1080x1920
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g5_plus-8453.php
+Status HTTP: 200
+---
+ID: 125
+Modelo: Moto G5S
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 1080x1920
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g5s-8698.php
+Status HTTP: 200
+---
+ID: 126
+Modelo: Moto G5S Plus
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g5s_plus-8699.php
+Status HTTP: 200
+---
+ID: 127
+Modelo: Moto G6
+Ratio: 18:9
+Área: 83.84 cm²
+Resolução: 1080x2160
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g6-9000.php
+Status HTTP: 200
+---
+ID: 128
+Modelo: Moto G60
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g60-10861.php
+Status HTTP: 200
+---
+ID: 129
+Modelo: Moto G60S
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g60s-11047.php
+Status HTTP: 200
+---
+ID: 130
+Modelo: Moto G62 (India)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g62_(india)-11754.php
+Status HTTP: 200
+---
+ID: 131
+Modelo: Moto G62 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g62_5g-11602.php
+Status HTTP: 200
+---
+ID: 132
+Modelo: Moto G64
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g64-12925.php
+Status HTTP: 200
+---
+ID: 133
+Modelo: Moto G67 Power
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g67_power_5g-14266.php
+Status HTTP: 200
+---
+ID: 134
+Modelo: Moto G6 Play
+Ratio: 18:9
+Área: 83.84 cm²
+Resolução: 720x1440
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g6_play-9002.php
+Status HTTP: 200
+---
+ID: 135
+Modelo: Moto G6 Plus
+Ratio: 18:9
+Área: 89.83 cm²
+Resolução: 1080x2160
+Tamanho: 5.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g6_plus-9001.php
+Status HTTP: 200
+---
+ID: 136
+Modelo: Moto G7
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 1080x2270
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g7-9357.php
+Status HTTP: 200
+---
+ID: 137
+Modelo: Moto G71 5G
+Ratio: 20:9
+Área: 98.89 cm²
+Resolução: 1080x2400
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g71_5g-11223.php
+Status HTTP: 200
+---
+ID: 138
+Modelo: Moto G71s
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2440
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g71s-11531.php
+Status HTTP: 200
+---
+ID: 139
+Modelo: Moto G72
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g72-11910.php
+Status HTTP: 200
+---
+ID: 140
+Modelo: Moto G73
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g73-12079.php
+Status HTTP: 200
+---
+ID: 141
+Modelo: Moto G75
+Ratio: 48:58
+Área: 145.67 cm²
+Resolução: 1080x2388
+Tamanho: 6.78"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g75-13372.php
+Status HTTP: 200
+---
+ID: 142
+Modelo: Moto G7 Play
+Ratio: 19:9
+Área: 81.09 cm²
+Resolução: 720x1512
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g7_play-9532.php
+Status HTTP: 200
+---
+ID: 143
+Modelo: Moto G7 Plus
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 1080x2270
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g7_plus-9533.php
+Status HTTP: 200
+---
+ID: 144
+Modelo: Moto G7 Power
+Ratio: 19.5:9
+Área: 94.36 cm²
+Resolução: 720x1570
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g7_power-9527.php
+Status HTTP: 200
+---
+ID: 145
+Modelo: Moto G8
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 720x1560
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g8-10051.php
+Status HTTP: 200
+---
+ID: 146
+Modelo: Moto G82
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g82-11508.php
+Status HTTP: 200
+---
+ID: 147
+Modelo: Moto G84
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g84-12526.php
+Status HTTP: 200
+---
+ID: 148
+Modelo: Moto G85
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1080x2400
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g85-13144.php
+Status HTTP: 200
+---
+ID: 149
+Modelo: Moto G86
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1220x2712
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g86_5g-13917.php
+Status HTTP: 200
+---
+ID: 150
+Modelo: Moto G86 Power
+Ratio: 20:9
+Área: 107.41 cm²
+Resolução: 1220x2712
+Tamanho: 6.67"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g86_power_5g-13918.php
+Status HTTP: 200
+---
+ID: 151
+Modelo: Moto G8 Play
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 720x1520
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g8_play-9918.php
+Status HTTP: 200
+---
+ID: 152
+Modelo: Moto G8 Plus
+Ratio: 19:9
+Área: 99.07 cm²
+Resolução: 1080x2280
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g8_plus-9916.php
+Status HTTP: 200
+---
+ID: 153
+Modelo: Moto G8 Power
+Ratio: 1466:1
+Área: 0.18 cm²
+Resolução: 1080x2300
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g8_power-10052.php
+Status HTTP: 200
+---
+ID: 154
+Modelo: Moto G8 Power Lite
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g8_power_lite-10154.php
+Status HTTP: 200
+---
+ID: 155
+Modelo: Moto G9 (India)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g9_(india)-10384.php
+Status HTTP: 200
+---
+ID: 156
+Modelo: Moto G9 Play
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g9_play-10387.php
+Status HTTP: 200
+---
+ID: 157
+Modelo: Moto G9 Plus
+Ratio: 20:9
+Área: 111.97 cm²
+Resolução: 1080x2400
+Tamanho: 6.81"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g9_plus-10432.php
+Status HTTP: 200
+---
+ID: 158
+Modelo: Moto G9 Power
+Ratio: 1680:1
+Área: 0.18 cm²
+Resolução: 720x1640
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g9_power-10574.php
+Status HTTP: 200
+---
+ID: 159
+Modelo: Moto G (2022)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_(2022)-11491.php
+Status HTTP: 200
+---
+ID: 160
+Modelo: Moto G (2023)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_(2023)-12249.php
+Status HTTP: 200
+---
+ID: 161
+Modelo: Moto G (2024)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 720x1612
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_(2024)-12866.php
+Status HTTP: 200
+---
+ID: 162
+Modelo: Moto G (2025)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1604
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_(2025)-13624.php
+Status HTTP: 200
+---
+ID: 163
+Modelo: Moto G 5G
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_5g-10577.php
+Status HTTP: 200
+---
+ID: 164
+Modelo: Moto G (2026)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1604
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_5g_(2026)-14138.php
+Status HTTP: 200
+---
+ID: 165
+Modelo: Moto G 5G Plus
+Ratio: 21:9
+Área: 104.86 cm²
+Resolução: 1080x2520
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_5g_plus-10307.php
+Status HTTP: 200
+---
+ID: 166
+Modelo: Moto G Dual SIM (3rd gen)
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_dual_sim_(3rd_gen)-7469.php
+Status HTTP: 200
+---
+ID: 167
+Modelo: Moto G Fast
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 720x1560
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_fast-10286.php
+Status HTTP: 200
+---
+ID: 168
+Modelo: Moto G Play (2021)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_play_(2021)-10673.php
+Status HTTP: 200
+---
+ID: 169
+Modelo: Moto G Play (2023)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_play_(2023)-11957.php
+Status HTTP: 200
+---
+ID: 170
+Modelo: Moto G Play (2024)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_play_(2024)-12798.php
+Status HTTP: 200
+---
+ID: 171
+Modelo: Moto G Play (2026)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 720x1604
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_play_5g_(2026)-14139.php
+Status HTTP: 200
+---
+ID: 172
+Modelo: Moto G Power
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2300
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_power-10076.php
+Status HTTP: 200
+---
+ID: 173
+Modelo: Moto G Power (2021)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 720x1600
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_power_(2021)-10672.php
+Status HTTP: 200
+---
+ID: 174
+Modelo: Moto G Power (2022)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_power_(2022)-11211.php
+Status HTTP: 200
+---
+ID: 175
+Modelo: Moto G Power (2024)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_power_(2024)-12867.php
+Status HTTP: 200
+---
+ID: 176
+Modelo: Moto G Power (2025)
+Ratio: 1358:1
+Área: 0.22 cm²
+Resolução: 1080x2388
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_power_(2025)-13623.php
+Status HTTP: 200
+---
+ID: 177
+Modelo: Moto G Power 5G
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 1080x2400
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_power_5g-12219.php
+Status HTTP: 200
+---
+ID: 178
+Modelo: Moto G Pro
+Ratio: 1422:1
+Área: 0.19 cm²
+Resolução: 1080x2300
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_pro-10269.php
+Status HTTP: 200
+---
+ID: 179
+Modelo: Moto G Stylus
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2300
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus-10057.php
+Status HTTP: 200
+---
+ID: 180
+Modelo: Moto G Stylus (2021)
+Ratio: 20:9
+Área: 111.64 cm²
+Resolução: 1080x2400
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_(2021)-10583.php
+Status HTTP: 200
+---
+ID: 181
+Modelo: Moto G Stylus (2022)
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_(2022)-11282.php
+Status HTTP: 200
+---
+ID: 182
+Modelo: Moto G Stylus (2023)
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_(2023)-12250.php
+Status HTTP: 200
+---
+ID: 183
+Modelo: Moto G Stylus 5G
+Ratio: 20:9
+Área: 111.64 cm²
+Resolução: 1080x2400
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_5g-10947.php
+Status HTTP: 200
+---
+ID: 184
+Modelo: Moto G Stylus 5G (2022)
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2460
+Tamanho: 6.8"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2022)-11462.php
+Status HTTP: 200
+---
+ID: 185
+Modelo: Moto G Stylus 5G (2023)
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2023)-12301.php
+Status HTTP: 200
+---
+ID: 186
+Modelo: Moto G Stylus 5G (2024)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2024)-12787.php
+Status HTTP: 200
+---
+ID: 187
+Modelo: Moto G Stylus 5G (2025)
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2025)-13784.php
+Status HTTP: 200
+---
+ID: 188
+Modelo: Moto G Turbo
+Ratio: 16:9
+Área: 68.92 cm²
+Resolução: 720x1280
+Tamanho: 5.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_g_turbo-7743.php
+Status HTTP: 200
+---
+ID: 189
+Modelo: Moto M
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_m-8299.php
+Status HTTP: 200
+---
+ID: 190
+Modelo: Moto S30 Pro
+Ratio: 20:9
+Área: 103.58 cm²
+Resolução: 1080x2400
+Tamanho: 6.55"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_s30_pro-11750.php
+Status HTTP: 200
+---
+ID: 191
+Modelo: Moto S50
+Ratio: 19:9
+Área: 100.96 cm²
+Resolução: 1272x2670
+Tamanho: 6.36"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_s50-13293.php
+Status HTTP: 200
+---
+ID: 192
+Modelo: Moto X30 Pro
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x30_pro-11366.php
+Status HTTP: 200
+---
+ID: 193
+Modelo: Moto X4
+Ratio: 16:9
+Área: 74.54 cm²
+Resolução: 1080x1920
+Tamanho: 5.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x4-8634.php
+Status HTTP: 200
+---
+ID: 194
+Modelo: Moto X40
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x40-11961.php
+Status HTTP: 200
+---
+ID: 195
+Modelo: Moto X5
+Ratio: 18:9
+Área: 89.83 cm²
+Resolução: 1080x2160
+Tamanho: 5.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x5-8999.php
+Status HTTP: 200
+---
+ID: 196
+Modelo: Moto X50 Ultra
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1220x2712
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x50_ultra-13008.php
+Status HTTP: 200
+---
+ID: 197
+Modelo: Moto X Force
+Ratio: 16:9
+Área: 80.39 cm²
+Resolução: 1440x2560
+Tamanho: 5.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x_force-7555.php
+Status HTTP: 200
+---
+ID: 198
+Modelo: Moto X Play
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x_play-7454.php
+Status HTTP: 200
+---
+ID: 199
+Modelo: Moto X Play Dual SIM
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x_play_dual_sim-7470.php
+Status HTTP: 200
+---
+ID: 200
+Modelo: Moto X Style
+Ratio: 16:9
+Área: 89.57 cm²
+Resolução: 1440x2560
+Tamanho: 5.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_x_style-7229.php
+Status HTTP: 200
+---
+ID: 201
+Modelo: Moto Z
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1440x2560
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z-8094.php
+Status HTTP: 200
+---
+ID: 202
+Modelo: Moto Z2 Force
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1440x2560
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z2_force-8693.php
+Status HTTP: 200
+---
+ID: 203
+Modelo: Moto Z2 Play
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z2_play-8674.php
+Status HTTP: 200
+---
+ID: 204
+Modelo: Moto Z3
+Ratio: 18:9
+Área: 93.21 cm²
+Resolução: 1080x2160
+Tamanho: 6.01"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z3-9283.php
+Status HTTP: 200
+---
+ID: 205
+Modelo: Moto Z3 Play
+Ratio: 18:9
+Área: 93.21 cm²
+Resolução: 1080x2160
+Tamanho: 6.01"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z3_play-9003.php
+Status HTTP: 200
+---
+ID: 206
+Modelo: Moto Z4
+Ratio: 19.5:9
+Área: 100.55 cm²
+Resolução: 1080x2340
+Tamanho: 6.4"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z4-9691.php
+Status HTTP: 200
+---
+ID: 207
+Modelo: Moto Z Force
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1440x2560
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z_force-8093.php
+Status HTTP: 200
+---
+ID: 208
+Modelo: Moto Z Play
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_moto_z_play-8310.php
+Status HTTP: 200
+---
+ID: 209
+Modelo: One (P30 Play)
+Ratio: 19:9
+Área: 86.89 cm²
+Resolução: 720x1520
+Tamanho: 5.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_(p30_play)-9310.php
+Status HTTP: 200
+---
+ID: 210
+Modelo: One 5G
+Ratio: 21:9
+Área: 104.86 cm²
+Resolução: 1080x2520
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_5g-10407.php
+Status HTTP: 200
+---
+ID: 211
+Modelo: One 5G Ace
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_5g_ace-10671.php
+Status HTTP: 200
+---
+ID: 212
+Modelo: One 5G UW
+Ratio: 21:9
+Área: 104.86 cm²
+Resolução: 1080x2520
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_5g_uw-10518.php
+Status HTTP: 200
+---
+ID: 213
+Modelo: one 5G UW ace
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_5g_uw_ace-11005.php
+Status HTTP: 200
+---
+ID: 214
+Modelo: One Action
+Ratio: 21:9
+Área: 92.71 cm²
+Resolução: 1080x2520
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_action-9739.php
+Status HTTP: 200
+---
+ID: 215
+Modelo: One Fusion+
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_fusion+-10290.php
+Status HTTP: 200
+---
+ID: 216
+Modelo: One Fusion
+Ratio: 20:9
+Área: 102.01 cm²
+Resolução: 720x1600
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_fusion-10317.php
+Status HTTP: 200
+---
+ID: 217
+Modelo: One Hyper
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1080x2340
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_hyper-9944.php
+Status HTTP: 200
+---
+ID: 218
+Modelo: One Macro
+Ratio: 19:9
+Área: 95.95 cm²
+Resolução: 720x1520
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_macro-9900.php
+Status HTTP: 200
+---
+ID: 219
+Modelo: One Power (P30 Note)
+Ratio: 18.7:9
+Área: 96.91 cm²
+Resolução: 1080x2246
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_power_(p30_note)-9221.php
+Status HTTP: 200
+---
+ID: 220
+Modelo: One Vision
+Ratio: 21:9
+Área: 92.71 cm²
+Resolução: 1080x2520
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_vision-9647.php
+Status HTTP: 200
+---
+ID: 221
+Modelo: One Vision Plus
+Ratio: 19:9
+Área: 99.07 cm²
+Resolução: 1080x2280
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_vision_plus-10374.php
+Status HTTP: 200
+---
+ID: 222
+Modelo: One Zoom
+Ratio: 19.5:9
+Área: 100.23 cm²
+Resolução: 1080x2340
+Tamanho: 6.39"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_one_zoom-9745.php
+Status HTTP: 200
+---
+ID: 223
+Modelo: P30
+Ratio: 18.7:9
+Área: 96.91 cm²
+Resolução: 1080x2246
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_p30-9294.php
+Status HTTP: 200
+---
+ID: 224
+Modelo: Razr+ 2024
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr+_2024-13213.php
+Status HTTP: 200
+---
+ID: 225
+Modelo: Razr+ 2025
+Ratio: 16:10
+Área: 138.05 cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr+_2025-13825.php
+Status HTTP: 200
+---
+ID: 226
+Modelo: Razr 2019
+Ratio: N/A
+Área: N/A cm²
+Resolução: 876x2142
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_2019-9630.php
+Status HTTP: 200
+---
+ID: 227
+Modelo: Razr 2022
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_2022-11752.php
+Status HTTP: 200
+---
+ID: 228
+Modelo: Razr 2024
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_2024-13214.php
+Status HTTP: 200
+---
+ID: 229
+Modelo: Razr 2025
+Ratio: 14:09
+Área: 139.72 cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_2025-13824.php
+Status HTTP: 200
+---
+ID: 230
+Modelo: Razr 40
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_40-12311.php
+Status HTTP: 200
+---
+ID: 231
+Modelo: Razr 40 Ultra
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_40_ultra-12169.php
+Status HTTP: 200
+---
+ID: 232
+Modelo: Razr 50
+Ratio: 22:54
+Área: 107.33 cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_50-13151.php
+Status HTTP: 200
+---
+ID: 233
+Modelo: Razr 50 Ultra
+Ratio: 21:54
+Área: 103.76 cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_50_ultra-13150.php
+Status HTTP: 200
+---
+ID: 234
+Modelo: Razr 5G
+Ratio: N/A
+Área: N/A cm²
+Resolução: 876x2142
+Tamanho: 6.2"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_5g-10410.php
+Status HTTP: 200
+---
+ID: 235
+Modelo: Razr 60
+Ratio: 45:08
+Área: 52.93 cm²
+Resolução: 1080x2640
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_60-13749.php
+Status HTTP: 200
+---
+ID: 236
+Modelo: Razr 60 Ultra
+Ratio: 33:20
+Área: 140.12 cm²
+Resolução: 1224x2912
+Tamanho: 7.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_60_ultra-13805.php
+Status HTTP: 200
+---
+ID: 237
+Modelo: Razr Ultra 2025
+Ratio: N/A
+Área: N/A cm²
+Resolução: 1224x2912
+Tamanho: 7.0"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_razr_ultra_2025-13823.php
+Status HTTP: 200
+---
+ID: 238
+Modelo: S50 Neo
+Ratio: 20:9
+Área: 108.38 cm²
+Resolução: 1080x2400
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_s50_neo-13152.php
+Status HTTP: 200
+---
+ID: 239
+Modelo: ThinkPhone
+Ratio: 20:9
+Área: 105.17 cm²
+Resolução: 1080x2400
+Tamanho: 6.6"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_thinkphone-12059.php
+Status HTTP: 200
+---
+ID: 240
+Modelo: ThinkPhone 25
+Ratio: 19.5:9
+Área: 99.29 cm²
+Resolução: 1220x2670
+Tamanho: 6.36"
+PPI: N/A
+URL: https://www.gsmarena.com/motorola_thinkphone_25-13373.php
+Status HTTP: 200
+---

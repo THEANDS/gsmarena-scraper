@@ -1,0 +1,1277 @@
+🚀 INÍCIO DO PROCESSAMENTO (1 POR MINUTO)
+Data: 2025-12-15 18:09:59
+Total de telefones: 423
+============================================================
+
+[1/423] 18:09:59 - 11 Lite 5G NE
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[2/423] 18:09:59 - 11i
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[3/423] 18:09:59 - 11i HyperCharge 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[4/423] 18:09:59 - 11T
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[5/423] 18:09:59 - 11T Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[6/423] 18:09:59 - 12
+   ✅ Sucesso - Ratio: 20:9, Área: 95.22 cm²
+
+[7/423] 18:09:59 - 12 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[8/423] 18:09:59 - 12 Lite NE
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[9/423] 18:09:59 - 12 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[10/423] 18:09:59 - 12 Pro (Dimensity)
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[11/423] 18:09:59 - 12S
+   ✅ Sucesso - Ratio: 20:9, Área: 95.22 cm²
+
+[12/423] 18:09:59 - 12S Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[13/423] 18:09:59 - 12S Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[14/423] 18:09:59 - 12T
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[15/423] 18:09:59 - 12T Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[16/423] 18:09:59 - 12X
+   ✅ Sucesso - Ratio: 20:9, Área: 95.22 cm²
+
+[17/423] 18:09:59 - 13
+   ✅ Sucesso - Ratio: 20:9, Área: 97.66 cm²
+
+[18/423] 18:09:59 - 13 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[19/423] 18:09:59 - 13 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[20/423] 18:09:59 - 13 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[21/423] 18:09:59 - 13T
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[22/423] 18:09:59 - 13T Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[23/423] 18:09:59 - 14
+   ✅ Sucesso - Ratio: 20:9, Área: 97.66 cm²
+
+[24/423] 18:09:59 - 14 Civi
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[25/423] 18:09:59 - 14 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[26/423] 18:09:59 - 14 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[27/423] 18:09:59 - 14T
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[28/423] 18:09:59 - 14T Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[29/423] 18:09:59 - 15
+   ✅ Sucesso - Ratio: 20:9, Área: 97.66 cm²
+
+[30/423] 18:09:59 - 15 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[31/423] 18:09:59 - 15 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[32/423] 18:09:59 - 15S Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 109.35 cm²
+
+[33/423] 18:09:59 - 15T
+   ✅ Sucesso - Ratio: 19.5:9, Área: 114.51 cm²
+
+[34/423] 18:09:59 - 15T Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 114.51 cm²
+
+[35/423] 18:09:59 - 17
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[36/423] 18:09:59 - 17 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[37/423] 18:09:59 - 17 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[38/423] 18:09:59 - Black Shark
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[39/423] 18:09:59 - Black Shark 2
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[40/423] 18:09:59 - Black Shark 2 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[41/423] 18:09:59 - Black Shark 3
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[42/423] 18:09:59 - Black Shark 3 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 123.74 cm²
+
+[43/423] 18:09:59 - Black Shark 3S
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[44/423] 18:09:59 - Black Shark 4
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[45/423] 18:09:59 - Black Shark 4 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[46/423] 18:09:59 - Black Shark 4S
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[47/423] 18:09:59 - Black Shark 4S Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[48/423] 18:09:59 - Black Shark 5
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[49/423] 18:09:59 - Black Shark 5 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[50/423] 18:09:59 - Black Shark 5 RS
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[51/423] 18:09:59 - Black Shark GS3 Ultra
+   ❌ Falha: Informações não encontradas
+
+[52/423] 18:09:59 - Black Shark Helo
+   ✅ Sucesso - Ratio: 18:9, Área: 93.21 cm²
+
+[53/423] 18:09:59 - Civi
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[54/423] 18:09:59 - Civi 1S
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[55/423] 18:09:59 - Civi 2
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[56/423] 18:09:59 - Civi 3
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[57/423] 18:09:59 - Civi 4 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[58/423] 18:09:59 - Civi 5 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[59/423] 18:09:59 - Mi 10 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 109.21 cm²
+
+[60/423] 18:09:59 - Mi 10 Lite 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.21 cm²
+
+[61/423] 18:09:59 - Mi 10 Lite Zoom
+   ✅ Sucesso - Ratio: 20:9, Área: 104.21 cm²
+
+[62/423] 18:09:59 - Mi 10 Pro 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 109.21 cm²
+
+[63/423] 18:09:59 - Mi 10 Ultra
+   ✅ Sucesso - Ratio: 19.5:9, Área: 109.21 cm²
+
+[64/423] 18:09:59 - Mi 10 Youth 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.21 cm²
+
+[65/423] 18:09:59 - Mi 10i 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[66/423] 18:09:59 - Mi 10S
+   ✅ Sucesso - Ratio: 19.5:9, Área: 109.21 cm²
+
+[67/423] 18:09:59 - Mi 10T 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[68/423] 18:09:59 - Mi 10T Lite 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[69/423] 18:09:59 - Mi 10T Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[70/423] 18:09:59 - Mi 11
+   ✅ Sucesso - Ratio: 20:9, Área: 111.97 cm²
+
+[71/423] 18:09:59 - Mi 11 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[72/423] 18:09:59 - Mi 11 Lite 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 103.58 cm²
+
+[73/423] 18:09:59 - Mi 11 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 111.97 cm²
+
+[74/423] 18:09:59 - Mi 11 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 111.97 cm²
+
+[75/423] 18:09:59 - Mi 11i
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[76/423] 18:09:59 - Mi 11X
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[77/423] 18:09:59 - Mi 11X Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[78/423] 18:09:59 - Mi 1S
+   ✅ Sucesso - Ratio: 16:9, Área: 44.11 cm²
+
+[79/423] 18:09:59 - Mi 2
+   ✅ Sucesso - Ratio: 16:9, Área: 50.97 cm²
+
+[80/423] 18:09:59 - Mi 2A
+   ✅ Sucesso - Ratio: 16:9, Área: 55.82 cm²
+
+[81/423] 18:09:59 - Mi 2S
+   ✅ Sucesso - Ratio: 16:9, Área: 50.97 cm²
+
+[82/423] 18:09:59 - Mi 3
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[83/423] 18:09:59 - Mi 4
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[84/423] 18:09:59 - Mi 4 LTE
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[85/423] 18:09:59 - Mi 4c
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[86/423] 18:09:59 - Mi 4i
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[87/423] 18:09:59 - Mi 4s
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[88/423] 18:09:59 - Mi 5
+   ✅ Sucesso - Ratio: 16:9, Área: 73.12 cm²
+
+[89/423] 18:09:59 - Mi 5c
+   ✅ Sucesso - Ratio: 16:9, Área: 73.12 cm²
+
+[90/423] 18:09:59 - Mi 5s
+   ✅ Sucesso - Ratio: 16:9, Área: 73.12 cm²
+
+[91/423] 18:09:59 - Mi 5s Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[92/423] 18:09:59 - Mi 6
+   ✅ Sucesso - Ratio: 16:9, Área: 73.12 cm²
+
+[93/423] 18:09:59 - Mi 6 Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[94/423] 18:09:59 - Mi 6c
+   ✅ Sucesso - Ratio: 16:9, Área: 73.12 cm²
+
+[95/423] 18:09:59 - Mi 8
+   ❌ Falha: Informações não encontradas
+
+[96/423] 18:09:59 - Mi 8 Explorer
+   ❌ Falha: Informações não encontradas
+
+[97/423] 18:09:59 - Mi 8 Lite
+   ✅ Sucesso - Ratio: 19:9, Área: 97.81 cm²
+
+[98/423] 18:09:59 - Mi 8 Pro
+   ❌ Falha: Informações não encontradas
+
+[99/423] 18:09:59 - Mi 8 SE
+   ✅ Sucesso - Ratio: 18.7:9, Área: 87.16 cm²
+
+[100/423] 18:09:59 - Mi 9
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[101/423] 18:09:59 - Mi 9 Explorer
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[102/423] 18:09:59 - Mi 9 Lite
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[103/423] 18:09:59 - Mi 9 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[104/423] 18:09:59 - Mi 9 Pro 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[105/423] 18:09:59 - Mi 9 SE
+   ✅ Sucesso - Ratio: 19.5:9, Área: 87.49 cm²
+
+[106/423] 18:09:59 - Mi 9T
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[107/423] 18:09:59 - Mi 9T Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[108/423] 18:09:59 - Mi 9X
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[109/423] 18:09:59 - Mi A1 (Mi 5X)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[110/423] 18:09:59 - Mi A2 (Mi 6X)
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[111/423] 18:09:59 - Mi A2 Lite (Redmi 6 Pro)
+   ✅ Sucesso - Ratio: 19:9, Área: 85.13 cm²
+
+[112/423] 18:09:59 - Mi A3
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.04 cm²
+
+[113/423] 18:09:59 - Mi CC9
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[114/423] 18:09:59 - Mi CC9 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 102.76 cm²
+
+[115/423] 18:09:59 - Mi CC9e
+   ✅ Sucesso - Ratio: 19.5:9, Área: 88.67 cm²
+
+[116/423] 18:09:59 - Mi Max
+   ✅ Sucesso - Ratio: 16:9, Área: 114.33 cm²
+
+[117/423] 18:09:59 - Mi Max 2
+   ✅ Sucesso - Ratio: 16:9, Área: 114.33 cm²
+
+[118/423] 18:09:59 - Mi Max 3
+   ✅ Sucesso - Ratio: 18:9, Área: 122.86 cm²
+
+[119/423] 18:09:59 - Mi Max 4
+   ❌ Falha: Informações não encontradas
+
+[120/423] 18:09:59 - Mi Max 4 Pro
+   ❌ Falha: Informações não encontradas
+
+[121/423] 18:09:59 - Mi Mix
+   ✅ Sucesso - Ratio: 17:9, Área: 109.27 cm²
+
+[122/423] 18:09:59 - Mi Mix 2
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[123/423] 18:09:59 - Mi Mix 2S
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[124/423] 18:09:59 - Mi Mix 3
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[125/423] 18:09:59 - Mi Mix 3 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[126/423] 18:09:59 - Mi Mix Alpha
+   ❌ Falha: Informações não encontradas
+
+[127/423] 18:09:59 - Mi Mix Fold
+   ✅ Sucesso - Ratio: 4:3, Área: 198.69 cm²
+
+[128/423] 18:09:59 - Mi Note
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[129/423] 18:09:59 - Mi Note 10
+   ✅ Sucesso - Ratio: 19.5:9, Área: 102.76 cm²
+
+[130/423] 18:09:59 - Mi Note 10 Lite
+   ✅ Sucesso - Ratio: 19.5:9, Área: 102.76 cm²
+
+[131/423] 18:09:59 - Mi Note 10 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 102.76 cm²
+
+[132/423] 18:09:59 - Mi Note 2
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[133/423] 18:09:59 - Mi Note 3
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[134/423] 18:09:59 - Mi Note Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[135/423] 18:09:59 - Mi Note Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[136/423] 18:09:59 - Mi Play
+   ✅ Sucesso - Ratio: 19:9, Área: 85.13 cm²
+
+[137/423] 18:09:59 - Mix 4
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[138/423] 18:09:59 - Mix Flip
+   ✅ Sucesso - Ratio: 21:20, Área: 151.62 cm²
+
+[139/423] 18:09:59 - Mix Flip 2
+   ❌ Falha: Informações não encontradas
+
+[140/423] 18:09:59 - Mix Fold 2
+   ✅ Sucesso - Ratio: 21:9, Área: 150.25 cm²
+
+[141/423] 18:09:59 - Mix Fold 3
+   ✅ Sucesso - Ratio: 21:9, Área: 150.62 cm²
+
+[142/423] 18:09:59 - Mix Fold 4
+   ✅ Sucesso - Ratio: 21:9, Área: 148.75 cm²
+
+[143/423] 18:09:59 - Poco C3
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[144/423] 18:09:59 - Poco C31
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[145/423] 18:09:59 - Poco C40
+   ❌ Falha: Informações não encontradas
+
+[146/423] 18:09:59 - Poco C50
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[147/423] 18:09:59 - Poco C51
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[148/423] 18:09:59 - Poco C55
+   ❌ Falha: Informações não encontradas
+
+[149/423] 18:09:59 - Poco C61
+   ❌ Falha: Informações não encontradas
+
+[150/423] 18:09:59 - Poco C65
+   ✅ Sucesso - Ratio: 20:9, Área: 109.68 cm²
+
+[151/423] 18:09:59 - Poco C71
+   ❌ Falha: Informações não encontradas
+
+[152/423] 18:09:59 - Poco C75
+   ❌ Falha: Informações não encontradas
+
+[153/423] 18:09:59 - Poco C75 5G
+   ❌ Falha: Informações não encontradas
+
+[154/423] 18:09:59 - Poco C85 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 114.95 cm²
+
+[155/423] 18:09:59 - Poco C85
+   ✅ Sucesso - Ratio: 20:9, Área: 114.95 cm²
+
+[156/423] 18:09:59 - Poco F2 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[157/423] 18:09:59 - Poco F3
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[158/423] 18:09:59 - Poco F3 GT
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[159/423] 18:09:59 - Poco F4
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[160/423] 18:09:59 - Poco F4 GT
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[161/423] 18:09:59 - Poco F5
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[162/423] 18:09:59 - Poco F5 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[163/423] 18:09:59 - Poco F6
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[164/423] 18:09:59 - Poco F6 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[165/423] 18:09:59 - Poco F7
+   ✅ Sucesso - Ratio: 19.5:9, Área: 114.51 cm²
+
+[166/423] 18:09:59 - Poco F7 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[167/423] 18:09:59 - Poco F7 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[168/423] 18:09:59 - Poco F8 Pro
+   ❌ Falha: HTTP 503 Service Unavailable
+
+[169/423] 18:09:59 - Poco F8 Ultra
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[170/423] 18:09:59 - Poco M2
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[171/423] 18:09:59 - Poco M2 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[172/423] 18:09:59 - Poco M2 Reloaded
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[173/423] 18:09:59 - Poco M3
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[174/423] 18:09:59 - Poco M3 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[175/423] 18:09:59 - Poco M3 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[176/423] 18:09:59 - Poco M4 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[177/423] 18:09:59 - Poco M4 5G (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[178/423] 18:09:59 - Poco M4 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[179/423] 18:09:59 - Poco M4 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[180/423] 18:09:59 - Poco M5
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[181/423] 18:09:59 - Poco M5 (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[182/423] 18:09:59 - Poco M5s
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[183/423] 18:09:59 - Poco M6
+   ✅ Sucesso - Ratio: 20:9, Área: 109.68 cm²
+
+[184/423] 18:09:59 - Poco M6 4G
+   ❌ Falha: Informações não encontradas
+
+[185/423] 18:09:59 - Poco M6 Plus
+   ❌ Falha: Informações não encontradas
+
+[186/423] 18:09:59 - Poco M6 Pro
+   ❌ Falha: Informações não encontradas
+
+[187/423] 18:09:59 - Poco M6 Pro 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[188/423] 18:09:59 - Poco M7 4G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[189/423] 18:09:59 - Poco M7
+   ❌ Falha: Informações não encontradas
+
+[190/423] 18:09:59 - Poco M7 Plus
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[191/423] 18:09:59 - Poco M7 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[192/423] 18:09:59 - Poco X2
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[193/423] 18:09:59 - Poco X3
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[194/423] 18:09:59 - Poco X3 GT
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[195/423] 18:09:59 - Poco X3 NFC
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[196/423] 18:09:59 - Poco X3 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[197/423] 18:09:59 - Poco X4 GT
+   ✅ Sucesso - Ratio: 1190:1, Área: 0.24 cm²
+
+[198/423] 18:09:59 - Poco X4 NFC
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[199/423] 18:09:59 - Poco X4 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[200/423] 18:09:59 - Poco X5
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[201/423] 18:09:59 - Poco X5 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[202/423] 18:09:59 - Poco X6
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[203/423] 18:09:59 - Poco X6 Neo
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[204/423] 18:09:59 - Poco X6 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[205/423] 18:09:59 - Poco X7
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[206/423] 18:09:59 - Poco X7 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[207/423] 18:09:59 - Pocophone F1
+   ✅ Sucesso - Ratio: 18.7:9, Área: 96.29 cm²
+
+[208/423] 18:09:59 - Redmi
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[209/423] 18:09:59 - Redmi 10
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[210/423] 18:09:59 - Redmi 10 (India)
+   ❌ Falha: Informações não encontradas
+
+[211/423] 18:09:59 - Redmi 10 2022
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[212/423] 18:09:59 - Redmi 10 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[213/423] 18:09:59 - Redmi 10 Power
+   ❌ Falha: Informações não encontradas
+
+[214/423] 18:09:59 - Redmi 10 Prime+ 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[215/423] 18:09:59 - Redmi 10 Prime
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[216/423] 18:09:59 - Redmi 10 Prime 2022
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[217/423] 18:09:59 - Redmi 10A
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[218/423] 18:09:59 - Redmi 10C
+   ❌ Falha: Informações não encontradas
+
+[219/423] 18:09:59 - Redmi 10X 4G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[220/423] 18:09:59 - Redmi 10X 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.21 cm²
+
+[221/423] 18:09:59 - Redmi 10X Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.21 cm²
+
+[222/423] 18:09:59 - Redmi 11
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[223/423] 18:09:59 - Redmi 11 Prime
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[224/423] 18:09:59 - Redmi 11 Prime 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[225/423] 18:09:59 - Redmi 11A
+   ❌ Falha: Informações não encontradas
+
+[226/423] 18:09:59 - Redmi 12
+   ✅ Sucesso - Ratio: 1507:1, Área: 0.20 cm²
+
+[227/423] 18:09:59 - Redmi 12 5G
+   ❌ Falha: Informações não encontradas
+
+[228/423] 18:09:59 - Redmi 12C
+   ❌ Falha: Informações não encontradas
+
+[229/423] 18:09:59 - Redmi 13
+   ✅ Sucesso - Ratio: 1300:1, Área: 0.23 cm²
+
+[230/423] 18:09:59 - Redmi 13 5G
+   ❌ Falha: Informações não encontradas
+
+[231/423] 18:09:59 - Redmi 13C
+   ✅ Sucesso - Ratio: 20:9, Área: 109.68 cm²
+
+[232/423] 18:09:59 - Redmi 13C 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 109.68 cm²
+
+[233/423] 18:09:59 - Redmi 13R
+   ✅ Sucesso - Ratio: 20:9, Área: 109.68 cm²
+
+[234/423] 18:09:59 - Redmi 13x
+   ❌ Falha: Informações não encontradas
+
+[235/423] 18:09:59 - Redmi 14C
+   ❌ Falha: Informações não encontradas
+
+[236/423] 18:09:59 - Redmi 14C (China)
+   ❌ Falha: Informações não encontradas
+
+[237/423] 18:09:59 - Redmi 14C 5G
+   ❌ Falha: Informações não encontradas
+
+[238/423] 18:09:59 - Redmi 14R
+   ❌ Falha: Informações não encontradas
+
+[239/423] 18:09:59 - Redmi 15 4G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[240/423] 18:09:59 - Redmi 15
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[241/423] 18:09:59 - Redmi 15C 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 114.95 cm²
+
+[242/423] 18:09:59 - Redmi 15C
+   ✅ Sucesso - Ratio: 20:9, Área: 114.95 cm²
+
+[243/423] 18:09:59 - Redmi 1S
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[244/423] 18:09:59 - Redmi 2
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[245/423] 18:09:59 - Redmi 20X
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[246/423] 18:09:59 - Redmi 2 Prime
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[247/423] 18:09:59 - Redmi 2 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[248/423] 18:09:59 - Redmi 2A
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[249/423] 18:09:59 - Redmi 3
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[250/423] 18:09:59 - Redmi 3 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[251/423] 18:09:59 - Redmi 3s
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[252/423] 18:09:59 - Redmi 3s Prime
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[253/423] 18:09:59 - Redmi 3x
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[254/423] 18:09:59 - Redmi 4 (4X)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[255/423] 18:09:59 - Redmi 4 (China)
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[256/423] 18:09:59 - Redmi 4 Prime
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[257/423] 18:09:59 - Redmi 4A
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[258/423] 18:09:59 - Redmi 5
+   ✅ Sucesso - Ratio: 18:9, Área: 83.84 cm²
+
+[259/423] 18:09:59 - Redmi 5 Plus (Redmi Note 5)
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[260/423] 18:09:59 - Redmi 5A
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[261/423] 18:09:59 - Redmi 6
+   ✅ Sucesso - Ratio: 18:9, Área: 76.65 cm²
+
+[262/423] 18:09:59 - Redmi 6A
+   ✅ Sucesso - Ratio: 18:9, Área: 76.65 cm²
+
+[263/423] 18:09:59 - Redmi 7
+   ✅ Sucesso - Ratio: 19:9, Área: 97.81 cm²
+
+[264/423] 18:09:59 - Redmi 7A
+   ✅ Sucesso - Ratio: 18:9, Área: 76.65 cm²
+
+[265/423] 18:09:59 - Redmi 8
+   ✅ Sucesso - Ratio: 19:9, Área: 96.57 cm²
+
+[266/423] 18:09:59 - Redmi 8A
+   ✅ Sucesso - Ratio: 19:9, Área: 96.57 cm²
+
+[267/423] 18:09:59 - Redmi 8A Dual
+   ✅ Sucesso - Ratio: 19:9, Área: 96.57 cm²
+
+[268/423] 18:09:59 - Redmi 8A Pro
+   ✅ Sucesso - Ratio: 19:9, Área: 96.57 cm²
+
+[269/423] 18:09:59 - Redmi 9
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[270/423] 18:09:59 - Redmi 9 (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[271/423] 18:09:59 - Redmi 9 Activ
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[272/423] 18:09:59 - Redmi 9 Power
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[273/423] 18:09:59 - Redmi 9 Prime
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[274/423] 18:09:59 - Redmi 9A
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[275/423] 18:09:59 - Redmi 9A Sport
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[276/423] 18:09:59 - Redmi 9AT
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[277/423] 18:09:59 - Redmi 9C
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[278/423] 18:09:59 - Redmi 9C NFC
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[279/423] 18:09:59 - Redmi 9i
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[280/423] 18:09:59 - Redmi 9i Sport
+   ✅ Sucesso - Ratio: 20:9, Área: 102.95 cm²
+
+[281/423] 18:09:59 - Redmi 9T
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[282/423] 18:09:59 - Redmi A1+
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[283/423] 18:09:59 - Redmi A1
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[284/423] 18:09:59 - Redmi A2+
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[285/423] 18:09:59 - Redmi A2
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[286/423] 18:09:59 - Redmi A3
+   ❌ Falha: Informações não encontradas
+
+[287/423] 18:09:59 - Redmi A3 Pro
+   ❌ Falha: Informações não encontradas
+
+[288/423] 18:09:59 - Redmi A3x
+   ❌ Falha: Informações não encontradas
+
+[289/423] 18:09:59 - Redmi A4
+   ❌ Falha: Informações não encontradas
+
+[290/423] 18:09:59 - Redmi A5 4G
+   ✅ Sucesso - Ratio: 45:26, Área: 132.28 cm²
+
+[291/423] 18:09:59 - Redmi Go
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[292/423] 18:09:59 - Redmi K20
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[293/423] 18:09:59 - Redmi K20 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[294/423] 18:09:59 - Redmi K20 Pro Premium
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[295/423] 18:09:59 - Redmi K30
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[296/423] 18:09:59 - Redmi K30 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[297/423] 18:09:59 - Redmi K30 5G Racing
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[298/423] 18:09:59 - Redmi K30 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[299/423] 18:09:59 - Redmi K30 Pro Zoom
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[300/423] 18:09:59 - Redmi K30 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[301/423] 18:09:59 - Redmi K30i 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[302/423] 18:09:59 - Redmi K30S
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[303/423] 18:09:59 - Redmi K40
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[304/423] 18:09:59 - Redmi K40 Gaming
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[305/423] 18:09:59 - Redmi K40 Pro+
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[306/423] 18:09:59 - Redmi K40 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[307/423] 18:09:59 - Redmi K40S
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[308/423] 18:09:59 - Redmi K50
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[309/423] 18:09:59 - Redmi K50 Gaming
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[310/423] 18:09:59 - Redmi K50 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[311/423] 18:09:59 - Redmi K50 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[312/423] 18:09:59 - Redmi K50i
+   ❌ Falha: Informações não encontradas
+
+[313/423] 18:09:59 - Redmi K60
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[314/423] 18:09:59 - Redmi K60 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[315/423] 18:09:59 - Redmi K60 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[316/423] 18:09:59 - Redmi K60E
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[317/423] 18:09:59 - Redmi K70
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[318/423] 18:09:59 - Redmi K70 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[319/423] 18:09:59 - Redmi K70 Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[320/423] 18:09:59 - Redmi K70E
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[321/423] 18:09:59 - Redmi K80
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[322/423] 18:09:59 - Redmi K80 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[323/423] 18:09:59 - Redmi K80 Ultra
+   ✅ Sucesso - Ratio: 19.5:9, Área: 114.51 cm²
+
+[324/423] 18:09:59 - Redmi K90
+   ✅ Sucesso - Ratio: 19.5:9, Área: 106.61 cm²
+
+[325/423] 18:09:59 - Redmi K90 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[326/423] 18:09:59 - Redmi Note
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[327/423] 18:09:59 - Redmi Note 10
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[328/423] 18:09:59 - Redmi Note 10 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[329/423] 18:09:59 - Redmi Note 10 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[330/423] 18:09:59 - Redmi Note 10 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[331/423] 18:09:59 - Redmi Note 10 Pro (China)
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[332/423] 18:09:59 - Redmi Note 10 Pro (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[333/423] 18:09:59 - Redmi Note 10 Pro Max
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[334/423] 18:09:59 - Redmi Note 10S
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[335/423] 18:09:59 - Redmi Note 10T 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[336/423] 18:09:59 - Redmi Note 11
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[337/423] 18:09:59 - Redmi Note 11 (China)
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[338/423] 18:09:59 - Redmi Note 11 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[339/423] 18:09:59 - Redmi Note 11 Pro+ 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[340/423] 18:09:59 - Redmi Note 11 Pro+ 5G (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[341/423] 18:09:59 - Redmi Note 11 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[342/423] 18:09:59 - Redmi Note 11 Pro (China)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[343/423] 18:09:59 - Redmi Note 11 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[344/423] 18:09:59 - Redmi Note 11 SE (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[345/423] 18:09:59 - Redmi Note 11E
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[346/423] 18:09:59 - Redmi Note 11E Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[347/423] 18:09:59 - Redmi Note 11R
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[348/423] 18:09:59 - Redmi Note 11S
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[349/423] 18:09:59 - Redmi Note 11S 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[350/423] 18:09:59 - Redmi Note 11SE
+   ✅ Sucesso - Ratio: 20:9, Área: 102.01 cm²
+
+[351/423] 18:09:59 - Redmi Note 11T 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[352/423] 18:09:59 - Redmi Note 11T Pro+
+   ❌ Falha: Informações não encontradas
+
+[353/423] 18:09:59 - Redmi Note 11T Pro
+   ❌ Falha: Informações não encontradas
+
+[354/423] 18:09:59 - Redmi Note 12
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[355/423] 18:09:59 - Redmi Note 12 (China)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[356/423] 18:09:59 - Redmi Note 12 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[357/423] 18:09:59 - Redmi Note 12 Discovery
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[358/423] 18:09:59 - Redmi Note 12 Pro+
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[359/423] 18:09:59 - Redmi Note 12 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[360/423] 18:09:59 - Redmi Note 12 Pro 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[361/423] 18:09:59 - Redmi Note 12 Pro Speed
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[362/423] 18:09:59 - Redmi Note 12 Turbo
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[363/423] 18:09:59 - Redmi Note 12R
+   ❌ Falha: Informações não encontradas
+
+[364/423] 18:09:59 - Redmi Note 12R Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[365/423] 18:09:59 - Redmi Note 12S
+   ✅ Sucesso - Ratio: 20:9, Área: 99.82 cm²
+
+[366/423] 18:09:59 - Redmi Note 12T Pro
+   ❌ Falha: Informações não encontradas
+
+[367/423] 18:09:59 - Redmi Note 13
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[368/423] 18:09:59 - Redmi Note 13 (China)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[369/423] 18:09:59 - Redmi Note 13 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[370/423] 18:09:59 - Redmi Note 13 Pro+
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[371/423] 18:09:59 - Redmi Note 13 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[372/423] 18:09:59 - Redmi Note 13 Pro 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[373/423] 18:09:59 - Redmi Note 13R
+   ❌ Falha: Informações não encontradas
+
+[374/423] 18:09:59 - Redmi Note 13R Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[375/423] 18:09:59 - Redmi Note 14 5G (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[376/423] 18:09:59 - Redmi Note 14 5G (China)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[377/423] 18:09:59 - Redmi Note 14 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[378/423] 18:09:59 - Redmi Note 14 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[379/423] 18:09:59 - Redmi Note 14 Pro+ 5G (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[380/423] 18:09:59 - Redmi Note 14 Pro+ 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[381/423] 18:09:59 - Redmi Note 14 Pro 5G (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[382/423] 18:09:59 - Redmi Note 14 Pro 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[383/423] 18:09:59 - Redmi Note 14 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[384/423] 18:09:59 - Redmi Note 14S
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[385/423] 18:09:59 - Redmi Note 15 (China)
+   ❌ Falha: Informações não encontradas
+
+[386/423] 18:09:59 - Redmi Note 15 Pro+ (China)
+   ❌ Falha: Informações não encontradas
+
+[387/423] 18:09:59 - Redmi Note 15 Pro (China)
+   ❌ Falha: Informações não encontradas
+
+[388/423] 18:09:59 - Redmi Note 2
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[389/423] 18:09:59 - Redmi Note 3
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[390/423] 18:09:59 - Redmi Note 3 (MediaTek)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[391/423] 18:09:59 - Redmi Note 4
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[392/423] 18:09:59 - Redmi Note 4 (MediaTek)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[393/423] 18:09:59 - Redmi Note 4G
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[394/423] 18:09:59 - Redmi Note 4X
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[395/423] 18:09:59 - Redmi Note 5 AI Dual Camera
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[396/423] 18:09:59 - Redmi Note 5 Pro
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[397/423] 18:09:59 - Redmi Note 6 Pro
+   ✅ Sucesso - Ratio: 19:9, Área: 97.81 cm²
+
+[398/423] 18:09:59 - Redmi Note 7
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[399/423] 18:09:59 - Redmi Note 7 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[400/423] 18:09:59 - Redmi Note 7S
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[401/423] 18:09:59 - Redmi Note 8
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[402/423] 18:09:59 - Redmi Note 8 2021
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[403/423] 18:09:59 - Redmi Note 8 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[404/423] 18:09:59 - Redmi Note 8T
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[405/423] 18:09:59 - Redmi Note 9
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[406/423] 18:09:59 - Redmi Note 9 4G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[407/423] 18:09:59 - Redmi Note 9 5G
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[408/423] 18:09:59 - Redmi Note 9 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[409/423] 18:09:59 - Redmi Note 9 Pro (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[410/423] 18:09:59 - Redmi Note 9 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[411/423] 18:09:59 - Redmi Note 9 Pro Max
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[412/423] 18:09:59 - Redmi Note 9S
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[413/423] 18:09:59 - Redmi Note 9T
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[414/423] 18:09:59 - Redmi Note Prime
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[415/423] 18:09:59 - Redmi Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[416/423] 18:09:59 - Redmi Pro 2
+   ✅ Sucesso - Ratio: 19.5:9, Área: 100.23 cm²
+
+[417/423] 18:09:59 - Redmi S2 (Redmi Y2)
+   ✅ Sucesso - Ratio: 18:9, Área: 92.59 cm²
+
+[418/423] 18:09:59 - Redmi Turbo 3
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[419/423] 18:09:59 - Redmi Turbo 4
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[420/423] 18:09:59 - Redmi Turbo 4 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 114.51 cm²
+
+[421/423] 18:09:59 - Redmi Y1 (Note 5A)
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[422/423] 18:09:59 - Redmi Y1 Lite
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[423/423] 18:09:59 - Redmi Y3
+   ✅ Sucesso - Ratio: 19:9, Área: 97.81 cm²
+
+============================================================
+Sucessos: 379, Falhas: 44
+Taxa de sucesso: 89.6%

@@ -23,12 +23,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     
     match input.trim() {
         "1" => {
-            let phones = scraper.scrape_phone_urls(Some(9))?;
-            utils::save_phones_to_csv(&phones, "samsung_smartphones_recentes.csv")?;
+            let phones = scraper.scrape_phone_urls(Some(10))?;
+            utils::save_phones_to_csv(&phones, "xiaomi_smartphones_recentes.csv")?;
             println!("✅ {} URLs coletadas.", phones.len());
         }
         "2" => {
-            let phones = utils::load_phones_from_csv("samsung_smartphones_recentes.csv")?;
+            let phones = utils::load_phones_from_csv("xiaomi_smartphones_recentes.csv")?;
             println!("📄 {} telefones para processar", phones.len());
             
             // Estimar tempo total

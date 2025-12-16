@@ -3,24 +3,10 @@ use std::io::{Write, BufReader, BufWriter};
 use std::path::Path;
 use csv::{ReaderBuilder, WriterBuilder};
 use crate::models::{Phone, PhoneDetails};
-use chrono;
 
 
-pub fn save_details_with_timestamp(details: &[crate::models::PhoneDetails]) -> Result<(), Box<dyn std::error::Error>> {
-    let timestamp = chrono::Local::now().format("%Y%m%d_%H%M%S");
-    
-    let csv_filename = format!("phone_details_{}.csv", timestamp);
-    let txt_filename = format!("phone_details_{}.txt", timestamp);
-    
-    save_details_to_csv(details, &csv_filename)?;
-    save_details_to_txt(details, &txt_filename)?;
-    
-    println!("💾 Dados salvos com timestamp: {}", timestamp);
-    println!("   CSV: {}", csv_filename);
-    println!("   TXT: {}", txt_filename);
-    
-    Ok(())
-}
+
+
 pub fn save_phones_to_csv(phones: &[Phone], filename: &str) -> Result<(), Box<dyn std::error::Error>> {
     let file = File::create(filename)?;
     let mut wtr = WriterBuilder::new()
