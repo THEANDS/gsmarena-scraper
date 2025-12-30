@@ -1,0 +1,53 @@
+id,model,url,status
+1,iPhone,https://www.gsmarena.com/apple_iphone-1827.php,pending
+2,iPhone 11,https://www.gsmarena.com/apple_iphone_11-9848.php,pending
+3,iPhone 11 Pro,https://www.gsmarena.com/apple_iphone_11_pro-9847.php,pending
+4,iPhone 11 Pro Max,https://www.gsmarena.com/apple_iphone_11_pro_max-9846.php,pending
+5,iPhone 12,https://www.gsmarena.com/apple_iphone_12-10509.php,pending
+6,iPhone 12 mini,https://www.gsmarena.com/apple_iphone_12_mini-10510.php,pending
+7,iPhone 12 Pro,https://www.gsmarena.com/apple_iphone_12_pro-10508.php,pending
+8,iPhone 12 Pro Max,https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php,pending
+9,iPhone 13,https://www.gsmarena.com/apple_iphone_13-11103.php,pending
+10,iPhone 13 mini,https://www.gsmarena.com/apple_iphone_13_mini-11104.php,pending
+11,iPhone 13 Pro,https://www.gsmarena.com/apple_iphone_13_pro-11102.php,pending
+12,iPhone 13 Pro Max,https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php,pending
+13,iPhone 14,https://www.gsmarena.com/apple_iphone_14-11861.php,pending
+14,iPhone 14 Plus,https://www.gsmarena.com/apple_iphone_14_plus-11862.php,pending
+15,iPhone 14 Pro,https://www.gsmarena.com/apple_iphone_14_pro-11860.php,pending
+16,iPhone 14 Pro Max,https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php,pending
+17,iPhone 15,https://www.gsmarena.com/apple_iphone_15-12559.php,pending
+18,iPhone 15 Plus,https://www.gsmarena.com/apple_iphone_15_plus-12558.php,pending
+19,iPhone 15 Pro,https://www.gsmarena.com/apple_iphone_15_pro-12557.php,pending
+20,iPhone 15 Pro Max,https://www.gsmarena.com/apple_iphone_15_pro_max-12548.php,pending
+21,iPhone 16,https://www.gsmarena.com/apple_iphone_16-13317.php,pending
+22,iPhone 16 Plus,https://www.gsmarena.com/apple_iphone_16_plus-13316.php,pending
+23,iPhone 16 Pro,https://www.gsmarena.com/apple_iphone_16_pro-13315.php,pending
+24,iPhone 16 Pro Max,https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php,pending
+25,iPhone 16e,https://www.gsmarena.com/apple_iphone_16e-13395.php,pending
+26,iPhone 17,https://www.gsmarena.com/apple_iphone_17-14050.php,pending
+27,iPhone Air,https://www.gsmarena.com/apple_iphone_17_air-13502.php,pending
+28,iPhone 17 Pro,https://www.gsmarena.com/apple_iphone_17_pro-14049.php,pending
+29,iPhone 17 Pro Max,https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php,pending
+30,iPhone 3G,https://www.gsmarena.com/apple_iphone_3g-2424.php,pending
+31,iPhone 3GS,https://www.gsmarena.com/apple_iphone_3gs-2826.php,pending
+32,iPhone 4,https://www.gsmarena.com/apple_iphone_4-3275.php,pending
+33,iPhone 4 CDMA,https://www.gsmarena.com/apple_iphone_4_cdma-3716.php,pending
+34,iPhone 4s,https://www.gsmarena.com/apple_iphone_4s-4212.php,pending
+35,iPhone 5,https://www.gsmarena.com/apple_iphone_5-4910.php,pending
+36,iPhone 5c,https://www.gsmarena.com/apple_iphone_5c-5690.php,pending
+37,iPhone 5s,https://www.gsmarena.com/apple_iphone_5s-5685.php,pending
+38,iPhone 6,https://www.gsmarena.com/apple_iphone_6-6378.php,pending
+39,iPhone 6 Plus,https://www.gsmarena.com/apple_iphone_6_plus-6665.php,pending
+40,iPhone 6s,https://www.gsmarena.com/apple_iphone_6s-7242.php,pending
+41,iPhone 6s Plus,https://www.gsmarena.com/apple_iphone_6s_plus-7243.php,pending
+42,iPhone 7,https://www.gsmarena.com/apple_iphone_7-8064.php,pending
+43,iPhone 7 Plus,https://www.gsmarena.com/apple_iphone_7_plus-8065.php,pending
+44,iPhone 8,https://www.gsmarena.com/apple_iphone_8-8573.php,pending
+45,iPhone 8 Plus,https://www.gsmarena.com/apple_iphone_8_plus-8131.php,pending
+46,iPhone SE,https://www.gsmarena.com/apple_iphone_se-7969.php,pending
+47,iPhone SE (2020),https://www.gsmarena.com/apple_iphone_se_(2020)-10170.php,pending
+48,iPhone SE (2022),https://www.gsmarena.com/apple_iphone_se_(2022)-11410.php,pending
+49,iPhone X,https://www.gsmarena.com/apple_iphone_x-8858.php,pending
+50,iPhone XR,https://www.gsmarena.com/apple_iphone_xr-9320.php,pending
+51,iPhone XS,https://www.gsmarena.com/apple_iphone_xs-9318.php,pending
+52,iPhone XS Max,https://www.gsmarena.com/apple_iphone_xs_max-9319.php,pending

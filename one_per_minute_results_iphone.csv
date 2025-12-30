@@ -1,0 +1,53 @@
+ID,Modelo,URL,Ratio,Area_cm2,Resolução,Tamanho,PPI,Status,Extraído_em
+1,"iPhone",https://www.gsmarena.com/apple_iphone-1827.php,3:2,36.48,320x480,3.5",N/A,SUCCESS,2025-12-16 21:31:58
+2,"iPhone 11",https://www.gsmarena.com/apple_iphone_11-9848.php,19.5:9,91.34,828x1792,6.1",N/A,SUCCESS,2025-12-16 21:32:59
+3,"iPhone 11 Pro",https://www.gsmarena.com/apple_iphone_11_pro-9847.php,19.5:9,82.58,1125x2436,5.8",N/A,SUCCESS,2025-12-16 21:34:00
+4,"iPhone 11 Pro Max",https://www.gsmarena.com/apple_iphone_11_pro_max-9846.php,19.5:9,103.71,1242x2688,6.5",N/A,SUCCESS,2025-12-16 21:35:01
+5,"iPhone 12",https://www.gsmarena.com/apple_iphone_12-10509.php,19.5:9,91.34,1170x2532,6.1",N/A,SUCCESS,2025-12-16 21:36:02
+6,"iPhone 12 mini",https://www.gsmarena.com/apple_iphone_12_mini-10510.php,19.5:9,71.58,1080x2340,5.4",N/A,SUCCESS,2025-12-16 21:37:04
+7,"iPhone 12 Pro",https://www.gsmarena.com/apple_iphone_12_pro-10508.php,19.5:9,91.34,1170x2532,6.1",N/A,SUCCESS,2025-12-16 21:38:05
+8,"iPhone 12 Pro Max",https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php,19.5:9,110.19,1284x2778,6.7",N/A,SUCCESS,2025-12-16 21:39:06
+9,"iPhone 13",https://www.gsmarena.com/apple_iphone_13-11103.php,19.5:9,91.34,1170x2532,6.1",N/A,SUCCESS,2025-12-16 21:40:07
+10,"iPhone 13 mini",https://www.gsmarena.com/apple_iphone_13_mini-11104.php,19.5:9,71.58,1080x2340,5.4",N/A,SUCCESS,2025-12-16 21:41:08
+11,"iPhone 13 Pro",https://www.gsmarena.com/apple_iphone_13_pro-11102.php,19.5:9,91.34,1170x2532,6.1",N/A,SUCCESS,2025-12-16 21:42:10
+12,"iPhone 13 Pro Max",https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php,19.5:9,110.19,1284x2778,6.7",N/A,SUCCESS,2025-12-16 21:43:11
+13,"iPhone 14",https://www.gsmarena.com/apple_iphone_14-11861.php,19.5:9,91.34,1170x2532,6.1",N/A,SUCCESS,2025-12-16 21:44:13
+14,"iPhone 14 Plus",https://www.gsmarena.com/apple_iphone_14_plus-11862.php,19.5:9,110.19,1284x2778,6.7",N/A,SUCCESS,2025-12-16 21:45:14
+15,"iPhone 14 Pro",https://www.gsmarena.com/apple_iphone_14_pro-11860.php,19.5:9,91.34,1179x2556,6.1",N/A,SUCCESS,2025-12-16 21:46:16
+16,"iPhone 14 Pro Max",https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php,19.5:9,110.19,1290x2796,6.7",N/A,SUCCESS,2025-12-16 21:47:17
+17,"iPhone 15",https://www.gsmarena.com/apple_iphone_15-12559.php,19.5:9,91.34,1179x2556,6.1",N/A,SUCCESS,2025-12-16 21:48:18
+18,"iPhone 15 Plus",https://www.gsmarena.com/apple_iphone_15_plus-12558.php,19.5:9,110.19,1290x2796,6.7",N/A,SUCCESS,2025-12-16 21:49:19
+19,"iPhone 15 Pro",https://www.gsmarena.com/apple_iphone_15_pro-12557.php,19.5:9,91.34,1179x2556,6.1",N/A,SUCCESS,2025-12-16 21:50:20
+20,"iPhone 15 Pro Max",https://www.gsmarena.com/apple_iphone_15_pro_max-12548.php,19.5:9,110.19,1290x2796,6.7",N/A,SUCCESS,2025-12-16 21:51:22
+21,"iPhone 16",https://www.gsmarena.com/apple_iphone_16-13317.php,19.5:9,91.34,1179x2556,6.1",N/A,SUCCESS,2025-12-16 21:52:23
+22,"iPhone 16 Plus",https://www.gsmarena.com/apple_iphone_16_plus-13316.php,19.5:9,110.19,1290x2796,6.7",N/A,SUCCESS,2025-12-16 21:53:24
+23,"iPhone 16 Pro",https://www.gsmarena.com/apple_iphone_16_pro-13315.php,19.5:9,97.43,1206x2622,6.3",N/A,SUCCESS,2025-12-16 21:54:25
+24,"iPhone 16 Pro Max",https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php,19.5:9,116.87,1320x2868,6.9",N/A,SUCCESS,2025-12-16 21:55:26
+25,"iPhone 16e",https://www.gsmarena.com/apple_iphone_16e-13395.php,19.5:9,91.34,1170x2532,6.1",N/A,SUCCESS,2025-12-16 21:56:28
+26,"iPhone 17",https://www.gsmarena.com/apple_iphone_17-14050.php,19.5:9,97.43,1206x2622,6.3",N/A,SUCCESS,2025-12-16 21:57:29
+27,"iPhone Air",https://www.gsmarena.com/apple_iphone_17_air-13502.php,19.5:9,103.71,1260x2736,6.5",N/A,SUCCESS,2025-12-16 21:58:30
+28,"iPhone 17 Pro",https://www.gsmarena.com/apple_iphone_17_pro-14049.php,19.5:9,97.43,1206x2622,6.3",N/A,SUCCESS,2025-12-16 21:59:31
+29,"iPhone 17 Pro Max",https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php,19.5:9,116.87,1320x2868,6.9",N/A,SUCCESS,2025-12-16 22:00:32
+30,"iPhone 3G",https://www.gsmarena.com/apple_iphone_3g-2424.php,3:2,36.48,320x480,3.5",N/A,SUCCESS,2025-12-16 22:01:33
+31,"iPhone 3GS",https://www.gsmarena.com/apple_iphone_3gs-2826.php,3:2,36.48,320x480,3.5",N/A,SUCCESS,2025-12-16 22:02:35
+32,"iPhone 4",https://www.gsmarena.com/apple_iphone_4-3275.php,3:2,36.48,640x960,3.5",N/A,SUCCESS,2025-12-16 22:03:36
+33,"iPhone 4 CDMA",https://www.gsmarena.com/apple_iphone_4_cdma-3716.php,3:2,36.48,640x960,3.5",N/A,SUCCESS,2025-12-16 22:04:37
+34,"iPhone 4s",https://www.gsmarena.com/apple_iphone_4s-4212.php,3:2,36.48,640x960,3.5",N/A,SUCCESS,2025-12-16 22:05:38
+35,"iPhone 5",https://www.gsmarena.com/apple_iphone_5-4910.php,16:9,44.11,640x1136,4.0",N/A,SUCCESS,2025-12-16 22:06:39
+36,"iPhone 5c",https://www.gsmarena.com/apple_iphone_5c-5690.php,16:9,44.11,640x1136,4.0",N/A,SUCCESS,2025-12-16 22:07:40
+37,"iPhone 5s",https://www.gsmarena.com/apple_iphone_5s-5685.php,16:9,44.11,640x1136,4.0",N/A,SUCCESS,2025-12-16 22:08:42
+38,"iPhone 6",https://www.gsmarena.com/apple_iphone_6-6378.php,16:9,60.90,750x1334,4.7",N/A,SUCCESS,2025-12-16 22:09:43
+39,"iPhone 6 Plus",https://www.gsmarena.com/apple_iphone_6_plus-6665.php,16:9,83.39,1080x1920,5.5",N/A,SUCCESS,2025-12-16 22:10:44
+40,"iPhone 6s",https://www.gsmarena.com/apple_iphone_6s-7242.php,16:9,60.90,750x1334,4.7",N/A,SUCCESS,2025-12-16 22:11:45
+41,"iPhone 6s Plus",https://www.gsmarena.com/apple_iphone_6s_plus-7243.php,16:9,83.39,1080x1920,5.5",N/A,SUCCESS,2025-12-16 22:12:46
+42,"iPhone 7",https://www.gsmarena.com/apple_iphone_7-8064.php,16:9,60.90,750x1334,4.7",N/A,SUCCESS,2025-12-16 22:13:47
+43,"iPhone 7 Plus",https://www.gsmarena.com/apple_iphone_7_plus-8065.php,16:9,83.39,1080x1920,5.5",N/A,SUCCESS,2025-12-16 22:14:49
+44,"iPhone 8",https://www.gsmarena.com/apple_iphone_8-8573.php,16:9,60.90,750x1334,4.7",N/A,SUCCESS,2025-12-16 22:15:50
+45,"iPhone 8 Plus",https://www.gsmarena.com/apple_iphone_8_plus-8131.php,16:9,83.39,1080x1920,5.5",N/A,SUCCESS,2025-12-16 22:16:51
+46,"iPhone SE",https://www.gsmarena.com/apple_iphone_se-7969.php,16:9,44.11,640x1136,4.0",N/A,SUCCESS,2025-12-16 22:17:52
+47,"iPhone SE (2020)",https://www.gsmarena.com/apple_iphone_se_(2020)-10170.php,16:9,60.90,750x1334,4.7",N/A,SUCCESS,2025-12-16 22:18:53
+48,"iPhone SE (2022)",https://www.gsmarena.com/apple_iphone_se_(2022)-11410.php,16:9,60.90,750x1334,4.7",N/A,SUCCESS,2025-12-16 22:19:54
+49,"iPhone X",https://www.gsmarena.com/apple_iphone_x-8858.php,19.5:9,82.58,1125x2436,5.8",N/A,SUCCESS,2025-12-16 22:20:56
+50,"iPhone XR",https://www.gsmarena.com/apple_iphone_xr-9320.php,19.5:9,91.34,828x1792,6.1",N/A,SUCCESS,2025-12-16 22:21:57
+51,"iPhone XS",https://www.gsmarena.com/apple_iphone_xs-9318.php,19.5:9,82.58,1125x2436,5.8",N/A,SUCCESS,2025-12-16 22:22:58
+52,"iPhone XS Max",https://www.gsmarena.com/apple_iphone_xs_max-9319.php,19.5:9,103.71,1242x2688,6.5",N/A,SUCCESS,2025-12-16 22:23:59

@@ -1,0 +1,164 @@
+🚀 INÍCIO DO PROCESSAMENTO (1 POR MINUTO)
+Data: 2025-12-16 21:31:57
+Total de telefones: 52
+============================================================
+
+[1/52] 21:31:57 - iPhone
+   ✅ Sucesso - Ratio: 3:2, Área: 36.48 cm²
+
+[2/52] 21:31:57 - iPhone 11
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[3/52] 21:31:57 - iPhone 11 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 82.58 cm²
+
+[4/52] 21:31:57 - iPhone 11 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[5/52] 21:31:57 - iPhone 12
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[6/52] 21:31:57 - iPhone 12 mini
+   ✅ Sucesso - Ratio: 19.5:9, Área: 71.58 cm²
+
+[7/52] 21:31:57 - iPhone 12 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[8/52] 21:31:57 - iPhone 12 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[9/52] 21:31:57 - iPhone 13
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[10/52] 21:31:57 - iPhone 13 mini
+   ✅ Sucesso - Ratio: 19.5:9, Área: 71.58 cm²
+
+[11/52] 21:31:57 - iPhone 13 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[12/52] 21:31:57 - iPhone 13 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[13/52] 21:31:57 - iPhone 14
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[14/52] 21:31:57 - iPhone 14 Plus
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[15/52] 21:31:57 - iPhone 14 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[16/52] 21:31:57 - iPhone 14 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[17/52] 21:31:57 - iPhone 15
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[18/52] 21:31:57 - iPhone 15 Plus
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[19/52] 21:31:57 - iPhone 15 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[20/52] 21:31:57 - iPhone 15 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[21/52] 21:31:57 - iPhone 16
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[22/52] 21:31:57 - iPhone 16 Plus
+   ✅ Sucesso - Ratio: 19.5:9, Área: 110.19 cm²
+
+[23/52] 21:31:57 - iPhone 16 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[24/52] 21:31:57 - iPhone 16 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[25/52] 21:31:57 - iPhone 16e
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[26/52] 21:31:57 - iPhone 17
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[27/52] 21:31:57 - iPhone Air
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+[28/52] 21:31:57 - iPhone 17 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 97.43 cm²
+
+[29/52] 21:31:57 - iPhone 17 Pro Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 116.87 cm²
+
+[30/52] 21:31:57 - iPhone 3G
+   ✅ Sucesso - Ratio: 3:2, Área: 36.48 cm²
+
+[31/52] 21:31:57 - iPhone 3GS
+   ✅ Sucesso - Ratio: 3:2, Área: 36.48 cm²
+
+[32/52] 21:31:57 - iPhone 4
+   ✅ Sucesso - Ratio: 3:2, Área: 36.48 cm²
+
+[33/52] 21:31:57 - iPhone 4 CDMA
+   ✅ Sucesso - Ratio: 3:2, Área: 36.48 cm²
+
+[34/52] 21:31:57 - iPhone 4s
+   ✅ Sucesso - Ratio: 3:2, Área: 36.48 cm²
+
+[35/52] 21:31:57 - iPhone 5
+   ✅ Sucesso - Ratio: 16:9, Área: 44.11 cm²
+
+[36/52] 21:31:57 - iPhone 5c
+   ✅ Sucesso - Ratio: 16:9, Área: 44.11 cm²
+
+[37/52] 21:31:57 - iPhone 5s
+   ✅ Sucesso - Ratio: 16:9, Área: 44.11 cm²
+
+[38/52] 21:31:57 - iPhone 6
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[39/52] 21:31:57 - iPhone 6 Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[40/52] 21:31:57 - iPhone 6s
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[41/52] 21:31:57 - iPhone 6s Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[42/52] 21:31:57 - iPhone 7
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[43/52] 21:31:57 - iPhone 7 Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[44/52] 21:31:57 - iPhone 8
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[45/52] 21:31:57 - iPhone 8 Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[46/52] 21:31:57 - iPhone SE
+   ✅ Sucesso - Ratio: 16:9, Área: 44.11 cm²
+
+[47/52] 21:31:57 - iPhone SE (2020)
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[48/52] 21:31:57 - iPhone SE (2022)
+   ✅ Sucesso - Ratio: 16:9, Área: 60.90 cm²
+
+[49/52] 21:31:57 - iPhone X
+   ✅ Sucesso - Ratio: 19.5:9, Área: 82.58 cm²
+
+[50/52] 21:31:57 - iPhone XR
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[51/52] 21:31:57 - iPhone XS
+   ✅ Sucesso - Ratio: 19.5:9, Área: 82.58 cm²
+
+[52/52] 21:31:57 - iPhone XS Max
+   ✅ Sucesso - Ratio: 19.5:9, Área: 103.71 cm²
+
+============================================================
+Sucessos: 52, Falhas: 0
+Taxa de sucesso: 100.0%

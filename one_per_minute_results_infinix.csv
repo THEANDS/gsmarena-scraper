@@ -1,0 +1,160 @@
+ID,Modelo,URL,Ratio,Area_cm2,Resolução,Tamanho,PPI,Status,Extraído_em
+1,"GT 10 Pro",https://www.gsmarena.com/infinix_gt_10_pro-12451.php,20:9,107.41,1080x2400,6.67",N/A,SUCCESS,2025-12-16 18:46:11
+2,"GT 20 Pro",https://www.gsmarena.com/infinix_gt_20_pro-12962.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 18:47:12
+3,"GT 30",https://www.gsmarena.com/infinix_gt_30_5g-14044.php,20:9,110.98,1224x2720,6.78",N/A,SUCCESS,2025-12-16 18:48:14
+4,"GT 30 Pro",https://www.gsmarena.com/infinix_gt_30_pro_5g-13889.php,20:9,110.98,1224x2720,6.78",N/A,SUCCESS,2025-12-16 18:49:15
+5,"Hot 10",https://www.gsmarena.com/infinix_hot_10-10452.php,N/A,N/A,720x1640,6.78",N/A,FAILED,2025-12-16 18:50:16
+6,"Hot 10 Lite",https://www.gsmarena.com/infinix_hot_10_lite-10516.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 18:51:17
+7,"Hot 10 Play",https://www.gsmarena.com/infinix_hot_10_play-10699.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 18:52:18
+8,"Hot 10i",https://www.gsmarena.com/infinix_hot_10i-11031.php,20:9,102.63,720x1600,6.52",N/A,SUCCESS,2025-12-16 18:53:20
+9,"Hot 10s",https://www.gsmarena.com/infinix_hot_10s-10868.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 18:54:21
+10,"Hot 10s NFC",https://www.gsmarena.com/infinix_hot_10s_nfc-10869.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 18:55:22
+11,"Hot 10T",https://www.gsmarena.com/infinix_hot_10t-10891.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 18:56:23
+12,"Hot 11",https://www.gsmarena.com/infinix_hot_11-11161.php,20:9,105.17,1080x2408,6.6",N/A,SUCCESS,2025-12-16 18:57:24
+13,"Hot 11 2022",https://www.gsmarena.com/infinix_hot_11_2022-11478.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 18:58:25
+14,"Hot 11 Play",https://www.gsmarena.com/infinix_hot_11_play-11216.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 18:59:27
+15,"Hot 11s",https://www.gsmarena.com/infinix_hot_11s-11162.php,N/A,N/A,1080x2480,6.78",N/A,FAILED,2025-12-16 19:00:28
+16,"Hot 11s NFC",https://www.gsmarena.com/infinix_hot_11s_nfc-11605.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 19:01:29
+17,"Hot 12",https://www.gsmarena.com/infinix_hot_12-11498.php,20:9,112.30,720x1612,6.82",N/A,SUCCESS,2025-12-16 19:02:30
+18,"Hot 12 Play",https://www.gsmarena.com/infinix_hot_12_play-11547.php,20:9,112.30,720x1612,6.82",N/A,SUCCESS,2025-12-16 19:03:31
+19,"Hot 12 Play NFC",https://www.gsmarena.com/infinix_hot_12_play_nfc-11876.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 19:04:32
+20,"Hot 12 Pro",https://www.gsmarena.com/infinix_hot_12_pro-11822.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 19:05:34
+21,"Hot 12i",https://www.gsmarena.com/infinix_hot_12i-11473.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 19:06:35
+22,"Hot 20",https://www.gsmarena.com/infinix_hot_20-11929.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 19:07:36
+23,"Hot 20 5G",https://www.gsmarena.com/infinix_hot_20_5g-11923.php,20:9,104.53,1080x2408,6.58",N/A,SUCCESS,2025-12-16 19:08:37
+24,"Hot 20 Play",https://www.gsmarena.com/infinix_hot_20_play-11931.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 19:09:38
+25,"Hot 20i",https://www.gsmarena.com/infinix_hot_20i-11924.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 19:10:40
+26,"Hot 20S",https://www.gsmarena.com/infinix_hot_20s-11930.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 19:11:41
+27,"Hot 30",https://www.gsmarena.com/infinix_hot_30-12214.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 19:12:42
+28,"Hot 30 5G",https://www.gsmarena.com/infinix_hot_30_5g-12424.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 19:13:43
+29,"Hot 30 Play NFC",https://www.gsmarena.com/infinix_hot_30_play_nfc-12289.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 19:14:44
+30,"Hot 30i",https://www.gsmarena.com/infinix_hot_30i-12216.php,20:9,103.90,720x1612,6.56",N/A,SUCCESS,2025-12-16 19:15:45
+31,"Hot 30i (50 MP)",https://www.gsmarena.com/infinix_hot_30i_(50_mp)-14011.php,20:9,103.90,720x1612,6.56",N/A,SUCCESS,2025-12-16 19:16:46
+32,"Hot 4",https://www.gsmarena.com/infinix_hot_4-9472.php,16:9,83.39,720x1280,5.5",N/A,SUCCESS,2025-12-16 19:17:47
+33,"Hot 40",https://www.gsmarena.com/infinix_hot_40-12732.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 19:18:49
+34,"Hot 40 Pro",https://www.gsmarena.com/infinix_hot_40_pro-12733.php,1822:1,0.16,1080x2460,6.78",N/A,SUCCESS,2025-12-16 19:19:50
+35,"Hot 40i",https://www.gsmarena.com/infinix_hot_40i-12731.php,20:9,103.90,720x1612,6.56",N/A,SUCCESS,2025-12-16 19:20:51
+36,"Hot 4 Pro",https://www.gsmarena.com/infinix_hot_4_pro-9473.php,16:9,83.39,720x1280,5.5",N/A,SUCCESS,2025-12-16 19:21:52
+37,"Hot 5",https://www.gsmarena.com/infinix_hot_5-9427.php,16:9,83.39,720x1280,5.5",N/A,SUCCESS,2025-12-16 19:22:53
+38,"Hot 50",https://www.gsmarena.com/infinix_hot_50-13305.php,20:9,108.38,720x1600,6.7",N/A,SUCCESS,2025-12-16 19:23:54
+39,"Hot 50 4G",https://www.gsmarena.com/infinix_hot_50_4g-13367.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 19:24:56
+40,"Hot 50 Pro+ 4G",https://www.gsmarena.com/infinix_hot_50_pro+_4g-13408.php,31:57,124.47,1080x2436,6.78",N/A,SUCCESS,2025-12-16 19:25:57
+41,"Hot 50 Pro 4G",https://www.gsmarena.com/infinix_hot_50_pro_4g-13461.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 19:26:58
+42,"Hot 50i",https://www.gsmarena.com/infinix_hot_50i-13375.php,20:9,108.38,720x1600,6.7",N/A,SUCCESS,2025-12-16 19:27:59
+43,"Hot 5 Lite",https://www.gsmarena.com/infinix_hot_5_lite-9428.php,16:9,83.39,720x1280,5.5",N/A,SUCCESS,2025-12-16 19:29:00
+44,"Hot 6",https://www.gsmarena.com/infinix_hot_6-9426.php,18:9,92.90,720x1440,6.0",N/A,SUCCESS,2025-12-16 19:30:01
+45,"Hot 60",https://www.gsmarena.com/infinix_hot_60_5g-14006.php,20:9,108.38,720x1600,6.7",N/A,SUCCESS,2025-12-16 19:31:02
+46,"Hot 60 Pro+",https://www.gsmarena.com/infinix_hot_60_pro+-14002.php,20:9,110.98,1224x2720,6.78",N/A,SUCCESS,2025-12-16 19:32:03
+47,"Hot 60 Pro",https://www.gsmarena.com/infinix_hot_60_pro-14003.php,20:9,110.98,1224x2720,6.78",N/A,SUCCESS,2025-12-16 19:33:04
+48,"Hot 60i 4G",https://www.gsmarena.com/infinix_hot_60i-13983.php,20:9,108.38,720x1600,6.7",N/A,SUCCESS,2025-12-16 19:34:06
+49,"Hot 60i",https://www.gsmarena.com/infinix_hot_60i_5g-14072.php,20:9,110.00,720x1600,6.75",N/A,SUCCESS,2025-12-16 19:35:07
+50,"Hot 6 Pro",https://www.gsmarena.com/infinix_hot_6_pro-9425.php,18:9,92.90,720x1440,6.0",N/A,SUCCESS,2025-12-16 19:36:08
+51,"Hot 6X",https://www.gsmarena.com/infinix_hot_6x-9423.php,N/A,N/A,720x1500,6.2",N/A,FAILED,2025-12-16 19:37:09
+52,"Hot 7",https://www.gsmarena.com/infinix_hot_7-9658.php,18:9,99.20,720x1440,6.2",N/A,SUCCESS,2025-12-16 19:38:10
+53,"Hot 7 Pro",https://www.gsmarena.com/infinix_hot_7_pro-9679.php,19:9,95.95,720x1520,6.2",N/A,SUCCESS,2025-12-16 19:39:11
+54,"Hot 8",https://www.gsmarena.com/infinix_hot_8-9856.php,20:9,102.63,720x1600,6.52",N/A,SUCCESS,2025-12-16 19:40:12
+55,"Hot 8 Lite",https://www.gsmarena.com/infinix_hot_8_lite-9927.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 19:41:14
+56,"Hot 9",https://www.gsmarena.com/infinix_hot_9-10156.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 19:42:15
+57,"Hot 9 Play",https://www.gsmarena.com/infinix_hot_9_play-10285.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 19:43:16
+58,"Hot 9 Pro",https://www.gsmarena.com/infinix_hot_9_pro-10272.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 19:44:17
+59,"Hot S",https://www.gsmarena.com/infinix_hot_s-9474.php,16:9,74.54,720x1280,5.2",N/A,SUCCESS,2025-12-16 19:45:18
+60,"Hot S3",https://www.gsmarena.com/infinix_hot_s3-9421.php,18:9,83.84,720x1440,5.7",N/A,SUCCESS,2025-12-16 19:46:20
+61,"Note 10",https://www.gsmarena.com/infinix_note_10-10909.php,N/A,N/A,1080x2460,6.95",N/A,FAILED,2025-12-16 19:47:21
+62,"Note 10 Pro",https://www.gsmarena.com/infinix_note_10_pro-10907.php,1326:1,0.24,1080x2460,6.95",N/A,SUCCESS,2025-12-16 19:48:22
+63,"Note 10 Pro NFC",https://www.gsmarena.com/infinix_note_10_pro_nfc-10908.php,N/A,N/A,1080x2460,6.95",N/A,FAILED,2025-12-16 19:49:23
+64,"Note 11",https://www.gsmarena.com/infinix_note_11-11201.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 19:50:24
+65,"Note 11 Pro",https://www.gsmarena.com/infinix_note_11_pro-11157.php,1610:1,0.19,1080x2460,6.95",N/A,SUCCESS,2025-12-16 19:51:25
+66,"Note 11i",https://www.gsmarena.com/infinix_note_11i-11214.php,N/A,N/A,1080x2460,6.95",N/A,FAILED,2025-12-16 19:52:27
+67,"Note 11s",https://www.gsmarena.com/infinix_note_11s-11202.php,N/A,N/A,1080x2460,6.95",N/A,FAILED,2025-12-16 19:53:28
+68,"Note 12",https://www.gsmarena.com/infinix_note_12-11497.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 19:54:29
+69,"Note 12 (2023)",https://www.gsmarena.com/infinix_note_12_(2023)-11912.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 19:55:30
+70,"Note 12 5G",https://www.gsmarena.com/infinix_note_12_5g-11662.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 19:56:31
+71,"Note 12 G96",https://www.gsmarena.com/infinix_note_12_g96-11526.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 19:57:32
+72,"Note 12 Pro",https://www.gsmarena.com/infinix_note_12_pro-11695.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 19:58:34
+73,"Note 12 Pro 5G",https://www.gsmarena.com/infinix_note_12_pro_5g-11663.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 19:59:35
+74,"Note 12 VIP",https://www.gsmarena.com/infinix_note_12_vip-11527.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 20:00:36
+75,"Note 12i",https://www.gsmarena.com/infinix_note_12i-11523.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 20:01:37
+76,"Note 12i 2022",https://www.gsmarena.com/infinix_note_12i_2022-11919.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 20:02:38
+77,"Note 3",https://www.gsmarena.com/infinix_note_3-9475.php,16:9,99.24,1080x1920,6.0",N/A,SUCCESS,2025-12-16 20:03:39
+78,"Note 30",https://www.gsmarena.com/infinix_note_30-12288.php,1521:1,0.19,1080x2460,6.78",N/A,SUCCESS,2025-12-16 20:04:40
+79,"Note 30 5G",https://www.gsmarena.com/infinix_note_30_5g-12272.php,1521:1,0.19,1080x2460,6.78",N/A,SUCCESS,2025-12-16 20:05:42
+80,"Note 30 Pro",https://www.gsmarena.com/infinix_note_30_pro-12273.php,20:9,107.41,1080x2400,6.67",N/A,SUCCESS,2025-12-16 20:06:43
+81,"Note 30 VIP",https://www.gsmarena.com/infinix_note_30_vip-12365.php,20:9,107.41,1080x2400,6.67",N/A,SUCCESS,2025-12-16 20:07:44
+82,"Note 30i",https://www.gsmarena.com/infinix_note_30i-12274.php,20:9,107.09,1080x2400,6.66",N/A,SUCCESS,2025-12-16 20:08:45
+83,"Note 3 Pro",https://www.gsmarena.com/infinix_note_3_pro-9476.php,16:9,99.24,1080x1920,6.0",N/A,SUCCESS,2025-12-16 20:09:46
+84,"Note 4",https://www.gsmarena.com/infinix_note_4-9418.php,16:9,89.57,1080x1920,5.7",N/A,SUCCESS,2025-12-16 20:10:47
+85,"Note 40",https://www.gsmarena.com/infinix_note_40-12877.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 20:11:48
+86,"Note 40 5G",https://www.gsmarena.com/infinix_note_40_5g-13035.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 20:12:50
+87,"Note 40 Pro+",https://www.gsmarena.com/infinix_note_40_pro+-12874.php,41:51,144.82,1080x2436,6.78",N/A,SUCCESS,2025-12-16 20:13:51
+88,"Note 40 Pro",https://www.gsmarena.com/infinix_note_40_pro-12875.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 20:14:52
+89,"Note 40 Pro 4G",https://www.gsmarena.com/infinix_note_40_pro_4g-12876.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 20:15:53
+90,"Note 40S",https://www.gsmarena.com/infinix_note_40s-13460.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 20:16:54
+91,"Note 40X 5G",https://www.gsmarena.com/infinix_note_40x_5g-13246.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 20:17:55
+92,"Note 4 Pro",https://www.gsmarena.com/infinix_note_4_pro-9419.php,16:9,89.57,1080x1920,5.7",N/A,SUCCESS,2025-12-16 20:18:57
+93,"Note 5",https://www.gsmarena.com/infinix_note_5-9417.php,18:9,92.90,1080x2160,6.0",N/A,SUCCESS,2025-12-16 20:19:58
+94,"Note 50 4G",https://www.gsmarena.com/infinix_note_50_4g-13705.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 20:20:59
+95,"Note 50 Pro+",https://www.gsmarena.com/infinix_note_50_pro+-13746.php,25:08,86.09,1080x2436,6.78",N/A,SUCCESS,2025-12-16 20:22:00
+96,"Note 50 Pro 4G",https://www.gsmarena.com/infinix_note_50_pro_4g-13701.php,25:36,138.94,1080x2436,6.78",N/A,SUCCESS,2025-12-16 20:23:01
+97,"Note 50s",https://www.gsmarena.com/infinix_note_50s_5g-13793.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 20:24:02
+98,"Note 50x",https://www.gsmarena.com/infinix_note_50x-13747.php,20:9,107.41,720x1600,6.67",N/A,SUCCESS,2025-12-16 20:25:04
+99,"Note 5 Stylus",https://www.gsmarena.com/infinix_note_5_stylus-9416.php,18:9,92.90,1080x2160,6.0",N/A,SUCCESS,2025-12-16 20:26:05
+100,"Note 6",https://www.gsmarena.com/infinix_note_6-9761.php,18:9,93.21,1080x2160,6.01",N/A,SUCCESS,2025-12-16 20:27:06
+101,"Note 7",https://www.gsmarena.com/infinix_note_7-10175.php,N/A,N/A,720x1640,6.95",N/A,FAILED,2025-12-16 20:28:07
+102,"Note 7 Lite",https://www.gsmarena.com/infinix_note_7_lite-10177.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:29:08
+103,"Note 8",https://www.gsmarena.com/infinix_note_8-10514.php,N/A,N/A,720x1640,6.95",N/A,FAILED,2025-12-16 20:30:09
+104,"Note 8i",https://www.gsmarena.com/infinix_note_8i-10515.php,N/A,N/A,720x1640,6.78",N/A,FAILED,2025-12-16 20:31:11
+105,"S2 Pro",https://www.gsmarena.com/infinix_s2_pro-9422.php,16:9,74.54,720x1280,5.2",N/A,SUCCESS,2025-12-16 20:32:12
+106,"S3X",https://www.gsmarena.com/infinix_s3x-9420.php,N/A,N/A,720x1500,6.2",N/A,FAILED,2025-12-16 20:33:13
+107,"S4",https://www.gsmarena.com/infinix_s4-9678.php,19:9,95.95,720x1520,6.2",N/A,SUCCESS,2025-12-16 20:34:14
+108,"S5",https://www.gsmarena.com/infinix_s5-9915.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:35:15
+109,"S5 lite",https://www.gsmarena.com/infinix_s5_lite-10008.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:36:16
+110,"S5 Pro",https://www.gsmarena.com/infinix_s5_pro-10116.php,19.5:9,104.67,1080x2340,6.53",N/A,SUCCESS,2025-12-16 20:37:17
+111,"S5 Pro (16+32)",https://www.gsmarena.com/infinix_s5_pro_(16+32)-10128.php,19.5:9,104.67,1080x2340,6.53",N/A,SUCCESS,2025-12-16 20:38:19
+112,"S5 Pro (48+40)",https://www.gsmarena.com/infinix_s5_pro_(48+40)-10127.php,19.5:9,104.67,1080x2340,6.53",N/A,SUCCESS,2025-12-16 20:39:20
+113,"Smart",https://www.gsmarena.com/infinix_smart-9431.php,16:9,68.92,720x1280,5.0",N/A,SUCCESS,2025-12-16 20:40:21
+114,"Smart3 Plus",https://www.gsmarena.com/infinix_smart3_plus-9680.php,19:9,96.26,720x1520,6.21",N/A,SUCCESS,2025-12-16 20:41:22
+115,"Smart 10",https://www.gsmarena.com/infinix_smart_10-13933.php,20:9,107.41,720x1600,6.67",N/A,SUCCESS,2025-12-16 20:42:23
+116,"Smart 10 HD",https://www.gsmarena.com/infinix_smart_10_hd-13954.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 20:43:24
+117,"Smart 10 Plus",https://www.gsmarena.com/infinix_smart_10_plus-13953.php,20:9,107.41,720x1600,6.67",N/A,SUCCESS,2025-12-16 20:44:26
+118,"Smart 2",https://www.gsmarena.com/infinix_smart_2-9430.php,18:9,78.06,720x1440,5.5",N/A,SUCCESS,2025-12-16 20:45:27
+119,"Smart 2 HD",https://www.gsmarena.com/infinix_smart_2_hd-9477.php,18:9,92.90,720x1440,6.0",N/A,SUCCESS,2025-12-16 20:46:28
+120,"Smart 2 Pro",https://www.gsmarena.com/infinix_smart_2_pro-9429.php,18:9,78.06,720x1440,5.5",N/A,SUCCESS,2025-12-16 20:47:28
+121,"Smart 4",https://www.gsmarena.com/infinix_smart_4-9980.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:48:30
+122,"Smart 4c",https://www.gsmarena.com/infinix_smart_4c-9975.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:49:31
+123,"Smart 5",https://www.gsmarena.com/infinix_smart_5-10367.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:50:32
+124,"Smart 5 (India)",https://www.gsmarena.com/infinix_smart_5_(india)-10735.php,N/A,N/A,720x1640,6.82",N/A,FAILED,2025-12-16 20:51:33
+125,"Smart 5 Pro",https://www.gsmarena.com/infinix_smart_5_pro-11221.php,20:9,102.63,720x1600,6.52",N/A,SUCCESS,2025-12-16 20:52:34
+126,"Smart 6",https://www.gsmarena.com/infinix_smart_6-11189.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:53:36
+127,"Smart 6 HD",https://www.gsmarena.com/infinix_smart_6_hd-11499.php,20:9,105.17,720x1600,6.6",N/A,SUCCESS,2025-12-16 20:54:37
+128,"Smart 6 Plus (India)",https://www.gsmarena.com/infinix_smart_6_plus_(india)-11742.php,20:9,112.30,720x1600,6.82",N/A,SUCCESS,2025-12-16 20:55:38
+129,"Smart 7",https://www.gsmarena.com/infinix_smart_7-12116.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 20:56:39
+130,"Smart 7 (India)",https://www.gsmarena.com/infinix_smart_7_(india)-12131.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 20:57:40
+131,"Smart 7 HD",https://www.gsmarena.com/infinix_smart_7_hd-12243.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 20:58:41
+132,"Smart 8",https://www.gsmarena.com/infinix_smart_8-12642.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 20:59:43
+133,"Smart 8 (India)",https://www.gsmarena.com/infinix_smart_8_(india)-12792.php,N/A,N/A,N/A,N/A,N/A,FAILED,2025-12-16 21:00:45
+134,"Smart 8 HD",https://www.gsmarena.com/infinix_smart_8_hd-12736.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 21:01:46
+135,"Smart 8 Plus",https://www.gsmarena.com/infinix_smart_8_plus-12817.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 21:02:47
+136,"Smart 8 Pro",https://www.gsmarena.com/infinix_smart_8_pro-12812.php,20:9,105.17,720x1612,6.6",N/A,SUCCESS,2025-12-16 21:03:48
+137,"Smart 9",https://www.gsmarena.com/infinix_smart_9-13374.php,20:9,108.38,720x1600,6.7",N/A,SUCCESS,2025-12-16 21:04:49
+138,"Smart 9 HD",https://www.gsmarena.com/infinix_smart_9_hd-13590.php,20:9,108.38,720x1600,6.7",N/A,SUCCESS,2025-12-16 21:05:51
+139,"Smart HD 2021",https://www.gsmarena.com/infinix_smart_hd_2021-10646.php,19.5:9,91.34,720x1560,6.1",N/A,SUCCESS,2025-12-16 21:06:52
+140,"Zero 20",https://www.gsmarena.com/infinix_zero_20-11913.php,20:9,108.38,1080x2400,6.7",N/A,SUCCESS,2025-12-16 21:07:53
+141,"Zero 30",https://www.gsmarena.com/infinix_zero_30-12518.php,20:9,110.98,1080x2400,6.78",N/A,SUCCESS,2025-12-16 21:08:55
+142,"Zero 30 4G",https://www.gsmarena.com/infinix_zero_30_4g-12641.php,20:9,110.98,1080x2400,6.78",N/A,SUCCESS,2025-12-16 21:09:56
+143,"Zero 4",https://www.gsmarena.com/infinix_zero_4-9478.php,16:9,83.39,1080x1920,5.5",N/A,SUCCESS,2025-12-16 21:10:57
+144,"Zero 40",https://www.gsmarena.com/infinix_zero_40-13290.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 21:11:58
+145,"Zero 40 4G",https://www.gsmarena.com/infinix_zero_40_4g-13276.php,N/A,N/A,1080x2436,6.78",N/A,FAILED,2025-12-16 21:13:00
+146,"Zero 4 Plus",https://www.gsmarena.com/infinix_zero_4_plus-9479.php,16:9,98.58,1080x1920,5.98",N/A,SUCCESS,2025-12-16 21:14:01
+147,"Zero 5",https://www.gsmarena.com/infinix_zero_5-9414.php,16:9,98.58,1080x1920,5.98",N/A,SUCCESS,2025-12-16 21:15:02
+148,"Zero 5 Pro",https://www.gsmarena.com/infinix_zero_5_pro-9415.php,16:9,98.58,1080x1920,5.98",N/A,SUCCESS,2025-12-16 21:16:03
+149,"Zero 5G",https://www.gsmarena.com/infinix_zero_5g-11355.php,1610:1,0.18,1080x2460,6.78",N/A,SUCCESS,2025-12-16 21:17:05
+150,"Zero 5G 2023",https://www.gsmarena.com/infinix_zero_5g_2023-11976.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 21:18:06
+151,"Zero 6",https://www.gsmarena.com/infinix_zero_6-9656.php,18.7:9,96.29,1080x2246,6.18",N/A,SUCCESS,2025-12-16 21:19:07
+152,"Zero 6 Pro",https://www.gsmarena.com/infinix_zero_6_pro-9657.php,18.7:9,96.29,1080x2246,6.18",N/A,SUCCESS,2025-12-16 21:20:08
+153,"Zero 8",https://www.gsmarena.com/infinix_zero_8-10401.php,2184:1,0.14,1080x2460,6.85",N/A,SUCCESS,2025-12-16 21:21:09
+154,"Zero 8i",https://www.gsmarena.com/infinix_zero_8i-10622.php,N/A,N/A,1080x2460,6.85",N/A,FAILED,2025-12-16 21:22:10
+155,"Zero Flip",https://www.gsmarena.com/infinix_zero_flip-13347.php,26:12,116.87,1080x2640,6.9",N/A,SUCCESS,2025-12-16 21:23:11
+156,"Zero Ultra",https://www.gsmarena.com/infinix_zero_ultra-11922.php,20:9,111.64,1080x2400,6.8",N/A,SUCCESS,2025-12-16 21:24:13
+157,"Zero X",https://www.gsmarena.com/infinix_zero_x-11097.php,20:9,107.41,1080x2400,6.67",N/A,SUCCESS,2025-12-16 21:25:14
+158,"Zero X Neo",https://www.gsmarena.com/infinix_zero_x_neo-11098.php,N/A,N/A,1080x2460,6.78",N/A,FAILED,2025-12-16 21:26:15
+159,"Zero X Pro",https://www.gsmarena.com/infinix_zero_x_pro-10989.php,20:9,107.41,1080x2400,6.67",N/A,SUCCESS,2025-12-16 21:27:16

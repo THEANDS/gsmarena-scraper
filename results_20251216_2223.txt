@@ -1,0 +1,527 @@
+DETALHES DE DISPLAY - SMARTPHONES SAMSUNG
+=========================================
+
+RESUMO:
+  • Completos: 52
+  • Falhos: 0
+
+ID: 1
+Modelo: iPhone
+Ratio: 3:2
+Área: 36.48 cm²
+Resolução: 320x480
+Tamanho: 3.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone-1827.php
+Status HTTP: 200
+---
+ID: 2
+Modelo: iPhone 11
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 828x1792
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_11-9848.php
+Status HTTP: 200
+---
+ID: 3
+Modelo: iPhone 11 Pro
+Ratio: 19.5:9
+Área: 82.58 cm²
+Resolução: 1125x2436
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_11_pro-9847.php
+Status HTTP: 200
+---
+ID: 4
+Modelo: iPhone 11 Pro Max
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1242x2688
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_11_pro_max-9846.php
+Status HTTP: 200
+---
+ID: 5
+Modelo: iPhone 12
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1170x2532
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_12-10509.php
+Status HTTP: 200
+---
+ID: 6
+Modelo: iPhone 12 mini
+Ratio: 19.5:9
+Área: 71.58 cm²
+Resolução: 1080x2340
+Tamanho: 5.4"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_12_mini-10510.php
+Status HTTP: 200
+---
+ID: 7
+Modelo: iPhone 12 Pro
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1170x2532
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_12_pro-10508.php
+Status HTTP: 200
+---
+ID: 8
+Modelo: iPhone 12 Pro Max
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1284x2778
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php
+Status HTTP: 200
+---
+ID: 9
+Modelo: iPhone 13
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1170x2532
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_13-11103.php
+Status HTTP: 200
+---
+ID: 10
+Modelo: iPhone 13 mini
+Ratio: 19.5:9
+Área: 71.58 cm²
+Resolução: 1080x2340
+Tamanho: 5.4"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_13_mini-11104.php
+Status HTTP: 200
+---
+ID: 11
+Modelo: iPhone 13 Pro
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1170x2532
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_13_pro-11102.php
+Status HTTP: 200
+---
+ID: 12
+Modelo: iPhone 13 Pro Max
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1284x2778
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php
+Status HTTP: 200
+---
+ID: 13
+Modelo: iPhone 14
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1170x2532
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_14-11861.php
+Status HTTP: 200
+---
+ID: 14
+Modelo: iPhone 14 Plus
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1284x2778
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_14_plus-11862.php
+Status HTTP: 200
+---
+ID: 15
+Modelo: iPhone 14 Pro
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1179x2556
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_14_pro-11860.php
+Status HTTP: 200
+---
+ID: 16
+Modelo: iPhone 14 Pro Max
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1290x2796
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php
+Status HTTP: 200
+---
+ID: 17
+Modelo: iPhone 15
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1179x2556
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_15-12559.php
+Status HTTP: 200
+---
+ID: 18
+Modelo: iPhone 15 Plus
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1290x2796
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_15_plus-12558.php
+Status HTTP: 200
+---
+ID: 19
+Modelo: iPhone 15 Pro
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1179x2556
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_15_pro-12557.php
+Status HTTP: 200
+---
+ID: 20
+Modelo: iPhone 15 Pro Max
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1290x2796
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_15_pro_max-12548.php
+Status HTTP: 200
+---
+ID: 21
+Modelo: iPhone 16
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1179x2556
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_16-13317.php
+Status HTTP: 200
+---
+ID: 22
+Modelo: iPhone 16 Plus
+Ratio: 19.5:9
+Área: 110.19 cm²
+Resolução: 1290x2796
+Tamanho: 6.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_16_plus-13316.php
+Status HTTP: 200
+---
+ID: 23
+Modelo: iPhone 16 Pro
+Ratio: 19.5:9
+Área: 97.43 cm²
+Resolução: 1206x2622
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_16_pro-13315.php
+Status HTTP: 200
+---
+ID: 24
+Modelo: iPhone 16 Pro Max
+Ratio: 19.5:9
+Área: 116.87 cm²
+Resolução: 1320x2868
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php
+Status HTTP: 200
+---
+ID: 25
+Modelo: iPhone 16e
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 1170x2532
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_16e-13395.php
+Status HTTP: 200
+---
+ID: 26
+Modelo: iPhone 17
+Ratio: 19.5:9
+Área: 97.43 cm²
+Resolução: 1206x2622
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_17-14050.php
+Status HTTP: 200
+---
+ID: 27
+Modelo: iPhone Air
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1260x2736
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_17_air-13502.php
+Status HTTP: 200
+---
+ID: 28
+Modelo: iPhone 17 Pro
+Ratio: 19.5:9
+Área: 97.43 cm²
+Resolução: 1206x2622
+Tamanho: 6.3"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_17_pro-14049.php
+Status HTTP: 200
+---
+ID: 29
+Modelo: iPhone 17 Pro Max
+Ratio: 19.5:9
+Área: 116.87 cm²
+Resolução: 1320x2868
+Tamanho: 6.9"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php
+Status HTTP: 200
+---
+ID: 30
+Modelo: iPhone 3G
+Ratio: 3:2
+Área: 36.48 cm²
+Resolução: 320x480
+Tamanho: 3.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_3g-2424.php
+Status HTTP: 200
+---
+ID: 31
+Modelo: iPhone 3GS
+Ratio: 3:2
+Área: 36.48 cm²
+Resolução: 320x480
+Tamanho: 3.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_3gs-2826.php
+Status HTTP: 200
+---
+ID: 32
+Modelo: iPhone 4
+Ratio: 3:2
+Área: 36.48 cm²
+Resolução: 640x960
+Tamanho: 3.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_4-3275.php
+Status HTTP: 200
+---
+ID: 33
+Modelo: iPhone 4 CDMA
+Ratio: 3:2
+Área: 36.48 cm²
+Resolução: 640x960
+Tamanho: 3.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_4_cdma-3716.php
+Status HTTP: 200
+---
+ID: 34
+Modelo: iPhone 4s
+Ratio: 3:2
+Área: 36.48 cm²
+Resolução: 640x960
+Tamanho: 3.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_4s-4212.php
+Status HTTP: 200
+---
+ID: 35
+Modelo: iPhone 5
+Ratio: 16:9
+Área: 44.11 cm²
+Resolução: 640x1136
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_5-4910.php
+Status HTTP: 200
+---
+ID: 36
+Modelo: iPhone 5c
+Ratio: 16:9
+Área: 44.11 cm²
+Resolução: 640x1136
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_5c-5690.php
+Status HTTP: 200
+---
+ID: 37
+Modelo: iPhone 5s
+Ratio: 16:9
+Área: 44.11 cm²
+Resolução: 640x1136
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_5s-5685.php
+Status HTTP: 200
+---
+ID: 38
+Modelo: iPhone 6
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 750x1334
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_6-6378.php
+Status HTTP: 200
+---
+ID: 39
+Modelo: iPhone 6 Plus
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_6_plus-6665.php
+Status HTTP: 200
+---
+ID: 40
+Modelo: iPhone 6s
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 750x1334
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_6s-7242.php
+Status HTTP: 200
+---
+ID: 41
+Modelo: iPhone 6s Plus
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_6s_plus-7243.php
+Status HTTP: 200
+---
+ID: 42
+Modelo: iPhone 7
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 750x1334
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_7-8064.php
+Status HTTP: 200
+---
+ID: 43
+Modelo: iPhone 7 Plus
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_7_plus-8065.php
+Status HTTP: 200
+---
+ID: 44
+Modelo: iPhone 8
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 750x1334
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_8-8573.php
+Status HTTP: 200
+---
+ID: 45
+Modelo: iPhone 8 Plus
+Ratio: 16:9
+Área: 83.39 cm²
+Resolução: 1080x1920
+Tamanho: 5.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_8_plus-8131.php
+Status HTTP: 200
+---
+ID: 46
+Modelo: iPhone SE
+Ratio: 16:9
+Área: 44.11 cm²
+Resolução: 640x1136
+Tamanho: 4.0"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_se-7969.php
+Status HTTP: 200
+---
+ID: 47
+Modelo: iPhone SE (2020)
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 750x1334
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_se_(2020)-10170.php
+Status HTTP: 200
+---
+ID: 48
+Modelo: iPhone SE (2022)
+Ratio: 16:9
+Área: 60.90 cm²
+Resolução: 750x1334
+Tamanho: 4.7"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_se_(2022)-11410.php
+Status HTTP: 200
+---
+ID: 49
+Modelo: iPhone X
+Ratio: 19.5:9
+Área: 82.58 cm²
+Resolução: 1125x2436
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_x-8858.php
+Status HTTP: 200
+---
+ID: 50
+Modelo: iPhone XR
+Ratio: 19.5:9
+Área: 91.34 cm²
+Resolução: 828x1792
+Tamanho: 6.1"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_xr-9320.php
+Status HTTP: 200
+---
+ID: 51
+Modelo: iPhone XS
+Ratio: 19.5:9
+Área: 82.58 cm²
+Resolução: 1125x2436
+Tamanho: 5.8"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_xs-9318.php
+Status HTTP: 200
+---
+ID: 52
+Modelo: iPhone XS Max
+Ratio: 19.5:9
+Área: 103.71 cm²
+Resolução: 1242x2688
+Tamanho: 6.5"
+PPI: N/A
+URL: https://www.gsmarena.com/apple_iphone_xs_max-9319.php
+Status HTTP: 200
+---

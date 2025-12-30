@@ -14,7 +14,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let scraper = PhoneScraper::new(config)?;
     
     println!("Selecione a operação:");
-    println!("1. Coletar URLs (9 páginas)");
+    println!("1. Coletar URLs");
     println!("2. Extrair detalhes (1 por minuto)");
     println!("3. Sair");
     
@@ -23,12 +23,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     
     match input.trim() {
         "1" => {
-            let phones = scraper.scrape_phone_urls(Some(10))?;
-            utils::save_phones_to_csv(&phones, "xiaomi_smartphones_recentes.csv")?;
+            let phones = scraper.scrape_phone_urls(Some(3))?;
+            utils::save_phones_to_csv(&phones, "iphone_smartphones_recentes.csv")?;
             println!("✅ {} URLs coletadas.", phones.len());
         }
         "2" => {
-            let phones = utils::load_phones_from_csv("xiaomi_smartphones_recentes.csv")?;
+            let phones = utils::load_phones_from_csv("iphone_smartphones_recentes.csv")?;
             println!("📄 {} telefones para processar", phones.len());
             
             // Estimar tempo total

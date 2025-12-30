@@ -1,0 +1,485 @@
+🚀 INÍCIO DO PROCESSAMENTO (1 POR MINUTO)
+Data: 2025-12-16 18:46:10
+Total de telefones: 159
+============================================================
+
+[1/159] 18:46:10 - GT 10 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[2/159] 18:46:10 - GT 20 Pro
+   ❌ Falha: Informações não encontradas
+
+[3/159] 18:46:10 - GT 30
+   ✅ Sucesso - Ratio: 20:9, Área: 110.98 cm²
+
+[4/159] 18:46:10 - GT 30 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 110.98 cm²
+
+[5/159] 18:46:10 - Hot 10
+   ❌ Falha: Informações não encontradas
+
+[6/159] 18:46:10 - Hot 10 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[7/159] 18:46:10 - Hot 10 Play
+   ❌ Falha: Informações não encontradas
+
+[8/159] 18:46:10 - Hot 10i
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[9/159] 18:46:10 - Hot 10s
+   ❌ Falha: Informações não encontradas
+
+[10/159] 18:46:10 - Hot 10s NFC
+   ❌ Falha: Informações não encontradas
+
+[11/159] 18:46:10 - Hot 10T
+   ❌ Falha: Informações não encontradas
+
+[12/159] 18:46:10 - Hot 11
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[13/159] 18:46:10 - Hot 11 2022
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[14/159] 18:46:10 - Hot 11 Play
+   ❌ Falha: Informações não encontradas
+
+[15/159] 18:46:10 - Hot 11s
+   ❌ Falha: Informações não encontradas
+
+[16/159] 18:46:10 - Hot 11s NFC
+   ❌ Falha: Informações não encontradas
+
+[17/159] 18:46:10 - Hot 12
+   ✅ Sucesso - Ratio: 20:9, Área: 112.30 cm²
+
+[18/159] 18:46:10 - Hot 12 Play
+   ✅ Sucesso - Ratio: 20:9, Área: 112.30 cm²
+
+[19/159] 18:46:10 - Hot 12 Play NFC
+   ❌ Falha: Informações não encontradas
+
+[20/159] 18:46:10 - Hot 12 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[21/159] 18:46:10 - Hot 12i
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[22/159] 18:46:10 - Hot 20
+   ❌ Falha: Informações não encontradas
+
+[23/159] 18:46:10 - Hot 20 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 104.53 cm²
+
+[24/159] 18:46:10 - Hot 20 Play
+   ❌ Falha: Informações não encontradas
+
+[25/159] 18:46:10 - Hot 20i
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[26/159] 18:46:10 - Hot 20S
+   ❌ Falha: Informações não encontradas
+
+[27/159] 18:46:10 - Hot 30
+   ❌ Falha: Informações não encontradas
+
+[28/159] 18:46:10 - Hot 30 5G
+   ❌ Falha: Informações não encontradas
+
+[29/159] 18:46:10 - Hot 30 Play NFC
+   ❌ Falha: Informações não encontradas
+
+[30/159] 18:46:10 - Hot 30i
+   ✅ Sucesso - Ratio: 20:9, Área: 103.90 cm²
+
+[31/159] 18:46:10 - Hot 30i (50 MP)
+   ✅ Sucesso - Ratio: 20:9, Área: 103.90 cm²
+
+[32/159] 18:46:10 - Hot 4
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[33/159] 18:46:10 - Hot 40
+   ❌ Falha: Informações não encontradas
+
+[34/159] 18:46:10 - Hot 40 Pro
+   ✅ Sucesso - Ratio: 1822:1, Área: 0.16 cm²
+
+[35/159] 18:46:10 - Hot 40i
+   ✅ Sucesso - Ratio: 20:9, Área: 103.90 cm²
+
+[36/159] 18:46:10 - Hot 4 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[37/159] 18:46:10 - Hot 5
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[38/159] 18:46:10 - Hot 50
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[39/159] 18:46:10 - Hot 50 4G
+   ❌ Falha: Informações não encontradas
+
+[40/159] 18:46:10 - Hot 50 Pro+ 4G
+   ✅ Sucesso - Ratio: 31:57, Área: 124.47 cm²
+
+[41/159] 18:46:10 - Hot 50 Pro 4G
+   ❌ Falha: Informações não encontradas
+
+[42/159] 18:46:10 - Hot 50i
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[43/159] 18:46:10 - Hot 5 Lite
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[44/159] 18:46:10 - Hot 6
+   ✅ Sucesso - Ratio: 18:9, Área: 92.90 cm²
+
+[45/159] 18:46:10 - Hot 60
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[46/159] 18:46:10 - Hot 60 Pro+
+   ✅ Sucesso - Ratio: 20:9, Área: 110.98 cm²
+
+[47/159] 18:46:10 - Hot 60 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 110.98 cm²
+
+[48/159] 18:46:10 - Hot 60i 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[49/159] 18:46:10 - Hot 60i
+   ✅ Sucesso - Ratio: 20:9, Área: 110.00 cm²
+
+[50/159] 18:46:10 - Hot 6 Pro
+   ✅ Sucesso - Ratio: 18:9, Área: 92.90 cm²
+
+[51/159] 18:46:10 - Hot 6X
+   ❌ Falha: Informações não encontradas
+
+[52/159] 18:46:10 - Hot 7
+   ✅ Sucesso - Ratio: 18:9, Área: 99.20 cm²
+
+[53/159] 18:46:10 - Hot 7 Pro
+   ✅ Sucesso - Ratio: 19:9, Área: 95.95 cm²
+
+[54/159] 18:46:10 - Hot 8
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[55/159] 18:46:10 - Hot 8 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[56/159] 18:46:10 - Hot 9
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[57/159] 18:46:10 - Hot 9 Play
+   ❌ Falha: Informações não encontradas
+
+[58/159] 18:46:10 - Hot 9 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[59/159] 18:46:10 - Hot S
+   ✅ Sucesso - Ratio: 16:9, Área: 74.54 cm²
+
+[60/159] 18:46:10 - Hot S3
+   ✅ Sucesso - Ratio: 18:9, Área: 83.84 cm²
+
+[61/159] 18:46:10 - Note 10
+   ❌ Falha: Informações não encontradas
+
+[62/159] 18:46:10 - Note 10 Pro
+   ✅ Sucesso - Ratio: 1326:1, Área: 0.24 cm²
+
+[63/159] 18:46:10 - Note 10 Pro NFC
+   ❌ Falha: Informações não encontradas
+
+[64/159] 18:46:10 - Note 11
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[65/159] 18:46:10 - Note 11 Pro
+   ✅ Sucesso - Ratio: 1610:1, Área: 0.19 cm²
+
+[66/159] 18:46:10 - Note 11i
+   ❌ Falha: Informações não encontradas
+
+[67/159] 18:46:10 - Note 11s
+   ❌ Falha: Informações não encontradas
+
+[68/159] 18:46:10 - Note 12
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[69/159] 18:46:10 - Note 12 (2023)
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[70/159] 18:46:10 - Note 12 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[71/159] 18:46:10 - Note 12 G96
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[72/159] 18:46:10 - Note 12 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[73/159] 18:46:10 - Note 12 Pro 5G
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[74/159] 18:46:10 - Note 12 VIP
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[75/159] 18:46:10 - Note 12i
+   ❌ Falha: Informações não encontradas
+
+[76/159] 18:46:10 - Note 12i 2022
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[77/159] 18:46:10 - Note 3
+   ✅ Sucesso - Ratio: 16:9, Área: 99.24 cm²
+
+[78/159] 18:46:10 - Note 30
+   ✅ Sucesso - Ratio: 1521:1, Área: 0.19 cm²
+
+[79/159] 18:46:10 - Note 30 5G
+   ✅ Sucesso - Ratio: 1521:1, Área: 0.19 cm²
+
+[80/159] 18:46:10 - Note 30 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[81/159] 18:46:10 - Note 30 VIP
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[82/159] 18:46:10 - Note 30i
+   ✅ Sucesso - Ratio: 20:9, Área: 107.09 cm²
+
+[83/159] 18:46:10 - Note 3 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 99.24 cm²
+
+[84/159] 18:46:10 - Note 4
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[85/159] 18:46:10 - Note 40
+   ❌ Falha: Informações não encontradas
+
+[86/159] 18:46:10 - Note 40 5G
+   ❌ Falha: Informações não encontradas
+
+[87/159] 18:46:10 - Note 40 Pro+
+   ✅ Sucesso - Ratio: 41:51, Área: 144.82 cm²
+
+[88/159] 18:46:10 - Note 40 Pro
+   ❌ Falha: Informações não encontradas
+
+[89/159] 18:46:10 - Note 40 Pro 4G
+   ❌ Falha: Informações não encontradas
+
+[90/159] 18:46:10 - Note 40S
+   ❌ Falha: Informações não encontradas
+
+[91/159] 18:46:10 - Note 40X 5G
+   ❌ Falha: Informações não encontradas
+
+[92/159] 18:46:10 - Note 4 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 89.57 cm²
+
+[93/159] 18:46:10 - Note 5
+   ✅ Sucesso - Ratio: 18:9, Área: 92.90 cm²
+
+[94/159] 18:46:10 - Note 50 4G
+   ❌ Falha: Informações não encontradas
+
+[95/159] 18:46:10 - Note 50 Pro+
+   ✅ Sucesso - Ratio: 25:08, Área: 86.09 cm²
+
+[96/159] 18:46:10 - Note 50 Pro 4G
+   ✅ Sucesso - Ratio: 25:36, Área: 138.94 cm²
+
+[97/159] 18:46:10 - Note 50s
+   ❌ Falha: Informações não encontradas
+
+[98/159] 18:46:10 - Note 50x
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[99/159] 18:46:10 - Note 5 Stylus
+   ✅ Sucesso - Ratio: 18:9, Área: 92.90 cm²
+
+[100/159] 18:46:10 - Note 6
+   ✅ Sucesso - Ratio: 18:9, Área: 93.21 cm²
+
+[101/159] 18:46:10 - Note 7
+   ❌ Falha: Informações não encontradas
+
+[102/159] 18:46:10 - Note 7 Lite
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[103/159] 18:46:10 - Note 8
+   ❌ Falha: Informações não encontradas
+
+[104/159] 18:46:10 - Note 8i
+   ❌ Falha: Informações não encontradas
+
+[105/159] 18:46:10 - S2 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 74.54 cm²
+
+[106/159] 18:46:10 - S3X
+   ❌ Falha: Informações não encontradas
+
+[107/159] 18:46:10 - S4
+   ✅ Sucesso - Ratio: 19:9, Área: 95.95 cm²
+
+[108/159] 18:46:10 - S5
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[109/159] 18:46:10 - S5 lite
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[110/159] 18:46:10 - S5 Pro
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[111/159] 18:46:10 - S5 Pro (16+32)
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[112/159] 18:46:10 - S5 Pro (48+40)
+   ✅ Sucesso - Ratio: 19.5:9, Área: 104.67 cm²
+
+[113/159] 18:46:10 - Smart
+   ✅ Sucesso - Ratio: 16:9, Área: 68.92 cm²
+
+[114/159] 18:46:10 - Smart3 Plus
+   ✅ Sucesso - Ratio: 19:9, Área: 96.26 cm²
+
+[115/159] 18:46:10 - Smart 10
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[116/159] 18:46:10 - Smart 10 HD
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[117/159] 18:46:10 - Smart 10 Plus
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[118/159] 18:46:10 - Smart 2
+   ✅ Sucesso - Ratio: 18:9, Área: 78.06 cm²
+
+[119/159] 18:46:10 - Smart 2 HD
+   ✅ Sucesso - Ratio: 18:9, Área: 92.90 cm²
+
+[120/159] 18:46:10 - Smart 2 Pro
+   ✅ Sucesso - Ratio: 18:9, Área: 78.06 cm²
+
+[121/159] 18:46:10 - Smart 4
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[122/159] 18:46:10 - Smart 4c
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[123/159] 18:46:10 - Smart 5
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[124/159] 18:46:10 - Smart 5 (India)
+   ❌ Falha: Informações não encontradas
+
+[125/159] 18:46:10 - Smart 5 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 102.63 cm²
+
+[126/159] 18:46:10 - Smart 6
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[127/159] 18:46:10 - Smart 6 HD
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[128/159] 18:46:10 - Smart 6 Plus (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 112.30 cm²
+
+[129/159] 18:46:10 - Smart 7
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[130/159] 18:46:10 - Smart 7 (India)
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[131/159] 18:46:10 - Smart 7 HD
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[132/159] 18:46:10 - Smart 8
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[133/159] 18:46:10 - Smart 8 (India)
+   ❌ Falha: HTTP 503 Service Unavailable
+
+[134/159] 18:46:10 - Smart 8 HD
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[135/159] 18:46:10 - Smart 8 Plus
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[136/159] 18:46:10 - Smart 8 Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 105.17 cm²
+
+[137/159] 18:46:10 - Smart 9
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[138/159] 18:46:10 - Smart 9 HD
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[139/159] 18:46:10 - Smart HD 2021
+   ✅ Sucesso - Ratio: 19.5:9, Área: 91.34 cm²
+
+[140/159] 18:46:10 - Zero 20
+   ✅ Sucesso - Ratio: 20:9, Área: 108.38 cm²
+
+[141/159] 18:46:10 - Zero 30
+   ✅ Sucesso - Ratio: 20:9, Área: 110.98 cm²
+
+[142/159] 18:46:10 - Zero 30 4G
+   ✅ Sucesso - Ratio: 20:9, Área: 110.98 cm²
+
+[143/159] 18:46:10 - Zero 4
+   ✅ Sucesso - Ratio: 16:9, Área: 83.39 cm²
+
+[144/159] 18:46:10 - Zero 40
+   ❌ Falha: Informações não encontradas
+
+[145/159] 18:46:10 - Zero 40 4G
+   ❌ Falha: Informações não encontradas
+
+[146/159] 18:46:10 - Zero 4 Plus
+   ✅ Sucesso - Ratio: 16:9, Área: 98.58 cm²
+
+[147/159] 18:46:10 - Zero 5
+   ✅ Sucesso - Ratio: 16:9, Área: 98.58 cm²
+
+[148/159] 18:46:10 - Zero 5 Pro
+   ✅ Sucesso - Ratio: 16:9, Área: 98.58 cm²
+
+[149/159] 18:46:10 - Zero 5G
+   ✅ Sucesso - Ratio: 1610:1, Área: 0.18 cm²
+
+[150/159] 18:46:10 - Zero 5G 2023
+   ❌ Falha: Informações não encontradas
+
+[151/159] 18:46:10 - Zero 6
+   ✅ Sucesso - Ratio: 18.7:9, Área: 96.29 cm²
+
+[152/159] 18:46:10 - Zero 6 Pro
+   ✅ Sucesso - Ratio: 18.7:9, Área: 96.29 cm²
+
+[153/159] 18:46:10 - Zero 8
+   ✅ Sucesso - Ratio: 2184:1, Área: 0.14 cm²
+
+[154/159] 18:46:10 - Zero 8i
+   ❌ Falha: Informações não encontradas
+
+[155/159] 18:46:10 - Zero Flip
+   ✅ Sucesso - Ratio: 26:12, Área: 116.87 cm²
+
+[156/159] 18:46:10 - Zero Ultra
+   ✅ Sucesso - Ratio: 20:9, Área: 111.64 cm²
+
+[157/159] 18:46:10 - Zero X
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+[158/159] 18:46:10 - Zero X Neo
+   ❌ Falha: Informações não encontradas
+
+[159/159] 18:46:10 - Zero X Pro
+   ✅ Sucesso - Ratio: 20:9, Área: 107.41 cm²
+
+============================================================
+Sucessos: 114, Falhas: 45
+Taxa de sucesso: 71.7%
