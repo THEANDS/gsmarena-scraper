@@ -5,64 +5,86 @@ mod utils;
 
 use crate::config::Config;
 use crate::scraper::PhoneScraper;
+use std::io::{self, Write};
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
-    println!("📱 GSM Arena Scraper - 1 por minuto");
-    println!("===================================\n");
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    env_logger::init();
+    
+    println!("📱 GSMArena Scraper - High Speed Edition");
+    println!("========================================\n");
     
     let config = Config::new();
+    // Customize config if needed based on args or interactive mode, 
+    // but for now default is fine (2 concurrent, 2-5s delay)
+    
     let scraper = PhoneScraper::new(config)?;
     
-    println!("Selecione a operação:");
-    println!("1. Coletar URLs");
-    println!("2. Extrair detalhes (1 por minuto)");
-    println!("3. Sair");
-    
-    let mut input = String::new();
-    std::io::stdin().read_line(&mut input)?;
-    
-    match input.trim() {
-        "1" => {
-            let phones = scraper.scrape_phone_urls(Some(3))?;
-            utils::save_phones_to_csv(&phones, "iphone_smartphones_recentes.csv")?;
-            println!("✅ {} URLs coletadas.", phones.len());
+    loop {
+        println!("\nSelecione a operação:");
+        println!("1. Coletar URLs (Realme - Exemplo)");
+        println!("2. Coletar URLs (Personalizado)");
+        println!("3. Extrair detalhes (Lote)");
+        println!("4. Sair");
+        print!("> ");
+        io::stdout().flush()?;
+        
+        let mut input = String::new();
+        io::stdin().read_line(&mut input)?;
+        
+        match input.trim() {
+            "1" => {
+                let url = "https://www.gsmarena.com/realme-phones-118.php";
+                let phones = scraper.scrape_phone_urls(url, 6).await?;
+                utils::save_phones_to_csv(&phones, "realme_smartphones_recentes.csv")?;
+                println!("✅ {} URLs coletadas.", phones.len());
+            }
+            "2" => {
+                print!("Digite a URL da marca (ex: https://www.gsmarena.com/samsung-phones-9.php): ");
+                io::stdout().flush()?;
+                let mut url = String::new();
+                io::stdin().read_line(&mut url)?;
+                let url = url.trim();
+                
+                if url.is_empty() {
+                    println!("❌ URL inválida");
+                    continue;
+                }
+                
+                let phones = scraper.scrape_phone_urls(url, 5).await?;
+                utils::save_phones_to_csv(&phones, "smartphones_coletados.csv")?;
+                println!("✅ {} URLs coletadas.", phones.len());
+            }
+            "3" => {
+                print!("Arquivo CSV para carregar (Enter para 'realme_smartphones_recentes.csv'): ");
+                io::stdout().flush()?;
+                let mut filename = String::new();
+                io::stdin().read_line(&mut filename)?;
+                let filename = filename.trim();
+                let filename = if filename.is_empty() { "realme_smartphones_recentes.csv" } else { filename };
+                
+                match utils::load_phones_from_csv(filename) {
+                    Ok(phones) => {
+                        println!("📄 {} telefones carregados.", phones.len());
+                        let details = scraper.scrape_phone_details(&phones).await?;
+                        
+                        let timestamp = chrono::Local::now().format("%Y%m%d_%H%M");
+                        let csv_file = format!("results_{}.csv", timestamp);
+                        let txt_file = format!("results_{}.txt", timestamp);
+                        
+                        utils::save_details_to_csv(&details, &csv_file)?;
+                        utils::save_details_to_txt(&details, &txt_file)?;
+                    },
+                    Err(e) => println!("❌ Erro ao carregar arquivo: {}", e),
+                }
+            }
+            "4" => {
+                println!("👋 Saindo...");
+                break;
+            }
+            _ => println!("❌ Opção inválida!"),
         }
-        "2" => {
-            let phones = utils::load_phones_from_csv("iphone_smartphones_recentes.csv")?;
-            println!("📄 {} telefones para processar", phones.len());
-            
-            // Estimar tempo total
-            let total_minutes = phones.len();
-            let total_hours = total_minutes as f32 / 60.0;
-            println!("⏳ Tempo estimado: {} minutos ({:.1} horas)", total_minutes, total_hours);
-            
-            let details = scraper.scrape_one_per_minute(&phones)?;
-            
-            // Salvar resultados com timestamp
-            let timestamp = chrono::Local::now().format("%Y%m%d_%H%M");
-            let csv_file = format!("results_{}.csv", timestamp);
-            let txt_file = format!("results_{}.txt", timestamp);
-            
-            utils::save_details_to_csv(&details, &csv_file)?;
-            utils::save_details_to_txt(&details, &txt_file)?;
-            
-            // Exibir resumo
-            display_summary(&details);
-        }
-        "3" => println!("👋 Saindo..."),
-        _ => println!("❌ Opção inválida!"),
     }
     
     Ok(())
-}
-
-fn display_summary(details: &[crate::models::PhoneDetails]) {
-    let successful = details.iter().filter(|d| d.has_display_info()).count();
-    let failed = details.len() - successful;
-    
-    println!("\n📊 RESUMO:");
-    println!("  ✅ Sucessos: {} ({:.1}%)", successful, 
-             (successful as f32 / details.len() as f32) * 100.0);
-    println!("  ❌ Falhas: {} ({:.1}%)", failed, 
-             (failed as f32 / details.len() as f32) * 100.0);
 }

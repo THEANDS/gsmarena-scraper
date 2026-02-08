@@ -14,19 +14,17 @@ pub struct PhoneDetails {
     pub model: String,
     pub url: String,
     
-    // Display information
-    pub display_ratio: Option<String>,
-    pub display_area_cm2: Option<String>,
-    pub resolution: Option<String>,
-    pub screen_size: Option<String>,
-    pub ppi: Option<String>,
+    // Body - Critical for cases/protectors
+    pub body_dimensions: Option<String>,
+    pub body_weight: Option<String>,
+    pub body_build: Option<String>,
+    pub sim: Option<String>,
     
-    // Other specs (para futuras expansões)
-    pub os: Option<String>,
-    pub chipset: Option<String>,
-    pub ram: Option<String>,
-    pub storage: Option<String>,
-    pub battery: Option<String>,
+    // Display - Critical for screen protectors
+    pub display_type: Option<String>,
+    pub display_size: Option<String>,
+    pub resolution: Option<String>,
+    pub protection: Option<String>, // Gorilla Glass, etc.
     
     pub status_code: u16,
     pub error_message: Option<String>,
@@ -38,22 +36,20 @@ impl PhoneDetails {
             phone_id: phone.id,
             model: phone.model.clone(),
             url: phone.url.clone(),
-            display_ratio: None,
-            display_area_cm2: None,
+            body_dimensions: None,
+            body_weight: None,
+            body_build: None,
+            sim: None,
+            display_type: None,
+            display_size: None,
             resolution: None,
-            screen_size: None,
-            ppi: None,
-            os: None,
-            chipset: None,
-            ram: None,
-            storage: None,
-            battery: None,
+            protection: None,
             status_code: 0,
             error_message: None,
         }
     }
     
-    pub fn has_display_info(&self) -> bool {
-        self.display_ratio.is_some() && self.display_area_cm2.is_some()
+    pub fn has_specs(&self) -> bool {
+        self.body_dimensions.is_some() || self.display_size.is_some()
     }
 }

@@ -1,0 +1,4893 @@
+SPECIFICAÇÕES DE TELA E CORPO
+=========================================
+
+RESUMO:
+  • Com dados: 176
+  • Sem dados: 86
+
+ID: 1
+Modelo: 16
+URL: https://www.gsmarena.com/realme_16_5g-14419.php
+
+[CORPO]
+  Dimensões: 158.3 x 75.1 x 8.1 mm (6.23 x 2.96 x 0.32 in)
+  Peso: 183 g (6.46 oz)
+  Construção: Glass front (AGC DT-Star D+), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR, 1000 nits (typ), 1400 nits (HBM), 4500 nits (peak)
+  Tamanho: 6.57 inches, 105.0 cm2 (~88.3% screen-to-body ratio)
+  Resolução: 1080 x 2372 pixels (~397 ppi density)
+  Proteção: AGC DT-Star D+
+
+----------------------------------------
+
+ID: 2
+Modelo: P4 Power
+URL: https://www.gsmarena.com/realme_p4_power_5g-14451.php
+
+[CORPO]
+  Dimensões: 162.3 x 76.2 x 9.1 mm (6.39 x 3.00 x 0.36 in)
+  Peso: 219 g (7.72 oz)
+  Construção: Glass front (Gorilla Glass 7i), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, PWM, 600 nits (typ), 1800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.2% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 3
+Modelo: Neo8
+URL: https://www.gsmarena.com/realme_neo8_5g-14408.php
+
+[CORPO]
+  Dimensões: 162 x 77.1 x 8.3 mm (6.38 x 3.04 x 0.33 in)
+  Peso: 215 g (7.58 oz)
+  Construção: Glass front, aluminum frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 165Hz, HDR, 1000 nits (typ), 3800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.78 inches, 112.4 cm2 (~90.0% screen-to-body ratio)
+  Resolução: 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 4
+Modelo: C85 4G
+URL: https://www.gsmarena.com/realme_c85-14435.php
+
+[CORPO]
+  Dimensões: 166.2 x 78 x 8.4 mm (6.54 x 3.07 x 0.33 in)
+  Peso: 215 g (7.58 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 1200 nits (HBM)
+  Tamanho: 6.8 inches, 113.0 cm2 (~87.2% screen-to-body ratio)
+  Resolução: 720 x 1570 pixels, 19.5:9 ratio (~254 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 5
+Modelo: 16 Pro+
+URL: https://www.gsmarena.com/realme_16_pro+_5g-14363.php
+
+[CORPO]
+  Dimensões: 162.5 x 76.3 x 8.1 mm or 8.5 mm
+  Peso: 198 g or 203 g (6.98 oz)
+  Construção: Glass front, aluminum alloy frame, plastic back or silicone polymer back (eco leather)
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 4608Hz PWM, 600 nits (typ), 1800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.0% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 6
+Modelo: 16 Pro
+URL: https://www.gsmarena.com/realme_16_pro_5g-14400.php
+
+[CORPO]
+  Dimensões: 162.6 x 77.6 x 7.8 mm (6.40 x 3.06 x 0.31 in)
+  Peso: 192 g (6.77 oz)
+  Construção: Glass front, plastic frame, plastic back or silicone polymer back (eco leather)
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, PWM, 1000 nits (typ), 1400 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio)
+  Resolução: 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)
+  Proteção: AGC DT star D+
+
+----------------------------------------
+
+ID: 7
+Modelo: Narzo 90
+URL: https://www.gsmarena.com/realme_narzo_90_5g-14345.php
+
+[CORPO]
+  Dimensões: 158.4 x 75.2 x 7.8 mm (6.24 x 2.96 x 0.31 in)
+  Peso: 181 g (6.38 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 2160Hz PWM, 1000 nits (typ), 1400 nits (HBM), 4000 nits (peak)
+  Tamanho: 6.57 inches, 105.0 cm2 (~88.2% screen-to-body ratio)
+  Resolução: 1080 x 2372 pixels (~397 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 8
+Modelo: Narzo 90X
+URL: https://www.gsmarena.com/realme_narzo_90x_5g-14346.php
+
+[CORPO]
+  Dimensões: 166.1 x 77.9 x 8.3 mm (6.54 x 3.07 x 0.33 in)
+  Peso: 212 g (7.48 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 1200 nits (HBM)
+  Tamanho: 6.8 inches, 113.0 cm2 (~87.4% screen-to-body ratio)
+  Resolução: 720 x 1570 pixels, 19.5:9 ratio (~254 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 9
+Modelo: P3 Lite
+URL: https://www.gsmarena.com/realme_p3_lite_5g-14360.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 197 g (6.95 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 625 nits
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 10
+Modelo: P3 Lite 4G
+URL: https://www.gsmarena.com/realme_p3_lite-14361.php
+
+[CORPO]
+  Dimensões: 165.8 x 75.9 x 7.8 mm (6.53 x 2.99 x 0.31 in)
+  Peso: 196 g (6.91 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 725 nits (peak)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.2% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: Mohs level 6
+
+----------------------------------------
+
+ID: 11
+Modelo: P4x
+URL: https://www.gsmarena.com/realme_p4x_5g-14329.php
+
+[CORPO]
+  Dimensões: 165.9 x 76 x 8.4 mm (6.53 x 2.99 x 0.33 in)
+  Peso: 208 g (7.34 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 800 nits (typ), 1000 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: Scratch-resistant glass
+
+----------------------------------------
+
+ID: 12
+Modelo: C85 Pro
+URL: https://www.gsmarena.com/realme_c85_pro-14275.php
+
+[CORPO]
+  Dimensões: 164.4 x 78 x 8.1 mm (6.47 x 3.07 x 0.32 in)
+  Peso: 205 g (7.23 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 1200 nits (HBM), 4000 nits (peak)
+  Tamanho: 6.8 inches, 113.4 cm2 (~88.4% screen-to-body ratio)
+  Resolução: 1080 x 2344 pixels, 19.5:9 ratio (~380 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 13
+Modelo: C85
+URL: https://www.gsmarena.com/realme_c85_5g-14274.php
+
+[CORPO]
+  Dimensões: 166.1 x 77.9 x 8.4 mm (6.54 x 3.07 x 0.33 in)
+  Peso: 215 g (7.58 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 1200 nits (HBM)
+  Tamanho: 6.8 inches, 113.0 cm2 (~87.4% screen-to-body ratio)
+  Resolução: 720 x 1570 pixels, 19.5:9 ratio (~254 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 14
+Modelo: GT 8 Pro
+URL: https://www.gsmarena.com/realme_gt8_pro_5g_(china)-14245.php
+
+[CORPO]
+  Dimensões: 161.8 x 76.9 x 8.2 mm (6.37 x 3.03 x 0.32 in)
+  Peso: 214 g or 218 g (7.69 oz)
+  Construção: Glass front (Gorilla Glass 7i), aluminum alloy frame, fiber-reinforced plastic back or silicone polymer (eco leather) back
+  SIM: · Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International· Nano-SIM + Nano-SIM - China
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, HDR Vivid, Dolby Vision, 1000 nits (typ), 2000 nits (HBM), 7000 nits (peak)
+  Tamanho: 6.79 inches, 112.8 cm2 (~90.7% screen-to-body ratio)
+  Resolução: 1440 x 3136 pixels, 19.5:9 ratio (~508 ppi density)
+  Proteção: Corning Gorilla Glass 7i, Mohs level 4
+
+----------------------------------------
+
+ID: 15
+Modelo: GT8 (China)
+URL: https://www.gsmarena.com/realme_gt8_5g_(china)-14246.php
+
+[CORPO]
+  Dimensões: 161.8 x 76.9 x 8.2 mm (6.37 x 3.03 x 0.32 in)
+  Peso: 209 g or 214 g (7.37 oz)
+  Construção: Glass front, aluminum frame, fiber-reinforced plastic back or silicone polymer (eco leather) back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 144Hz, HDR, 1000 nits (typ), 2000 nits (HBM), 7000 nits (peak)
+  Tamanho: 6.79 inches, 112.8 cm2 (~90.7% screen-to-body ratio)
+  Resolução: 1440 x 3136 pixels, 19.5:9 ratio (~508 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 16
+Modelo: 15x (India)
+URL: https://www.gsmarena.com/realme_15x_5g_(india)-14173.php
+
+[CORPO]
+  Dimensões: 166.1 x 77.9 x 8.3 mm (6.54 x 3.07 x 0.33 in)
+  Peso: 212 g (7.48 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 1200 nits (HBM)
+  Tamanho: 6.81 inches, 113.4 cm2 (~87.6% screen-to-body ratio)
+  Resolução: 720 x 1570 pixels, 19.5:9 ratio (~254 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 17
+Modelo: 15 Lite
+URL: https://www.gsmarena.com/realme_15_lite_5g-14159.php
+
+[CORPO]
+  Dimensões: 161.7 x 74.7 x 7.6 mm (6.37 x 2.94 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 120Hz, 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 18
+Modelo: 15
+URL: https://www.gsmarena.com/realme_15_5g_(global)-14318.php
+
+[CORPO]
+  Dimensões: 163.3 x 75.9 x 7.7 mm (6.43 x 2.99 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR, 1600 nits (HBM), 4500 nits (peak)
+  Tamanho: 6.77 inches, 110.9 cm2 (~89.5% screen-to-body ratio)
+  Resolução: 1080 x 2392 pixels (~388 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 19
+Modelo: 15T
+URL: https://www.gsmarena.com/realme_15t_5g-14105.php
+
+[CORPO]
+  Dimensões: 158.4 x 75.2 x 7.8 mm (6.24 x 2.96 x 0.31 in)
+  Peso: 181 g (6.38 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 2160Hz PWM, 1000 nits (typ), 1400 nits (HBM), 4000 nits (peak)
+  Tamanho: 6.57 inches, 102.9 cm2 (~86.4% screen-to-body ratio)
+  Resolução: 1080 x 2372 pixels (~401 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 20
+Modelo: P4
+URL: https://www.gsmarena.com/realme_p4_5g-14087.php
+
+[CORPO]
+  Dimensões: 163.3 x 75.9 x 7.6 mm (6.43 x 2.99 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 3840Hz PWM, 1600 nits (HBM), 4500 nits (peak)
+  Tamanho: 6.77 inches, 110.9 cm2 (~89.5% screen-to-body ratio)
+  Resolução: 1080 x 2392 pixels (~388 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 21
+Modelo: P4 Pro
+URL: https://www.gsmarena.com/realme_p4_pro_5g-14086.php
+
+[CORPO]
+  Dimensões: 162.3 x 76.2 x 7.7 mm
+  Peso: 189 g (6.67 oz)
+  Construção: Glass front (Gorilla Glass 7i), fiber-reinforced plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 4608Hz PWM, 1800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.2% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 22
+Modelo: Narzo 80 Lite
+URL: https://www.gsmarena.com/realme_narzo_80_lite-14023.php
+
+[CORPO]
+  Dimensões: 167.2 x 76.6 x 7.9 mm (6.58 x 3.02 x 0.31 in)
+  Peso: 201 g (7.09 oz)
+  Construção: Glass front (Panda Glass), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LCD, 90Hz, 563 nits
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.6% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: Panda Glass
+
+----------------------------------------
+
+ID: 23
+Modelo: 15 Pro
+URL: https://www.gsmarena.com/realme_15_pro_5g-14017.php
+
+[CORPO]
+  Dimensões: 162.3 x 76.2 x 7.7 mm (6.39 x 3.00 x 0.30 in)
+  Peso: 187 g (6.60 oz)
+  Construção: Glass front (Gorilla Glass 7i), aluminum frame, fiber-reinforced plastic back or silicone polymer (eco leather) back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 144Hz, 4608Hz PWM, HDR10+, 1800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.2% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 24
+Modelo: Note 70
+URL: https://www.gsmarena.com/realme_note_70-14436.php
+
+[CORPO]
+  Dimensões: 167.2 x 76.6 x 7.9 mm (6.58 x 3.02 x 0.31 in)
+  Peso: 201 g (7.09 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LCD, 90Hz
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.6% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: Panda Glass
+
+----------------------------------------
+
+ID: 25
+Modelo: 15 (India)
+URL: https://www.gsmarena.com/realme_15_5g-14018.php
+
+[CORPO]
+  Dimensões: 162.3 x 76.2 x 7.7 / 7.8 / 8.0 mm
+  Peso: 187 g or 189 g (6.60 oz)
+  Construção: Glass front, aluminum frame, fiber-reinforced plastic back or silicone polymer (eco leather) back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 144Hz, 4608Hz PWM, HDR10+, 1800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.2% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: Corning Gorilla Glass (unspecified version)
+
+----------------------------------------
+
+ID: 26
+Modelo: Note 70T
+URL: https://www.gsmarena.com/realme_note_70t-14007.php
+
+[CORPO]
+  Dimensões: 167.2 x 76.6 x 7.9 mm (6.58 x 3.02 x 0.31 in)
+  Peso: 201 g (7.09 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LCD, 90Hz
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.6% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: Panda Glass
+
+----------------------------------------
+
+ID: 27
+Modelo: Narzo 80 Lite 5G
+URL: https://www.gsmarena.com/realme_narzo_80_lite_5g-13952.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 197 g (6.95 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 625 nits
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 28
+Modelo: C73
+URL: https://www.gsmarena.com/realme_c73_5g-13928.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 197 g (6.95 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 625 nits
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 29
+Modelo: C71
+URL: https://www.gsmarena.com/realme_c71-13931.php
+
+[CORPO]
+  Dimensões: 165.8 x 75.9 x 7.8 mm (6.53 x 2.99 x 0.31 in)
+  Peso: 196 g (6.91 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 725 nits (peak)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.2% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: Mohs level 6
+
+----------------------------------------
+
+ID: 30
+Modelo: Neo7 Turbo
+URL: https://www.gsmarena.com/realme_neo7_turbo_5g-13916.php
+
+[CORPO]
+  Dimensões: 162.4 x 76.1 x 8.6 mm (6.39 x 3.00 x 0.34 in)
+  Peso: 205 g (7.23 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, HDR, 1800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.3% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 31
+Modelo: GT 7T
+URL: https://www.gsmarena.com/realme_gt_7t_5g-13869.php
+
+[CORPO]
+  Dimensões: 162.4 x 76 x 8.3 mm (6.39 x 2.99 x 0.33 in)
+  Peso: 202 g (7.13 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, Dolby Vision, 1000 nits (typ), 1800 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.4% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: ArmorShell glass, Mohs level 6
+
+----------------------------------------
+
+ID: 32
+Modelo: GT 7
+URL: https://www.gsmarena.com/realme_gt_7_5g-13863.php
+
+[CORPO]
+  Dimensões: 162.4 x 76.1 x 8.3 mm (6.39 x 3.00 x 0.33 in)
+  Peso: 206 g (7.27 oz)
+  Construção: Glass front (Gorilla Glass 7i), plastic frame, plastic back
+  SIM: · Nano-SIM + Nano-SIM· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, Dolby Vision, 600 nits (typ), 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~90.4% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: Corning Gorilla Glass 7i or ArmorShell glass, Mohs level 6
+
+----------------------------------------
+
+ID: 33
+Modelo: C75
+URL: https://www.gsmarena.com/realme_c75_5g-13837.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 625 nits
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: Mohs level 5
+
+----------------------------------------
+
+ID: 34
+Modelo: 14T
+URL: https://www.gsmarena.com/realme_14t-13748.php
+
+[CORPO]
+  Dimensões: 163.2 x 75.7 x 8 mm (6.43 x 2.98 x 0.31 in)
+  Peso: 196 g (6.91 oz)
+  Construção: Glass front, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 2100 nits (peak)
+  Tamanho: 6.67 inches, 112.5 cm2 (~91.0% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~386 ppi density)
+  Proteção: Mohs level 5
+
+----------------------------------------
+
+ID: 35
+Modelo: GT7 (China)
+URL: https://www.gsmarena.com/realme_gt7_5g-13788.php
+
+[CORPO]
+  Dimensões: 162.4 x 76 x 8.3 mm (6.39 x 2.99 x 0.33 in)
+  Peso: 203 g (7.16 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR, 1800 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.8 inches, 112.8 cm2 (~91.4% screen-to-body ratio)
+  Resolução: 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 36
+Modelo: Narzo 80 Pro
+URL: https://www.gsmarena.com/realme_narzo_80_pro_5g-13782.php
+
+[CORPO]
+  Dimensões: 162.8 x 74.9 x 7.6 mm (6.41 x 2.95 x 0.30 in)
+  Peso: 179 g (6.31 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 120Hz, HDR, 600 nits (typ), 1400 nits (HBM), 4500 nits (peak)
+  Tamanho: 6.72 inches, 109.3 cm2 (~89.6% screen-to-body ratio)
+  Resolução: 1080 x 2392 pixels (~391 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 37
+Modelo: Narzo 80x
+URL: https://www.gsmarena.com/realme_narzo_80x_5g-13771.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 197 g (6.95 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 950 nits (peak)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: ArmorShell glass
+
+----------------------------------------
+
+ID: 38
+Modelo: 14
+URL: https://www.gsmarena.com/realme_14-13729.php
+
+[CORPO]
+  Dimensões: 163.1 x 75.7 x 8 mm (6.42 x 2.98 x 0.31 in)
+  Peso: 196 g (6.91 oz)
+  Construção: N/A
+  SIM: · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)· Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~87.0% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: Mohs level 5
+
+----------------------------------------
+
+ID: 39
+Modelo: C75x
+URL: https://www.gsmarena.com/realme_c75x-13750.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 8 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 196 g (6.91 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 500 nits (typ), 625 nits (HBM)
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: ArmorShell glass
+
+----------------------------------------
+
+ID: 40
+Modelo: P3 Ultra
+URL: https://www.gsmarena.com/realme_p3_ultra-13734.php
+
+[CORPO]
+  Dimensões: 163.1 x 76.9 x 7.4 mm (6.42 x 3.03 x 0.29 in)
+  Peso: 183 g or 186 g (6.46 oz)
+  Construção: Glass front (Gorilla Glass 7i), plastic frame, plastic back or silicone polymer (eco leather) back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 600 nits (typ), 1200 nits (HBM), 1500 nits (peak)
+  Tamanho: 6.83 inches, 113.3 cm2 (~90.4% screen-to-body ratio)
+  Resolução: 1272 x 2800 pixels (~450 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 41
+Modelo: P3
+URL: https://www.gsmarena.com/realme_p3-13715.php
+
+[CORPO]
+  Dimensões: 163.2 x 75.7 x 8 mm (6.43 x 2.98 x 0.31 in)
+  Peso: 194 g (6.84 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~86.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: Mohs level 5
+
+----------------------------------------
+
+ID: 42
+Modelo: 14 Pro Lite
+URL: https://www.gsmarena.com/realme_14_pro_lite-13706.php
+
+[CORPO]
+  Dimensões: 161.3 x 73.9 x 8.2 mm (6.35 x 2.91 x 0.32 in)
+  Peso: 188 g (6.63 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 600 nits (typ), 1200 nits (HBM), 2000 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.6% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 43
+Modelo: Neo7 SE
+URL: https://www.gsmarena.com/realme_neo7_se-13676.php
+
+[CORPO]
+  Dimensões: 162.5 x 76.3 x 8.6 mm (6.40 x 3.00 x 0.34 in)
+  Peso: 212 g (7.48 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO OLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~90.1% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: Crystal Armor glass
+
+----------------------------------------
+
+ID: 44
+Modelo: Neo7x
+URL: https://www.gsmarena.com/realme_neo7x-13677.php
+
+[CORPO]
+  Dimensões: 163.2 x 75.7 x 8 mm (6.43 x 2.98 x 0.31 in)
+  Peso: 194 g (6.84 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~86.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 45
+Modelo: P3 Pro
+URL: https://www.gsmarena.com/realme_p3_pro-13667.php
+
+[CORPO]
+  Dimensões: 163.5 x 77.3 x 8 mm or 8.3 mm
+  Peso: 190 g or 192 g (6.70 oz)
+  Construção: Glass front, aluminum alloy frame, plastic back or silicone polymer back (eco leather)
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 600 nits (typ), 1200 nits (HBM), 1500 nits (peak)
+  Tamanho: 6.83 inches, 113.3 cm2 (~89.7% screen-to-body ratio)
+  Resolução: 1272 x 2800 pixels (~450 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 46
+Modelo: P3x
+URL: https://www.gsmarena.com/realme_p3x-13665.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 197 g (6.95 oz)
+  Construção: Glass front, aluminum frame, plastic back or silicone polymer back (eco leather)
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 950 nits (peak)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: ArmorShell glass
+
+----------------------------------------
+
+ID: 47
+Modelo: GT7 Pro Racing
+URL: https://www.gsmarena.com/realme_gt7_pro_racing-13664.php
+
+[CORPO]
+  Dimensões: 162.5 x 76.9 x 8.6 mm (6.40 x 3.03 x 0.34 in)
+  Peso: 218 g  (7.69 oz)
+  Construção: Glass front, aluminum frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 1500 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~89.4% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 48
+Modelo: 14x
+URL: https://www.gsmarena.com/realme_14x-13646.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 625 nits
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: Mohs level 5
+
+----------------------------------------
+
+ID: 49
+Modelo: 14 Pro
+URL: https://www.gsmarena.com/realme_14_pro-13586.php
+
+[CORPO]
+  Dimensões: 162.8 x 74.9 x 7.6 mm or 7.8 mm
+  Peso: 179 g or 182 g (6.31 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 120Hz, 3840Hz PWM, 1400 nits (HBM), 4500 nits (peak)
+  Tamanho: 6.77 inches, 110.9 cm2 (~90.9% screen-to-body ratio)
+  Resolução: 1080 x 2392 pixels (~388 ppi density)
+  Proteção: Mohs level 6
+
+----------------------------------------
+
+ID: 50
+Modelo: 14 Pro+
+URL: https://www.gsmarena.com/realme_14_pro+-13585.php
+
+[CORPO]
+  Dimensões: 163.5 x 77.3 x 8 mm or 8.3 mm
+  Peso: 194 g or 196 g (6.84 oz)
+  Construção: Glass front (Gorilla Glass 7i), plastic frame, plastic back
+  SIM: · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)· Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 120Hz, 3840Hz PWM, 1200 nits (HBM), 1500 nits (peak)
+  Tamanho: 6.83 inches, 113.3 cm2 (~89.7% screen-to-body ratio)
+  Resolução: 1272 x 2800 pixels (~450 ppi density)
+  Proteção: Corning Gorilla Glass 7i, Mohs level 5
+
+----------------------------------------
+
+ID: 51
+Modelo: 14x (India)
+URL: https://www.gsmarena.com/realme_14x_(india)-13555.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 197 g (6.95 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 625 nits
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 52
+Modelo: Neo7
+URL: https://www.gsmarena.com/realme_neo7-13540.php
+
+[CORPO]
+  Dimensões: 162.6 x 76.4 x 8.6 mm (6.40 x 3.01 x 0.34 in)
+  Peso: 213 g (7.51 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~90.0% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: Crystal Armor glass
+
+----------------------------------------
+
+ID: 53
+Modelo: Note 60x
+URL: https://www.gsmarena.com/realme_note_60x-13558.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.8 mm (6.59 x 3.02 x 0.31 in)
+  Peso: 187 g (6.60 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (peak)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: Reinforced glass
+
+----------------------------------------
+
+ID: 54
+Modelo: V60 pro
+URL: https://www.gsmarena.com/realme_v60_pro-13529.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 8 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 197 g (6.95 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 625 nits
+  Tamanho: 6.67 inches, 107.2 cm2 (~84.9% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 55
+Modelo: C75 4G
+URL: https://www.gsmarena.com/realme_c75-13522.php
+
+[CORPO]
+  Dimensões: 165.7 x 76.2 x 8 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 196 g (6.91 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 580 nits (typ), 690 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: ArmorShell glass
+
+----------------------------------------
+
+ID: 56
+Modelo: GT 7 Pro
+URL: https://www.gsmarena.com/realme_gt_7_pro-13470.php
+
+[CORPO]
+  Dimensões: 162.5 x 76.9 x 8.6 mm (6.40 x 3.03 x 0.34 in)
+  Peso: 222.8 g  (7.87 oz)
+  Construção: Glass front (Gorilla Glass 7i), aluminum frame, glass back (Panda Glass)
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, 2600Hz PWM, HDR10+, Dolby Vision, 1000 nits (typ), 2000 nits (HBM), 6500 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~89.4% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: Corning Gorilla Glass 7i, Mohs level 5
+
+----------------------------------------
+
+ID: 57
+Modelo: P1 Speed
+URL: https://www.gsmarena.com/realme_p1_speed-13414.php
+
+[CORPO]
+  Dimensões: 161.7 x 74.7 x 7.6 mm (6.37 x 2.94 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 120Hz, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 58
+Modelo: P2 Pro
+URL: https://www.gsmarena.com/realme_p2_pro-13332.php
+
+[CORPO]
+  Dimensões: 161.3 x 73.9 x 8.2 mm (6.35 x 2.91 x 0.32 in)
+  Peso: 180 g (6.35 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 120Hz, 600 nits (typ), 1200 nits (HBM), 2000 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.6% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 59
+Modelo: Narzo 70 Turbo
+URL: https://www.gsmarena.com/realme_narzo_70_turbo-13294.php
+
+[CORPO]
+  Dimensões: 161.7 x 74.7 x 7.6 mm (6.37 x 2.94 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 120Hz, HDR, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 60
+Modelo: Note 60
+URL: https://www.gsmarena.com/realme_note_60-13283.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.8 mm (6.59 x 3.02 x 0.31 in)
+  Peso: 187 g (6.60 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 450 nits (typ), 560 nits (HBM)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: Reinforced glass
+
+----------------------------------------
+
+ID: 61
+Modelo: 13+
+URL: https://www.gsmarena.com/realme_13+-13255.php
+
+[CORPO]
+  Dimensões: 161.7 x 74.7 x 7.6 mm (6.37 x 2.94 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, HDR10+, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 62
+Modelo: 13
+URL: https://www.gsmarena.com/realme_13-13289.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.8 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 580 nits (typ)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 63
+Modelo: C63 5G
+URL: https://www.gsmarena.com/realme_c63_5g-13260.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 192 g (6.77 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 500 nits (typ), 625 nits (HBM)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.1% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 64
+Modelo: 13 4G
+URL: https://www.gsmarena.com/realme_13_4g-13252.php
+
+[CORPO]
+  Dimensões: 163 x 75.5 x 7.9 mm (6.42 x 2.97 x 0.31 in)
+  Peso: 187 g (6.60 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~87.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 65
+Modelo: 13 Pro+
+URL: https://www.gsmarena.com/realme_13_pro+-13196.php
+
+[CORPO]
+  Dimensões: 161.3 x 73.9 x 8.2 or 8.4 mm
+  Peso: 185.5 g or 190 g (6.56 oz)
+  Construção: Glass front (Gorilla Glass 7i), plastic frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 600 nits (typ), 1200 nits (HBM), 2000 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.6% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 66
+Modelo: 13 Pro
+URL: https://www.gsmarena.com/realme_13_pro-13240.php
+
+[CORPO]
+  Dimensões: 161.3 x 73.9 x 8.2 or 8.4 mm
+  Peso: 183.5 g or 188 g (6.49 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 600 nits (typ), 1200 nits (HBM), 2000 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.6% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: Corning Gorilla Glass 7i
+
+----------------------------------------
+
+ID: 67
+Modelo: Narzo N61
+URL: https://www.gsmarena.com/realme_narzo_n61-13232.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.8 mm (6.59 x 3.02 x 0.31 in)
+  Peso: 187 g (6.60 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 450 nits (typ), 560 nits (HBM)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: Reinforced glass
+
+----------------------------------------
+
+ID: 68
+Modelo: C61
+URL: https://www.gsmarena.com/realme_c61-13236.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.8 mm (6.59 x 3.02 x 0.31 in)
+  Peso: 188 g (6.63 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 450 nits (typ), 560 nits (HBM)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 69
+Modelo: GT6 (China)
+URL: https://www.gsmarena.com/realme_gt6_(china)-13104.php
+
+[CORPO]
+  Dimensões: 162 x 76.1 x 8.4 mm (6.38 x 3.00 x 0.33 in)
+  Peso: 207 g (7.30 oz)
+  Construção: Glass front, aluminum frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~90.6% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: Crystal Armor glass
+
+----------------------------------------
+
+ID: 70
+Modelo: C61 (India)
+URL: https://www.gsmarena.com/realme_c61_(india)-13162.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.8 mm (6.59 x 3.02 x 0.31 in)
+  Peso: 187 g (6.60 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 450 nits (typ), 560 nits (HBM)
+  Tamanho: 6.78 inches, 102.1 cm2 (~79.6% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 71
+Modelo: 12 4G
+URL: https://www.gsmarena.com/realme_12_4g-13172.php
+
+[CORPO]
+  Dimensões: 163 x 75.5 x 7.9 mm (6.42 x 2.97 x 0.31 in)
+  Peso: 187 g (6.60 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~87.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 72
+Modelo: V60
+URL: https://www.gsmarena.com/realme_v60-13165.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 192 g (6.77 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 500 nits (typ), 625 nits (HBM)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.1% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 73
+Modelo: GT 6
+URL: https://www.gsmarena.com/realme_gt_6-13103.php
+
+[CORPO]
+  Dimensões: 162 x 75.1 x 8.6 mm (6.38 x 2.96 x 0.34 in)
+  Peso: 199 g (7.02 oz)
+  Construção: Glass front (Gorilla Glass Victus 2), plastic frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, HDR 10+, Dolby Vision, 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~91.8% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: Corning Gorilla Glass Victus 2
+
+----------------------------------------
+
+ID: 74
+Modelo: Narzo N63
+URL: https://www.gsmarena.com/realme_narzo_n63-13120.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.7 mm (6.59 x 3.02 x 0.30 in)
+  Peso: 189 g or 191 g (6.67 oz)
+  Construção: Glass front, plastic back or silicone polymer back (eco leather), plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (peak)
+  Tamanho: 6.75 inches, 110.0 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 75
+Modelo: C63
+URL: https://www.gsmarena.com/realme_c63-13090.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.7 mm (6.59 x 3.02 x 0.30 in)
+  Peso: 189 g or 191 g (6.67 oz)
+  Construção: Glass front, plastic back or silicone polymer back (eco leather), plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (HBM)
+  Tamanho: 6.75 inches, 110.0 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 76
+Modelo: Narzo N65
+URL: https://www.gsmarena.com/realme_narzo_n65-13047.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 500 nits (typ), 625 nits (HBM)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.1% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 77
+Modelo: GT 6T
+URL: https://www.gsmarena.com/realme_gt_6t-13010.php
+
+[CORPO]
+  Dimensões: 162 x 75.1 x 8.7 mm (6.38 x 2.96 x 0.34 in)
+  Peso: 191 g (6.74 oz)
+  Construção: Glass front (Gorilla Glass Victus 2), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, HDR, 1000 nits (typ), 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~91.8% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: Corning Gorilla Glass Victus 2
+
+----------------------------------------
+
+ID: 78
+Modelo: GT Neo6
+URL: https://www.gsmarena.com/realme_gt_neo6-12991.php
+
+[CORPO]
+  Dimensões: 162 x 75.1 x 8.7 mm (6.38 x 2.96 x 0.34 in)
+  Peso: 191 g (6.74 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~91.8% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 79
+Modelo: C65 5G
+URL: https://www.gsmarena.com/realme_c65_5g-12963.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 500 nits (typ), 625 nits (HBM)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.1% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 80
+Modelo: Narzo 70
+URL: https://www.gsmarena.com/realme_narzo_70-12955.php
+
+[CORPO]
+  Dimensões: 163 x 75.5 x 8 mm (6.42 x 2.97 x 0.31 in)
+  Peso: 188 g (6.63 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 600 nits (HBM), 1200 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~87.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 81
+Modelo: Narzo 70x
+URL: https://www.gsmarena.com/realme_narzo_70x-12954.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.7 mm (6.52 x 3.00 x 0.30 in)
+  Peso: 188 g (6.63 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 800 nits (typ), 950 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 82
+Modelo: 12 Lite
+URL: https://www.gsmarena.com/realme_12_lite-12947.php
+
+[CORPO]
+  Dimensões: 164.6 x 75.4 x 7.6 mm (6.48 x 2.97 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 800 nits (typ), 950 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~87.8% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 83
+Modelo: P1 Pro
+URL: https://www.gsmarena.com/realme_p1_pro-12935.php
+
+[CORPO]
+  Dimensões: 161.5 x 74 x 8.4 mm (6.36 x 2.91 x 0.33 in)
+  Peso: 217 g (7.65 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 800 nits (HBM), 950 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 84
+Modelo: P1
+URL: https://www.gsmarena.com/realme_p1-12936.php
+
+[CORPO]
+  Dimensões: 163 x 75.5 x 8 mm (6.42 x 2.97 x 0.31 in)
+  Peso: 188 g (6.63 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, 600 nits (HBM), 1200 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~87.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 85
+Modelo: GT Neo6 SE
+URL: https://www.gsmarena.com/realme_gt_neo6_se-12898.php
+
+[CORPO]
+  Dimensões: 162 x 75.1 x 8.7 mm (6.38 x 2.96 x 0.34 in)
+  Peso: 191 g (6.74 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~91.8% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 86
+Modelo: 12x (India)
+URL: https://www.gsmarena.com/realme_12x_(india)-12914.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.7 mm (6.52 x 3.00 x 0.30 in)
+  Peso: 188 g (6.63 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 800 nits (typ), 950 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 87
+Modelo: C65
+URL: https://www.gsmarena.com/realme_c65-12908.php
+
+[CORPO]
+  Dimensões: 164.6 x 76.1 x 7.6 mm (6.48 x 3.00 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 500 nits (typ), 625 nits (HBM)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.6% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 88
+Modelo: 12x
+URL: https://www.gsmarena.com/realme_12x-12890.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.9 mm (6.52 x 3.00 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 500 (typ), 625 nits (HBM)
+  Tamanho: 6.67 inches, 107.2 cm2 (~85.1% screen-to-body ratio)
+  Resolução: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 89
+Modelo: Narzo 70 Pro
+URL: https://www.gsmarena.com/realme_narzo_70_pro-12878.php
+
+[CORPO]
+  Dimensões: 163 x 75.5 x 8 mm (6.42 x 2.97 x 0.31 in)
+  Peso: 195 g (6.88 oz)
+  Construção: Glass front, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, HDR10+, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~87.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 90
+Modelo: C51s
+URL: https://www.gsmarena.com/realme_c51s-13130.php
+
+[CORPO]
+  Dimensões: 167.2 x 76.7 x 7.5 mm (6.58 x 3.02 x 0.30 in)
+  Peso: 182 g (6.42 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (peak)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 91
+Modelo: 12
+URL: https://www.gsmarena.com/realme_12-12861.php
+
+[CORPO]
+  Dimensões: 165.6 x 76.1 x 7.7 mm (6.52 x 3.00 x 0.30 in)
+  Peso: 188 g (6.63 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 800 nits (typ), 950 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 92
+Modelo: 12+
+URL: https://www.gsmarena.com/realme_12+-12821.php
+
+[CORPO]
+  Dimensões: 163 x 75.5 x 7.9 mm (6.42 x 2.97 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: Glass front, silicone polymer back (eco leather), plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, HDR10+, 600 nits (typ), 2000 nits (peak)
+  Tamanho: 6.67 inches, 107.4 cm2 (~87.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 93
+Modelo: 12 Pro+
+URL: https://www.gsmarena.com/realme_12_pro+-12804.php
+
+[CORPO]
+  Dimensões: 161.5 x 74 x 8.8 mm (6.36 x 2.91 x 0.35 in)
+  Peso: 196 g (6.91 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 800 nits (HBM), 950 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 94
+Modelo: 12 Pro
+URL: https://www.gsmarena.com/realme_12_pro-12810.php
+
+[CORPO]
+  Dimensões: 161.5 x 74 x 8.8 mm (6.36 x 2.91 x 0.35 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, 800 nits (HBM), 950 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 95
+Modelo: Note 50
+URL: https://www.gsmarena.com/realme_note_50-12799.php
+
+[CORPO]
+  Dimensões: 167.2 x 76.7 x 8 mm (6.58 x 3.02 x 0.31 in)
+  Peso: 186 g (6.56 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (peak)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 96
+Modelo: C67 4G
+URL: https://www.gsmarena.com/realme_c67_4g-12741.php
+
+[CORPO]
+  Dimensões: 164.6 x 75.4 x 7.6 mm (6.48 x 2.97 x 0.30 in)
+  Peso: 185 g (6.53 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 800 nits (typ), 950 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~87.8% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 97
+Modelo: C67
+URL: https://www.gsmarena.com/realme_c67-12728.php
+
+[CORPO]
+  Dimensões: 165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 550 nits (typ), 680 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.6% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 98
+Modelo: V50s
+URL: https://www.gsmarena.com/realme_v50s-12703.php
+
+[CORPO]
+  Dimensões: 165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.6% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 99
+Modelo: GT5 Pro
+URL: https://www.gsmarena.com/realme_gt5_pro-12646.php
+
+[CORPO]
+  Dimensões: 161.7 x 75.1 x 9.2 mm (6.37 x 2.96 x 0.36 in)
+  Peso: 218 g / 224 g (7.69 oz)
+  Construção: Glass front, glass back or silicone polymer back (eco leather), aluminum frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO AMOLED, 1B colors, 144Hz, HDR10+, Dolby Vision, 4500 nits (peak)
+  Tamanho: 6.78 inches, 111.7 cm2 (~92.0% screen-to-body ratio)
+  Resolução: 1264 x 2780 pixels (~450 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 100
+Modelo: Narzo 60x
+URL: https://www.gsmarena.com/realme_narzo_60x-12542.php
+
+[CORPO]
+  Dimensões: 165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 550 nits (typ), 680 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.6% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 101
+Modelo: GT5 240W
+URL: https://www.gsmarena.com/realme_gt5_240w-12529.php
+
+[CORPO]
+  Dimensões: 163.1 x 75.4 x 8.9 mm (6.42 x 2.97 x 0.35 in)
+  Peso: 205 g (7.23 oz)
+  Construção: Glass front, aluminum frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 1400 nits (peak)
+  Tamanho: 6.74 inches, 109.2 cm2 (~88.8% screen-to-body ratio)
+  Resolução: 1240 x 2772 pixels, 20:9 ratio (~451 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 102
+Modelo: GT5
+URL: https://www.gsmarena.com/realme_gt5-12528.php
+
+[CORPO]
+  Dimensões: 163.1 x 75.4 x 8.9 mm (6.42 x 2.97 x 0.35 in)
+  Peso: 205 g (7.23 oz)
+  Construção: Glass front, aluminum frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 1400 nits (peak)
+  Tamanho: 6.74 inches, 109.2 cm2 (~88.8% screen-to-body ratio)
+  Resolução: 1240 x 2772 pixels, 20:9 ratio (~451 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 103
+Modelo: 11x
+URL: https://www.gsmarena.com/realme_11x-12519.php
+
+[CORPO]
+  Dimensões: 165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in)
+  Peso: 190 g (6.70 oz)
+  Construção: Glass front, aluminum frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 550 nits (typ), 680 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.6% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 104
+Modelo: 11 4G
+URL: https://www.gsmarena.com/realme_11_4g-12445.php
+
+[CORPO]
+  Dimensões: 159.9 x 73.3 x 8 mm (6.30 x 2.89 x 0.31 in)
+  Peso: 178 g (6.28 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 90Hz, 1000 nits (peak)
+  Tamanho: 6.4 inches, 98.9 cm2 (~84.4% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~411 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 105
+Modelo: 11
+URL: https://www.gsmarena.com/realme_11-12444.php
+
+[CORPO]
+  Dimensões: 165.7 x 76 x 8.1 mm (6.52 x 2.99 x 0.32 in)
+  Peso: 190 g (6.70 oz)
+  Construção: Glass front, aluminum frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 550 nits (typ), 680 nits (HBM)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.6% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 106
+Modelo: C51
+URL: https://www.gsmarena.com/realme_c51-12527.php
+
+[CORPO]
+  Dimensões: 167.2 x 76.7 x 8 mm (6.58 x 3.02 x 0.31 in)
+  Peso: 186 g (6.56 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (peak)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 107
+Modelo: C53 (India)
+URL: https://www.gsmarena.com/realme_c53_(india)-12419.php
+
+[CORPO]
+  Dimensões: 167.2 x 76.7 x 8 mm (6.58 x 3.02 x 0.31 in)
+  Peso: 186 g (6.56 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (peak)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~390 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 108
+Modelo: GT3
+URL: https://www.gsmarena.com/realme_gt3-12120.php
+
+[CORPO]
+  Dimensões: 163.9 x 75.8 x 8.9 mm (6.45 x 2.98 x 0.35 in)
+  Peso: 199 g (7.02 oz)
+  Construção: Glass front, plastic frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 500 nits (typ), 1100 nits (HBM), 1400 nits (peak)
+  Tamanho: 6.74 inches, 109.2 cm2 (~87.9% screen-to-body ratio)
+  Resolução: 1240 x 2772 pixels, 20:9 ratio (~451 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 109
+Modelo: Narzo 60 Pro
+URL: https://www.gsmarena.com/realme_narzo_60_pro-12396.php
+
+[CORPO]
+  Dimensões: 161.6 x 73.9 x 8.2 mm or 8.7 mm
+  Peso: 185 g or 191 g (6.53 oz)
+  Construção: Glass front, eco leather or plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, HDR10+, 120Hz, 950 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.5% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: Double-reinforced glass
+
+----------------------------------------
+
+ID: 110
+Modelo: Narzo 60
+URL: https://www.gsmarena.com/realme_narzo_60-12395.php
+
+[CORPO]
+  Dimensões: 159.8 x 72.9 x 7.9 mm (6.29 x 2.87 x 0.31 in)
+  Peso: 182 g (6.42 oz)
+  Construção: Glass front (Gorilla Glass 5), eco leather or plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 90Hz
+  Tamanho: 6.43 inches, 99.8 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 111
+Modelo: C53
+URL: https://www.gsmarena.com/realme_c53-12310.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.5 mm (6.59 x 3.02 x 0.30 in)
+  Peso: 182 g (6.42 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 560 nits (peak)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~390 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 112
+Modelo: Narzo N53
+URL: https://www.gsmarena.com/realme_narzo_n53-12280.php
+
+[CORPO]
+  Dimensões: 167.3 x 76.7 x 7.5 mm (6.59 x 3.02 x 0.30 in)
+  Peso: 182 g (6.42 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 450 nits (peak)
+  Tamanho: 6.74 inches, 109.7 cm2 (~85.5% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~390 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 113
+Modelo: 11 Pro+
+URL: https://www.gsmarena.com/realme_11_pro+-12246.php
+
+[CORPO]
+  Dimensões: 161.6 x 73.9 x 8.2 mm or 8.7 mm
+  Peso: 183 g or 189 g (6.46 oz)
+  Construção: Glass front, leather or plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, HDR10+, 120Hz, 950 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.5% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 114
+Modelo: 11 Pro
+URL: https://www.gsmarena.com/realme_11_pro-12261.php
+
+[CORPO]
+  Dimensões: 161.7 x 73.9 x 8.2 mm or 8.8 mm
+  Peso: 183 g or 189 g (6.46 oz)
+  Construção: Glass front, leather or plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, HDR10+, 120Hz, 950 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 115
+Modelo: 11 (China)
+URL: https://www.gsmarena.com/realme_11_(china)-12262.php
+
+[CORPO]
+  Dimensões: 159.8 x 72.9 x 7.9 mm (6.29 x 2.87 x 0.31 in)
+  Peso: 182 g (6.42 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 90Hz, 1000 nits (peak)
+  Tamanho: 6.43 inches, 99.8 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 116
+Modelo: Narzo N55
+URL: https://www.gsmarena.com/realme_narzo_n55-12227.php
+
+[CORPO]
+  Dimensões: 165.6 x 75.9 x 7.9 mm (6.52 x 2.99 x 0.31 in)
+  Peso: 189.5 g (6.70 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 680 nits (peak)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 117
+Modelo: GT Neo5 SE
+URL: https://www.gsmarena.com/realme_gt_neo5_se-12187.php
+
+[CORPO]
+  Dimensões: 163.9 x 75.8 x 9 mm (6.45 x 2.98 x 0.35 in)
+  Peso: 193.1 g (6.81 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 144Hz, 1400 nits (peak)
+  Tamanho: 6.74 inches, 109.2 cm2 (~87.9% screen-to-body ratio)
+  Resolução: 1240 x 2772 pixels, 20:9 ratio (~451 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 118
+Modelo: 10T
+URL: https://www.gsmarena.com/realme_10t-12174.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.1 x 8.1 mm (6.47 x 2.96 x 0.32 in)
+  Peso: 187 g (6.60 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 400 nits (typ)
+  Tamanho: 6.6 inches, 104.9 cm2 (~85.0% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 119
+Modelo: C33 2023
+URL: https://www.gsmarena.com/realme_c33_2023-12173.php
+
+[CORPO]
+  Dimensões: 164.2 x 75.7 x 8.3 mm (6.46 x 2.98 x 0.33 in)
+  Peso: 187 g (6.60 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits (typ)
+  Tamanho: 6.5 inches, 102.0 cm2 (~82.1% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 120
+Modelo: C55
+URL: https://www.gsmarena.com/realme_c55-12159.php
+
+[CORPO]
+  Dimensões: 165.6 x 75.9 x 7.9 mm (6.52 x 2.99 x 0.31 in)
+  Peso: 189.5 g (6.70 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 680 nits (peak)
+  Tamanho: 6.72 inches, 109.0 cm2 (~86.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 121
+Modelo: GT Neo 5 240W
+URL: https://www.gsmarena.com/realme_gt_neo_5_240w-12067.php
+
+[CORPO]
+  Dimensões: 163.9 x 75.8 x 8.9 mm (6.45 x 2.98 x 0.35 in)
+  Peso: 199 g (7.02 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 1400 nits (peak)
+  Tamanho: 6.74 inches, 109.2 cm2 (~87.9% screen-to-body ratio)
+  Resolução: 1240 x 2772 pixels, 20:9 ratio (~451 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 122
+Modelo: GT Neo 5
+URL: https://www.gsmarena.com/realme_gt_neo_5-12066.php
+
+[CORPO]
+  Dimensões: 163.9 x 75.8 x 8.9 mm (6.45 x 2.98 x 0.35 in)
+  Peso: 199 g (7.02 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 144Hz, HDR10+, 1400 nits (peak)
+  Tamanho: 6.74 inches, 109.2 cm2 (~87.9% screen-to-body ratio)
+  Resolução: 1240 x 2772 pixels, 20:9 ratio (~451 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 123
+Modelo: V30
+URL: https://www.gsmarena.com/realme_v30-12114.php
+
+[CORPO]
+  Dimensões: 8.1 mm thickness
+  Peso: 186 g (6.56 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 600 nits
+  Tamanho: 6.5 inches, 102.0 cm2
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 124
+Modelo: 10s
+URL: https://www.gsmarena.com/realme_10s-12029.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.1 x 8.1 mm (6.47 x 2.96 x 0.32 in)
+  Peso: 191 g (6.74 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 400 nits (typ)
+  Tamanho: 6.6 inches, 104.9 cm2 (~85.0% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 125
+Modelo: V20
+URL: https://www.gsmarena.com/realme_v20-12025.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.1 x 8.1 mm (6.47 x 2.96 x 0.32 in)
+  Peso: 184 g (6.49 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits (typ)
+  Tamanho: 6.5 inches, 102.0 cm2 (~82.6% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 126
+Modelo: 10 Pro+
+URL: https://www.gsmarena.com/realme_10_pro+-11952.php
+
+[CORPO]
+  Dimensões: 161.5 x 73.9 x 7.8 mm or 8 mm
+  Peso: 173 g / 175 g (6.10 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, HDR10+, 120Hz, 800 nits
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.5% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 127
+Modelo: 10 Pro
+URL: https://www.gsmarena.com/realme_10_pro-11978.php
+
+[CORPO]
+  Dimensões: 163.7 x 74.2 x 8.1 mm or 8.3 mm
+  Peso: 190 g / 192 g (6.70 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 600 nits (typ), 680 nits (peak)
+  Tamanho: 6.72 inches, 109.0 cm2 (~89.8% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 128
+Modelo: 10 5G
+URL: https://www.gsmarena.com/realme_10_5g-11951.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.1 x 8.1 mm (6.47 x 2.96 x 0.32 in)
+  Peso: 191 g (6.74 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 400 nits (typ)
+  Tamanho: 6.6 inches, 104.9 cm2 (~85.0% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 129
+Modelo: 10
+URL: https://www.gsmarena.com/realme_10-11950.php
+
+[CORPO]
+  Dimensões: 159.9 x 73.3 x 8 mm (6.30 x 2.89 x 0.31 in)
+  Peso: 178 g (6.28 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 90Hz, 1000 nits (peak)
+  Tamanho: 6.4 inches, 98.9 cm2 (~84.4% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~411 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 130
+Modelo: C30s
+URL: https://www.gsmarena.com/realme_c30s-11878.php
+
+[CORPO]
+  Dimensões: 164.2 x 75.7 x 8.5 mm (6.46 x 2.98 x 0.33 in)
+  Peso: 186 g (6.56 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD
+  Tamanho: 6.5 inches, 102.0 cm2 (~82.1% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 131
+Modelo: C33
+URL: https://www.gsmarena.com/realme_c33-11849.php
+
+[CORPO]
+  Dimensões: 164.2 x 75.7 x 8.3 mm (6.46 x 2.98 x 0.33 in)
+  Peso: 187 g (6.60 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits (typ)
+  Tamanho: 6.5 inches, 102.0 cm2 (~82.1% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 132
+Modelo: 9i 5G
+URL: https://www.gsmarena.com/realme_9i_5g-11769.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.1 x 8.1 mm (6.47 x 2.96 x 0.32 in)
+  Peso: 187 g (6.60 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 400 nits (typ)
+  Tamanho: 6.6 inches, 104.9 cm2 (~85.0% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: Panda Glass
+
+----------------------------------------
+
+ID: 133
+Modelo: GT2 Explorer Master
+URL: https://www.gsmarena.com/realme_gt2_explorer_master-11613.php
+
+[CORPO]
+  Dimensões: 161.3 x 74.3 x 8.2 mm (6.35 x 2.93 x 0.32 in)
+  Peso: 195 g (6.88 oz)
+  Construção: Glass front, ceramic back or eco leather back, aluminum frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: OLED, 1B colors, 120Hz, HDR10+
+  Tamanho: 6.7 inches, 108.4 cm2 (~90.4% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~393 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 134
+Modelo: Narzo 50i Prime
+URL: https://www.gsmarena.com/realme_narzo_50i_prime-11630.php
+
+[CORPO]
+  Dimensões: 164.1 x 75.6 x 8.5 mm (6.46 x 2.98 x 0.33 in)
+  Peso: 182 g (6.42 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits (typ)
+  Tamanho: 6.5 inches, 102.0 cm2 (~82.2% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 135
+Modelo: C30
+URL: https://www.gsmarena.com/realme_c30-11621.php
+
+[CORPO]
+  Dimensões: 164.1 x 75.6 x 8.5 mm (6.46 x 2.98 x 0.33 in)
+  Peso: 182 g (6.42 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits
+  Tamanho: 6.5 inches, 102.0 cm2 (~82.2% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 136
+Modelo: GT Neo 3T
+URL: https://www.gsmarena.com/realme_gt_neo_3t-11609.php
+
+[CORPO]
+  Dimensões: 162.9 x 75.8 x 8.7 mm (6.41 x 2.98 x 0.34 in)
+  Peso: 194.5 g (6.88 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, HDR10+, 1300 nits (peak)
+  Tamanho: 6.62 inches, 105.8 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~398 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 137
+Modelo: Narzo 50 Pro
+URL: https://www.gsmarena.com/realme_narzo_50_pro-11532.php
+
+[CORPO]
+  Dimensões: 160.2 x 73.3 x 8 mm (6.31 x 2.89 x 0.31 in)
+  Peso: 181 g (6.38 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 90Hz
+  Tamanho: 6.4 inches, 98.9 cm2 (~84.2% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~411 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 138
+Modelo: Narzo 50 5G
+URL: https://www.gsmarena.com/realme_narzo_50_5g-11518.php
+
+[CORPO]
+  Dimensões: 163.8 x 75.1 x 8.1 mm (6.45 x 2.96 x 0.32 in)
+  Peso: 190 g (6.70 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 600 nits
+  Tamanho: 6.6 inches, 104.9 cm2 (~85.3% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 139
+Modelo: 9 5G
+URL: https://www.gsmarena.com/realme_9_5g-11514.php
+
+[CORPO]
+  Dimensões: 164.3 x 75.6 x 8.5 mm (6.47 x 2.98 x 0.33 in)
+  Peso: 191 g (6.74 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 600 nits (peak)
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 140
+Modelo: V23i
+URL: https://www.gsmarena.com/realme_v23i-12026.php
+
+[CORPO]
+  Dimensões: 163.8 x 75.1 x 8.1 mm (6.45 x 2.96 x 0.32 in)
+  Peso: 185 g (6.53 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz
+  Tamanho: 6.56 inches, 104.2 cm2 (~84.7% screen-to-body ratio)
+  Resolução: 720 x 1612 pixels, 20:9 ratio (~268 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 141
+Modelo: V23
+URL: https://www.gsmarena.com/realme_v23-11477.php
+
+[CORPO]
+  Dimensões: 163.8 x 75.1 x 8.1 mm (6.45 x 2.96 x 0.32 in)
+  Peso: 190 g (6.70 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 600 nits (HBM)
+  Tamanho: 6.58 inches, 104.3 cm2 (~84.8% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~401 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 142
+Modelo: Q5 Pro
+URL: https://www.gsmarena.com/realme_q5_pro-11475.php
+
+[CORPO]
+  Dimensões: 162.9 x 75.8 x 8.7 mm (6.41 x 2.98 x 0.34 in)
+  Peso: 194.5 g (6.88 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, HDR10+, 1300 nits (peak)
+  Tamanho: 6.62 inches, 105.8 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~398 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 143
+Modelo: Q5
+URL: https://www.gsmarena.com/realme_q5-11480.php
+
+[CORPO]
+  Dimensões: 164.3 x 75.6 x 8.5 mm (6.47 x 2.98 x 0.33 in)
+  Peso: 195 g (6.88 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 600 nits (peak)
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 144
+Modelo: Q5i
+URL: https://www.gsmarena.com/realme_q5i-11474.php
+
+[CORPO]
+  Dimensões: 8.1 mm thickness
+  Peso: -
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 600 nits
+  Tamanho: 6.58 inches, 104.0 cm2 (~84.6% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~401 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 145
+Modelo: 9
+URL: https://www.gsmarena.com/realme_9-11465.php
+
+[CORPO]
+  Dimensões: 160.2 x 73.3 x 8 mm (6.31 x 2.89 x 0.31 in)
+  Peso: 178 g (6.28 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 90Hz, 430 nits (typ), 1000 nits (peak)
+  Tamanho: 6.4 inches, 98.9 cm2 (~84.2% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~411 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 146
+Modelo: C31
+URL: https://www.gsmarena.com/realme_c31-11437.php
+
+[CORPO]
+  Dimensões: 164.7 x 76.1 x 8.4 mm (6.48 x 3.00 x 0.33 in)
+  Peso: 197 g (6.95 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits
+  Tamanho: 6.5 inches, 102.0 cm2 (~81.4% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: Panda Glass
+
+----------------------------------------
+
+ID: 147
+Modelo: GT Neo 3 150W
+URL: https://www.gsmarena.com/realme_gt_neo_3_150w-11597.php
+
+[CORPO]
+  Dimensões: 163.3 x 75.6 x 8.2 mm (6.43 x 2.98 x 0.32 in)
+  Peso: 188 g (6.63 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, HDR10+
+  Tamanho: 6.7 inches, 108.0 cm2 (~87.5% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 148
+Modelo: GT Neo 3
+URL: https://www.gsmarena.com/realme_gt_neo_3-11436.php
+
+[CORPO]
+  Dimensões: 163.3 x 75.6 x 8.2 mm (6.43 x 2.98 x 0.32 in)
+  Peso: 188 g (6.63 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic frame, glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, 120Hz, HDR10+
+  Tamanho: 6.7 inches, 108.0 cm2 (~87.5% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 149
+Modelo: Narzo 50A Prime
+URL: https://www.gsmarena.com/realme_narzo_50a_prime-11435.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.6 x 8.1 mm (6.47 x 2.98 x 0.32 in)
+  Peso: 189 g (6.67 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 600 nits (peak)
+  Tamanho: 6.6 inches, 104.9 cm2 (~84.4% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 150
+Modelo: 9 5G (India)
+URL: https://www.gsmarena.com/realme_9_5g_(india)-11415.php
+
+[CORPO]
+  Dimensões: 162.6 x 74.8 x 8.5 mm (6.40 x 2.94 x 0.33 in)
+  Peso: 188 g (6.63 oz)
+  Construção: Glass front, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM)
+  Tamanho: 6.5 inches, 102.0 cm2 (~83.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~405 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 151
+Modelo: 9 5G Speed
+URL: https://www.gsmarena.com/realme_9_5g_speed-11414.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.8 x 8.5 mm (6.47 x 2.98 x 0.33 in)
+  Peso: 199 g (7.02 oz)
+  Construção: Glass front (Panda Glass), plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 480 nits (typ), 600 nits (HBM)
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.1% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: Panda Glass
+
+----------------------------------------
+
+ID: 152
+Modelo: V25
+URL: https://www.gsmarena.com/realme_v25-11400.php
+
+[CORPO]
+  Dimensões: 164.3 x 75.6 x 8.5 mm (6.47 x 2.98 x 0.33 in)
+  Peso: 195 g (6.88 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 153
+Modelo: Narzo 50
+URL: https://www.gsmarena.com/realme_narzo_50-11377.php
+
+[CORPO]
+  Dimensões: 164.1 x 75.5 x 8.5 mm (6.46 x 2.97 x 0.33 in)
+  Peso: 194 g (6.84 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.6% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 154
+Modelo: 9 Pro+
+URL: https://www.gsmarena.com/realme_9_pro+-11327.php
+
+[CORPO]
+  Dimensões: 160.2 x 73.3 x 8 mm (6.31 x 2.89 x 0.31 in)
+  Peso: 182 g (6.42 oz)
+  Construção: Glass front (Gorilla Glass 5), glass back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 90Hz, 430 nits (typ), 600 nits (HBM)
+  Tamanho: 6.4 inches, 98.9 cm2 (~84.2% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~411 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 155
+Modelo: 9 Pro
+URL: https://www.gsmarena.com/realme_9_pro-11317.php
+
+[CORPO]
+  Dimensões: 164.3 x 75.6 x 8.5 mm (6.47 x 2.98 x 0.33 in)
+  Peso: 195 g (6.88 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.4% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 156
+Modelo: C35
+URL: https://www.gsmarena.com/realme_c35-11353.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.6 x 8.1 mm (6.47 x 2.98 x 0.32 in)
+  Peso: 189 g (6.67 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 480 nits (typ), 600 nits (HBM)
+  Tamanho: 6.6 inches, 104.4 cm2 (~84.0% screen-to-body ratio)
+  Resolução: 1080 x 2408 pixels, 20:9 ratio (~401 ppi density)
+  Proteção: Panda Glass
+
+----------------------------------------
+
+ID: 157
+Modelo: 9i
+URL: https://www.gsmarena.com/realme_9i-11259.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.7 x 8.4 mm (6.47 x 2.98 x 0.33 in)
+  Peso: 190 g (6.70 oz)
+  Construção: Glass front (Dragontrail Pro), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 480 nits (typ)
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.2% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: Dragontrail Pro Glass
+
+----------------------------------------
+
+ID: 158
+Modelo: GT2 Pro
+URL: https://www.gsmarena.com/realme_gt2_pro-11228.php
+
+[CORPO]
+  Dimensões: 163.2 x 74.7 x 8.2 mm (6.43 x 2.94 x 0.32 in)
+  Peso: 189 / 199 g (6.67 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: LTPO2 AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 800 nits (HBM), 1400 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~88.6% screen-to-body ratio)
+  Resolução: 1440 x 3216 pixels, 20:9 ratio (~526 ppi density)
+  Proteção: Corning Gorilla Glass Victus
+
+----------------------------------------
+
+ID: 159
+Modelo: GT2
+URL: https://www.gsmarena.com/realme_gt2-11307.php
+
+[CORPO]
+  Dimensões: 162.9 x 75.8 x 8.6 mm (6.41 x 2.98 x 0.34 in)
+  Peso: 194.5 / 199.8 g (6.88 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, HDR10+, 1300 nits (peak)
+  Tamanho: 6.62 inches, 105.8 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~398 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 160
+Modelo: Q3t
+URL: https://www.gsmarena.com/realme_q3t-11208.php
+
+[CORPO]
+  Dimensões: -
+  Peso: -
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 600 nits
+  Tamanho: 6.6 inches, 104.8 cm2
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 161
+Modelo: GT Neo2T
+URL: https://www.gsmarena.com/realme_gt_neo2t-11163.php
+
+[CORPO]
+  Dimensões: 158.5 x 73.3 x 8.4 mm (6.24 x 2.89 x 0.33 in)
+  Peso: 186 g (6.56 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 120Hz, 1000 nits (peak)
+  Tamanho: 6.43 inches, 99.8 cm2 (~85.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 162
+Modelo: Q3s
+URL: https://www.gsmarena.com/realme_q3s-11156.php
+
+[CORPO]
+  Dimensões: 164.4 x 75.8 x 8.5 mm (6.47 x 2.98 x 0.33 in)
+  Peso: 199 g (7.02 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 144Hz, 600 nits
+  Tamanho: 6.6 inches, 104.3 cm2 (~83.7% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~401 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 163
+Modelo: Narzo 50A
+URL: https://www.gsmarena.com/realme_narzo_50a-11071.php
+
+[CORPO]
+  Dimensões: 164.5 x 75.9 x 9.6 mm (6.48 x 2.99 x 0.38 in)
+  Peso: 207 g (7.30 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 570 nits (HBM)
+  Tamanho: 6.5 inches, 102.0 cm2 (~81.7% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 164
+Modelo: Narzo 50i
+URL: https://www.gsmarena.com/realme_narzo_50i-11123.php
+
+[CORPO]
+  Dimensões: 165.2 x 76.4 x 8.9 mm (6.50 x 3.01 x 0.35 in)
+  Peso: 195 g (6.88 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits (typ)
+  Tamanho: 6.5 inches, 102.0 cm2 (~80.8% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 165
+Modelo: V11s 5G
+URL: https://www.gsmarena.com/realme_v11s_5g-11122.php
+
+[CORPO]
+  Dimensões: 8.4 mm thickness
+  Peso: 189 g (6.67 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD
+  Tamanho: 6.5 inches, 102.0 cm2
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 166
+Modelo: GT Neo2
+URL: https://www.gsmarena.com/realme_gt_neo2-11074.php
+
+[CORPO]
+  Dimensões: 162.9 x 75.8 x 9 mm (6.41 x 2.98 x 0.35 in)
+  Peso: 199.8 g (7.05 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 120Hz, HDR10+, 1300 nits (peak)
+  Tamanho: 6.62 inches, 105.8 cm2 (~85.7% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~398 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 167
+Modelo: C25Y
+URL: https://www.gsmarena.com/realme_c25y-11109.php
+
+[CORPO]
+  Dimensões: 164.5 x 76 x 9.1 mm (6.48 x 2.99 x 0.36 in)
+  Peso: 200 g (7.05 oz)
+  Construção: Glass front, plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 420 nits (typ)
+  Tamanho: 6.5 inches, 102.0 cm2 (~81.6% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 168
+Modelo: 8s 5G
+URL: https://www.gsmarena.com/realme_8s_5g-11078.php
+
+[CORPO]
+  Dimensões: 162.5 x 74.8 x 8.8 mm (6.40 x 2.94 x 0.35 in)
+  Peso: 191 g (6.74 oz)
+  Construção: N/A
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 600 nits (peak)
+  Tamanho: 6.5 inches, 102.0 cm2 (~83.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~405 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 169
+Modelo: 8i
+URL: https://www.gsmarena.com/realme_8i-11069.php
+
+[CORPO]
+  Dimensões: 164.1 x 75.5 x 8.5 mm (6.46 x 2.97 x 0.33 in)
+  Peso: 194 g (6.84 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 120Hz, 600 nits (peak)
+  Tamanho: 6.6 inches, 104.8 cm2 (~84.6% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 170
+Modelo: GT Explorer Master
+URL: https://www.gsmarena.com/realme_gt_explorer_master-11023.php
+
+[CORPO]
+  Dimensões: 159.9 mm x 72.5 mm x 8.0/8.8 mm (depending on color)
+  Peso: 183.5/185 g (depending on color) (6.49 oz)
+  Construção: Glass front (Gorilla Glass 5), plastic back, aluminum frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 120Hz, HDR10+, 1100 nits (peak)
+  Tamanho: 6.55 inches, 103.6 cm2 (~89.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~402 ppi density)
+  Proteção: Corning Gorilla Glass 5
+
+----------------------------------------
+
+ID: 171
+Modelo: GT Master
+URL: https://www.gsmarena.com/realme_gt_master-11001.php
+
+[CORPO]
+  Dimensões: 159.2 mm x 73.5 mm x 8.0/8.7 mm (depending on color)
+  Peso: 174/180 g (depending on color) (6.14 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 120Hz, 1000 nits (peak)
+  Tamanho: 6.43 inches, 99.8 cm2 (~85.3% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 172
+Modelo: C21Y
+URL: https://www.gsmarena.com/realme_c21y-10999.php
+
+[CORPO]
+  Dimensões: 164.5 x 76 x 9.1 mm (6.48 x 2.99 x 0.36 in)
+  Peso: 200 g (7.05 oz)
+  Construção: Glass front, plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits (typ)
+  Tamanho: 6.5 inches, 102.0 cm2 (~81.6% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 173
+Modelo: C11 (2021)
+URL: https://www.gsmarena.com/realme_c11_(2021)-10890.php
+
+[CORPO]
+  Dimensões: 165.2 x 76.4 x 8.9 mm (6.50 x 3.01 x 0.35 in)
+  Peso: 190 g (6.70 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 400 nits (typ)
+  Tamanho: 6.52 inches, 102.6 cm2 (~81.3% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~269 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 174
+Modelo: C25s
+URL: https://www.gsmarena.com/realme_c25s-10936.php
+
+[CORPO]
+  Dimensões: 164.5 x 75.9 x 9.6 mm (6.48 x 2.99 x 0.38 in)
+  Peso: 209 g (7.37 oz)
+  Construção: Glass front, plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 480 nits (typ), 570 nits (peak)
+  Tamanho: 6.5 inches, 102.0 cm2 (~81.7% screen-to-body ratio)
+  Resolução: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 175
+Modelo: X7 Max 5G
+URL: https://www.gsmarena.com/realme_x7_max_5g-10883.php
+
+[CORPO]
+  Dimensões: 158.5 x 73.3 x 8.4 mm (6.24 x 2.89 x 0.33 in)
+  Peso: 179 g (6.31 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: Super AMOLED, 120Hz, 1000 nits (peak)
+  Tamanho: 6.43 inches, 99.8 cm2 (~85.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)
+  Proteção: Dragontrail Glass
+
+----------------------------------------
+
+ID: 176
+Modelo: Narzo 30 5G
+URL: https://www.gsmarena.com/realme_narzo_30_5g-10928.php
+
+[CORPO]
+  Dimensões: 162.5 x 74.8 x 8.5 mm (6.40 x 2.94 x 0.33 in)
+  Peso: 185 g (6.53 oz)
+  Construção: Glass front, plastic frame, plastic back
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: IPS LCD, 90Hz, 480 nits (typ), 600 nits (peak)
+  Tamanho: 6.5 inches, 102.0 cm2 (~83.9% screen-to-body ratio)
+  Resolução: 1080 x 2400 pixels, 20:9 ratio (~405 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 177
+Modelo: Q3 Pro Carnival
+URL: https://www.gsmarena.com/realme_q3_pro_carnival-10923.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 178
+Modelo: GT Neo Flash
+URL: https://www.gsmarena.com/realme_gt_neo_flash-10921.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 179
+Modelo: Narzo 30
+URL: https://www.gsmarena.com/realme_narzo_30-10911.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 180
+Modelo: C20A
+URL: https://www.gsmarena.com/realme_c20a-10901.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 181
+Modelo: Q3 Pro 5G
+URL: https://www.gsmarena.com/realme_q3_pro_5g-10871.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 182
+Modelo: Q3 5G
+URL: https://www.gsmarena.com/realme_q3_5g-10870.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 183
+Modelo: Q3i 5G
+URL: https://www.gsmarena.com/realme_q3i_5g-10872.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 184
+Modelo: 8 5G
+URL: https://www.gsmarena.com/realme_8_5g-10846.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 185
+Modelo: X7 Pro Ultra
+URL: https://www.gsmarena.com/realme_x7_pro_ultra-10826.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 186
+Modelo: GT Neo
+URL: https://www.gsmarena.com/realme_gt_neo-10812.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 187
+Modelo: V13 5G
+URL: https://www.gsmarena.com/realme_v13_5g-10822.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 188
+Modelo: 8 Pro
+URL: https://www.gsmarena.com/realme_8_pro-10809.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 189
+Modelo: 8
+URL: https://www.gsmarena.com/realme_8-10810.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 190
+Modelo: C25
+URL: https://www.gsmarena.com/realme_c25-10793.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 191
+Modelo: C21
+URL: https://www.gsmarena.com/realme_c21-10759.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 192
+Modelo: GT 5G
+URL: https://www.gsmarena.com/realme_gt_5g-10689.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 193
+Modelo: Narzo 30 Pro 5G
+URL: https://www.gsmarena.com/realme_narzo_30_pro_5g-10736.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 194
+Modelo: Narzo 30A
+URL: https://www.gsmarena.com/realme_narzo_30a-10748.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 195
+Modelo: V11 5G
+URL: https://www.gsmarena.com/realme_v11_5g-10722.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 196
+Modelo: C20
+URL: https://www.gsmarena.com/realme_c20-10690.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 197
+Modelo: X7 (India)
+URL: https://www.gsmarena.com/realme_x7_(india)-10717.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 198
+Modelo: V15 5G
+URL: https://www.gsmarena.com/realme_v15_5g-10664.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 199
+Modelo: 7i (Global)
+URL: https://www.gsmarena.com/realme_7i_(global)-10650.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 200
+Modelo: 7 5G
+URL: https://www.gsmarena.com/realme_7_5g-10590.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 201
+Modelo: C15 Qualcomm Edition
+URL: https://www.gsmarena.com/realme_c15_qualcomm_edition-10560.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 202
+Modelo: Q2 Pro
+URL: https://www.gsmarena.com/realme_q2_pro-10505.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 203
+Modelo: Q2
+URL: https://www.gsmarena.com/realme_q2-10506.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 204
+Modelo: Q2i
+URL: https://www.gsmarena.com/realme_q2i-10507.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 205
+Modelo: 7
+URL: https://www.gsmarena.com/realme_7-10495.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 206
+Modelo: Narzo 20 Pro
+URL: https://www.gsmarena.com/realme_narzo_20_pro-10455.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 207
+Modelo: Narzo 20
+URL: https://www.gsmarena.com/realme_narzo_20-10456.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 208
+Modelo: Narzo 20A
+URL: https://www.gsmarena.com/realme_narzo_20a-10457.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 209
+Modelo: C17
+URL: https://www.gsmarena.com/realme_c17-10439.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 210
+Modelo: 7i
+URL: https://www.gsmarena.com/realme_7i-10430.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 211
+Modelo: 7 Pro
+URL: https://www.gsmarena.com/realme_7_pro-10400.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 212
+Modelo: 7 (Asia)
+URL: https://www.gsmarena.com/realme_7_(asia)-10416.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 213
+Modelo: X7 Pro
+URL: https://www.gsmarena.com/realme_x7_pro-10380.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 214
+Modelo: X7
+URL: https://www.gsmarena.com/realme_x7-10408.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 215
+Modelo: V3
+URL: https://www.gsmarena.com/realme_v3-10409.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 216
+Modelo: C12
+URL: https://www.gsmarena.com/realme_c12-10369.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 217
+Modelo: V5 5G
+URL: https://www.gsmarena.com/realme_v5_5g-10352.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 218
+Modelo: C15
+URL: https://www.gsmarena.com/realme_c15-10326.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 219
+Modelo: 6i (India)
+URL: https://www.gsmarena.com/realme_6i_(india)-10331.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 220
+Modelo: X50 5G
+URL: https://www.gsmarena.com/realme_x50_5g-10319.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 221
+Modelo: C11
+URL: https://www.gsmarena.com/realme_c11-10308.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 222
+Modelo: X3
+URL: https://www.gsmarena.com/realme_x3-10198.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 223
+Modelo: C3i
+URL: https://www.gsmarena.com/realme_c3i-10310.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 224
+Modelo: Narzo
+URL: https://www.gsmarena.com/realme_narzo-10309.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 225
+Modelo: X3 SuperZoom
+URL: https://www.gsmarena.com/realme_x3_superzoom-10250.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 226
+Modelo: 6S
+URL: https://www.gsmarena.com/realme_6s-10268.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 227
+Modelo: X50 Pro Player
+URL: https://www.gsmarena.com/realme_x50_pro_player-10248.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 228
+Modelo: Narzo 10
+URL: https://www.gsmarena.com/realme_narzo_10-10145.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 229
+Modelo: Narzo 10A
+URL: https://www.gsmarena.com/realme_narzo_10a-10234.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 230
+Modelo: X50m 5G
+URL: https://www.gsmarena.com/realme_x50m_5g-10197.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 231
+Modelo: 6i
+URL: https://www.gsmarena.com/realme_6i-10130.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 232
+Modelo: 6 Pro
+URL: https://www.gsmarena.com/realme_6_pro-10114.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 233
+Modelo: 6
+URL: https://www.gsmarena.com/realme_6-10113.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 234
+Modelo: X50 Pro 5G
+URL: https://www.gsmarena.com/realme_x50_pro_5g-10097.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 235
+Modelo: C3 (3 cameras)
+URL: https://www.gsmarena.com/realme_c3_(3_cameras)-10089.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 236
+Modelo: C3
+URL: https://www.gsmarena.com/realme_c3-10056.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 237
+Modelo: X50 5G (China)
+URL: https://www.gsmarena.com/realme_x50_5g_(china)-9990.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 238
+Modelo: 5i
+URL: https://www.gsmarena.com/realme_5i-10010.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 239
+Modelo: 5s
+URL: https://www.gsmarena.com/realme_5s-9969.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 240
+Modelo: C2s
+URL: https://www.gsmarena.com/realme_c2s-10015.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 241
+Modelo: C2 2020
+URL: https://www.gsmarena.com/realme_c2_2020-9957.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 242
+Modelo: X2 Pro
+URL: https://www.gsmarena.com/realme_x2_pro-9904.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 243
+Modelo: X2
+URL: https://www.gsmarena.com/realme_x2-9879.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 244
+Modelo: XT
+URL: https://www.gsmarena.com/realme_xt-9813.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 245
+Modelo: Q
+URL: https://www.gsmarena.com/realme_q-9838.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 246
+Modelo: 5 Pro
+URL: https://www.gsmarena.com/realme_5_pro-9801.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 247
+Modelo: 5
+URL: https://www.gsmarena.com/realme_5-9802.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 248
+Modelo: 3i
+URL: https://www.gsmarena.com/realme_3i-9768.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 249
+Modelo: X
+URL: https://www.gsmarena.com/realme_x-9700.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 250
+Modelo: 3 Pro
+URL: https://www.gsmarena.com/realme_3_pro-9669.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 251
+Modelo: C2
+URL: https://www.gsmarena.com/realme_c2-9670.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 252
+Modelo: 3
+URL: https://www.gsmarena.com/realme_3-9558.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 253
+Modelo: C1 (2019)
+URL: https://www.gsmarena.com/realme_c1_(2019)-9539.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 254
+Modelo: U1
+URL: https://www.gsmarena.com/realme_u1-9413.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 255
+Modelo: 2 Pro
+URL: https://www.gsmarena.com/realme_2_pro-9345.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 256
+Modelo: C1
+URL: https://www.gsmarena.com/realme_c1-9346.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 257
+Modelo: 2
+URL: https://www.gsmarena.com/realme_2-9299.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 258
+Modelo: 1
+URL: https://www.gsmarena.com/realme_1-9200.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 259
+Modelo: V21
+URL: https://www.gsmarena.com/realme_v21-11409.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 260
+Modelo: X9 Pro
+URL: https://www.gsmarena.com/realme_x9_pro-10964.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 261
+Modelo: X9
+URL: https://www.gsmarena.com/realme_x9-10688.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+
+ID: 262
+Modelo: XT 730G
+URL: https://www.gsmarena.com/realme_xt_730g-9863.php
+
+[CORPO]
+  Dimensões: N/A
+  Peso: N/A
+  Construção: N/A
+  SIM: N/A
+
+[TELA]
+  Tipo: N/A
+  Tamanho: N/A
+  Resolução: N/A
+  Proteção: N/A
+
+Erro: HTTP 429 Too Many Requests
+
+----------------------------------------
+

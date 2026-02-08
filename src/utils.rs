@@ -60,38 +60,44 @@ pub fn save_details_to_csv(details: &[PhoneDetails], filename: &str) -> Result<(
 pub fn save_details_to_txt(details: &[PhoneDetails], filename: &str) -> Result<(), Box<dyn std::error::Error>> {
     let mut file = File::create(filename)?;
     
-    writeln!(file, "DETALHES DE DISPLAY - SMARTPHONES SAMSUNG")?;
+    writeln!(file, "SPECIFICAÇÕES DE TELA E CORPO")?;
     writeln!(file, "=========================================\n")?;
     
     let successful: Vec<&PhoneDetails> = details.iter()
-        .filter(|d| d.has_display_info())
+        .filter(|d| d.has_specs())
         .collect();
     
     let failed: Vec<&PhoneDetails> = details.iter()
-        .filter(|d| !d.has_display_info())
+        .filter(|d| !d.has_specs())
         .collect();
     
     writeln!(file, "RESUMO:")?;
-    writeln!(file, "  • Completos: {}", successful.len())?;
-    writeln!(file, "  • Falhos: {}", failed.len())?;
+    writeln!(file, "  • Com dados: {}", successful.len())?;
+    writeln!(file, "  • Sem dados: {}", failed.len())?;
     writeln!(file)?;
     
     for detail in details {
         writeln!(file, "ID: {}", detail.phone_id)?;
         writeln!(file, "Modelo: {}", detail.model)?;
-        writeln!(file, "Ratio: {}", detail.display_ratio.as_deref().unwrap_or("N/A"))?;
-        writeln!(file, "Área: {} cm²", detail.display_area_cm2.as_deref().unwrap_or("N/A"))?;
-        writeln!(file, "Resolução: {}", detail.resolution.as_deref().unwrap_or("N/A"))?;
-        writeln!(file, "Tamanho: {}", detail.screen_size.as_deref().unwrap_or("N/A"))?;
-        writeln!(file, "PPI: {}", detail.ppi.as_deref().unwrap_or("N/A"))?;
         writeln!(file, "URL: {}", detail.url)?;
-        writeln!(file, "Status HTTP: {}", detail.status_code)?;
+        
+        writeln!(file, "\n[CORPO]")?;
+        writeln!(file, "  Dimensões: {}", detail.body_dimensions.as_deref().unwrap_or("N/A"))?;
+        writeln!(file, "  Peso: {}", detail.body_weight.as_deref().unwrap_or("N/A"))?;
+        writeln!(file, "  Construção: {}", detail.body_build.as_deref().unwrap_or("N/A"))?;
+        writeln!(file, "  SIM: {}", detail.sim.as_deref().unwrap_or("N/A"))?;
+        
+        writeln!(file, "\n[TELA]")?;
+        writeln!(file, "  Tipo: {}", detail.display_type.as_deref().unwrap_or("N/A"))?;
+        writeln!(file, "  Tamanho: {}", detail.display_size.as_deref().unwrap_or("N/A"))?;
+        writeln!(file, "  Resolução: {}", detail.resolution.as_deref().unwrap_or("N/A"))?;
+        writeln!(file, "  Proteção: {}", detail.protection.as_deref().unwrap_or("N/A"))?;
         
         if let Some(error) = &detail.error_message {
-            writeln!(file, "Erro: {}", error)?;
+            writeln!(file, "\nErro: {}", error)?;
         }
         
-        writeln!(file, "---")?;
+        writeln!(file, "\n----------------------------------------\n")?;
     }
     
     println!("📝 Relatório salvo em: {}", filename);

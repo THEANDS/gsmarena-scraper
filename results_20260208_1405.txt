@@ -1,0 +1,43 @@
+SPECIFICAÇÕES DE TELA E CORPO
+=========================================
+
+RESUMO:
+  • Com dados: 2
+  • Sem dados: 0
+
+ID: 1
+Modelo: Realme GT5 Pro
+URL: https://www.gsmarena.com/realme_gt5_pro-12711.php
+
+[CORPO]
+  Dimensões: 47.6 x 41.1 x 10.5 mm (1.87 x 1.62 x 0.41 in)
+  Peso: 31.5 g (1.13 oz)
+  Construção: Plastic back, aluminum frame
+  SIM: No
+
+[TELA]
+  Tipo: AMOLED, 600 nits (peak)
+  Tamanho: 1.97 inches
+  Resolução: 450 x 390 pixels (~302 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
+ID: 2
+Modelo: Realme 11 Pro+
+URL: https://www.gsmarena.com/realme_11_pro+-12246.php
+
+[CORPO]
+  Dimensões: 161.6 x 73.9 x 8.2 mm or 8.7 mm
+  Peso: 183 g or 189 g (6.46 oz)
+  Construção: Glass front, leather or plastic back, plastic frame
+  SIM: Nano-SIM + Nano-SIM
+
+[TELA]
+  Tipo: AMOLED, 1B colors, HDR10+, 120Hz, 950 nits (peak)
+  Tamanho: 6.7 inches, 108.0 cm2 (~90.5% screen-to-body ratio)
+  Resolução: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)
+  Proteção: N/A
+
+----------------------------------------
+
